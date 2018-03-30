@@ -1,0 +1,15 @@
+.image {
+    &--full {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.bg--image {
+    &--top > div {
+        background-position: center top !important;
+    }
+    &--bottom > div {
+        background-position: center bottom !important;
+    }
+}

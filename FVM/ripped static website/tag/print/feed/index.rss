@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>print &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/print/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Hey, you&#8217;re walking on my ad!</title>
+		<link>http://localhost:8888/thinkfvm/blog/09/01/2013/hey-youre-walking-on-my-ad-2/</link>
+		<pubDate>Sun, 01 Sep 2013 15:49:02 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[media buying]]></category>
+		<category><![CDATA[media planning]]></category>
+		<category><![CDATA[print]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=3083</guid>
+		<description><![CDATA[I came across a cascading escalator advertisement the other day.]]></description>
+				<content:encoded><![CDATA[<p>I came across a cascading escalator advertisement the other day. The ad was rather simple, directing foot traffic to a nearby store, but I appreciated its unconventional approach. It got me thinking about all the clever ways that functional, everyday items are being brought into the fold of strategic advertising.</p>
+<p><img class="alignright size-medium wp-image-3084" alt="escalator02" src="http://www.thinkfvm.com/wp-content/uploads/escalator02-193x220.jpg" width="193" height="220" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/escalator02-193x220.jpg 193w, http://localhost:8888/thinkfvm/wp-content/uploads/escalator02.jpg 450w" sizes="(max-width: 193px) 100vw, 193px" /></p>
+<p>Now more than ever, advertising no longer ends with the conventional billboard or printed page (although they still have their place). Bourgeoning creativity mixed with seemingly boundless possibilities has brought us to an exciting and inventive period of advertising. The world is a canvas that agencies are painting in clever, thought-provoking ways. Should the message be right and the position advantageous, look out: no escalator, street light or park bench is safe!</p>
+<p>Here are some other <a href="http://www.creativeguerrillamarketing.com/guerrilla-marketing/unconventional-outdoor-advertising/" target="_blank">really cool examples</a> of unconventional guerrilla advertising tactics.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

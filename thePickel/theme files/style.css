@@ -1,0 +1,25 @@
+/*
+Theme Name: Pickel Web Design
+Author: Jordy Pickel
+Author URI: http://www.pickelwebdesign.com/
+Description: New Branded Theme for Pickel Web Design
+Version: 1.0
+*/
+
+@import "sass/main.css";
+
+#wpadminbar {
+    bottom:  0px !important;
+    top: auto !important;
+    opacity: 0;
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+}
+
+	#wpadminbar:hover {
+		opacity: 1;
+		transition: all 0.2s;
+		-webkit-transition: all 0.2s;
+		-moz-transition: all 0.2s;
+	}

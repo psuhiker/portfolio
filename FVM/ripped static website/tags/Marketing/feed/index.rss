@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Marketing &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tags/marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>BASF</title>
+		<link>http://localhost:8888/thinkfvm/portfolio/basf-termidor-he/</link>
+		<pubDate>Tue, 27 Oct 2015 05:57:59 +0000</pubDate>
+		<dc:creator><![CDATA[Tom O'Brien]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.thinkfvm.com/?post_type=case_study&#038;p=5372</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>CommVault</title>
+		<link>http://localhost:8888/thinkfvm/portfolio/commvault-total-value/</link>
+		<pubDate>Mon, 26 Oct 2015 17:50:42 +0000</pubDate>
+		<dc:creator><![CDATA[Jordy Pickel]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.thinkfvm.com/?post_type=case_study&#038;p=4986</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>BASF</title>
+		<link>http://localhost:8888/thinkfvm/portfolio/basf-smartsolutions/</link>
+		<pubDate>Sat, 24 Oct 2015 05:50:22 +0000</pubDate>
+		<dc:creator><![CDATA[Tom O'Brien]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.thinkfvm.com/?post_type=case_study&#038;p=5371</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>OCE</title>
+		<link>http://localhost:8888/thinkfvm/portfolio/oce-cmf/</link>
+		<pubDate>Fri, 23 Oct 2015 01:11:33 +0000</pubDate>
+		<dc:creator><![CDATA[Tom O'Brien]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.thinkfvm.com/?post_type=case_study&#038;p=5356</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Philadelphia Gear</title>
+		<link>http://localhost:8888/thinkfvm/portfolio/philly-gear-2/</link>
+		<pubDate>Tue, 20 Oct 2015 01:05:46 +0000</pubDate>
+		<dc:creator><![CDATA[Tom O'Brien]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.thinkfvm.com/?post_type=case_study&#038;p=5353</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>ESOP</title>
+		<link>http://localhost:8888/thinkfvm/portfolio/esop/</link>
+		<pubDate>Sat, 17 Oct 2015 06:24:18 +0000</pubDate>
+		<dc:creator><![CDATA[Tom O'Brien]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.thinkfvm.com/?post_type=case_study&#038;p=5374</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Univar</title>
+		<link>http://localhost:8888/thinkfvm/portfolio/univar-connectivity/</link>
+		<pubDate>Fri, 09 Oct 2015 17:49:38 +0000</pubDate>
+		<dc:creator><![CDATA[Jordy Pickel]]></dc:creator>
+		
+		<guid isPermaLink="false">http://www.thinkfvm.com/?post_type=case_study&#038;p=4984</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+	</channel>
+</rss>

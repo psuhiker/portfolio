@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Helen Smith &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/blog/author/hsmith/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Planning for a surprise</title>
+		<link>http://localhost:8888/thinkfvm/blog/08/03/2013/planning-for-a-surprise/</link>
+		<pubDate>Sat, 03 Aug 2013 18:19:15 +0000</pubDate>
+		<dc:creator><![CDATA[Helen Smith]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[FVM Life]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=3109</guid>
+		<description><![CDATA[As the Business Manager at FVM, it’s my job to make sure all the rules and regulations are followed.]]></description>
+				<content:encoded><![CDATA[<p>As the Business Manager at FVM, it’s my job to make sure all the rules and regulations are followed. Like fire drills. Twice a year, I send out an invite for our building’s planned drill. And no one ever takes them seriously.</p>
+<p>I’m not naming any names here, but some people evacuate themselves from the building five minutes early, so they can take the elevator down.</p>
+<p>Some people try and hide in the conference room with their laptop so they can keep working.</p>
+<p>And everyone takes their time collecting their personal belongings.</p>
+<p>I know we’re a busy agency, but fire drills are important and should be taken seriously. I’d love to see how everyone would react to an unplanned fire drill. Maybe next time I’ll scrap the invite and surprise them all…</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

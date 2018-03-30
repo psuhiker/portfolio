@@ -1,0 +1,84 @@
+footer {
+    background-color: $secondary-color;
+    background-image: url(../images/bg-crosshatch.png);
+    background-position: center;
+    background-size: 100px auto;
+    color: $white;
+    padding: $padding-xl 0;
+    text-shadow: $heavy-text-shadow;
+    line-height: 1em;
+    font-size: $font-size-sm;
+    a {
+        color: $white;
+        margin-bottom: $margin-default;
+        padding: 0 $padding-xs $padding-default 0;
+        display: block;
+        &:after {
+        	@include transition($default-transition);
+        	border-bottom: 1px solid $white;
+        	content: "";
+        	width: 0%;
+        	display: block;
+        	margin-left: 50%;
+        	margin-top: 4px;
+        }
+        &:hover {
+        	@include transition($default-transition);
+            color: $white;
+            text-decoration: none;
+            &:after {
+            	@include transition($default-transition);
+            	width: 90%;
+            	margin-left: 0%;
+            	margin-top: 4px;
+            	@media (max-width: #{$screen-sm-max}) {
+            	    width: 0;
+            	}
+            }
+        }
+    }
+    .menu {
+        ul {
+            padding: 0;
+            list-style: none;
+            li {
+            	font-family: $default-font;
+            	font-weight: 700;
+                pointer-events: none;
+                float: left;
+                width: 200px;
+                font-size: $font-size-default;
+                @media (max-width: #{$screen-xs-max}) {
+                    width: 50%;
+                }
+                a {
+                    text-decoration: none;
+                    padding-bottom: 0px;
+                    :after {
+                    	display: none;
+                    }
+                }
+                ul {
+                    padding: $padding-lg 0 0 0;
+                    margin: 0 0 $margin-lg 0;
+                    li {
+                    	font-weight: 400;
+                        float: none;
+                        pointer-events: initial;
+                        font-family: $default-font;
+                        font-size: $font-size-sm;
+                        a {
+                            text-decoration: none;
+                            &:hover {
+                            	text-decoration: none;
+                            }
+                            &:after {
+                            	display: block;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

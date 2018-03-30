@@ -1,0 +1,14 @@
+body.processing {
+	display: table;
+	height: 100%;
+	width: 100%;
+	background-color: $tertiary-color-2;
+	position: absolute;
+	text-align: center;
+	.inner {
+		display: table-cell;
+		height: 100%;
+		width: 100%;
+		vertical-align: middle;
+	}
+}

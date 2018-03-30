@@ -1,0 +1,185 @@
+<div class="container tabs section">
+	
+	<ul class="tabs" data-tab>
+	    <li class="tab-title active"><a href="#panel1">Need Based Assistance <span>for all K-12 students</span></a></li>
+        <li class="tab-title"><a href="#panel2">Merit Based Scholarships <span>for high school students</span></a></li>
+	</ul>
+	
+	<div class="tabs-content">
+	
+        <div class="content active" id="panel1">
+	        
+	        <ul class="accordion" data-accordion>
+	            <li class="accordion-navigation active">
+	                <a href="#panel1a">Tuition Assistance Program</a>
+	                <div id="panel1a" class="content active">
+	                    <p>Smart Tuition offers assistance based on financial need to students applying to AOP schools. Complete this simple form to find out how much your child is eligible for.</p>
+	                    <p><em>The simple Smart Tuition form will be available on October 1st.</em></p>
+	                </div>
+	            </li>
+	            <li class="accordion-navigation">
+	                <a href="#panel1b">Educational Improvement Tax Credit</a>
+	                <div id="panel1b" class="content">
+	                    <p>The EITC grant allows businesses to contribute to education and receive a tax credit for their contributions. These funds are available to schools when businesses register with the Pennsylvania Department of Community & Economic Development for tax credits under this program.</p>
+	                    <p>In order to receive the EITC grant, students must be:</p>
+	                    <ul>
+	                        <li>elementary or high school-aged</li>
+	                        <li>a resident of Pennsylvania and enrolled in a Pennsylvania school</li>
+	                        <li>a member of a household with an annual household income no more than $75,000 (except that an additional income allowance of $15,000 is permitted for the student and for each other dependent as defined by the IRS living within the same household)</li>
+	                    </ul>
+	                    <p><em>For more information about EITC availability, contact the administration of the AOP school you plan to attend.</em></p>
+	                </div>
+	            </li>
+	            <li class="accordion-navigation">
+	                <a href="#panel1c">Opportunity Scholarship Tax Credit</a>
+	                <div id="panel1c" class="content">
+	                    <p>The OSTC provides tax credits to eligible businesses contributing to tuition assistance in the form of scholarships. These scholarships are awarded with preference to students who received funds in the prior year and are within 185% of the poverty level, as determined by the federal government.</p>
+	                    <p>In order to receive an OSTC grant, students must:</p>
+	                    <ul>
+	                        <li>live within the attendance boundaries of a low-achieving school as defined by the Pennsylvania Department of Education</li>
+	                        <li>be a member of a household with an annual household income of no more than $75,000 (plus $15,000 for each dependent member of the household)</li>
+	                    </ul>
+	                    <p><em>For more information about OSTC availability, contact the administration of the AOP school you plan to attend.</em></p>
+	                </div>
+	            </li>
+	            <li class="accordion-navigation">
+	                <a href="#panel1d">Charles Ellis Trust for Girls</a>
+	                <div id="panel1d" class="content">
+	                    <p>The Charles Ellis Trust for Girls helps young women in Philadelphia excel in high school and be prepared for post-secondary success.</p>
+	                    <p>To be eligible for an Ellis Trust, applicants must:</p>
+	                    <ul>
+	                        <li>reside in Philadelphia</li>
+	                        <li>live in a household where one or both parents are physically disabled or mentally absent. Married guardians (aunts, uncles, grandparents, siblings) must still meet the income guidelines.</li>
+	                        <li>be currently enrolled in either 9th, 10th, 11th, or 12th grade (including the summer before 9th grade)</li>
+	                        <li>have at least a C average in major school subjects</li>
+	                        <li>continue to make academic progress toward timely graduation</li>
+	                    </ul>
+	                    <p>Additionally, families of applicants must:</p>
+	                    <ul>
+	                        <li>meet the income eligibility requirements for reduced-price lunch under the National School Lunch Program</li>
+	                        <li>prove the applicant’s dependency status (applicant’s name must appear on tax returns or DPA documents)</li>
+	                        <li>not own property other than their primary house</li>
+	                    </ul>
+	                    <p><a class="button red large" href="/wp-content/uploads/2015/08/Ellis_Tuition_App_13-14.pdf" target="_blank">Learn More & Apply</a></p>
+	                </div>
+	            </li>
+	        </ul>
+	        
+        </div>
+        
+        <div class="content" id="panel2">
+        
+	        <div class="intro">
+	            <p>High school students with exceptional academic performance and personal character are invited to apply to these scholarship programs.</p>
+	        </div>
+	        
+	        <ul class="accordion" data-accordion>
+	            <li class="accordion-navigation active">
+	                <a href="#panel2d">Neumann Scholarship</a>
+	                <div id="panel2d" class="content active">
+	                    <p>The Neumann Scholarship program identifies academically talented 8th grade students through an independently administered competitive examination. Students will receive a four-year scholarship to the Archdiocesan high school of their choice.</p>
+	                    <p>Each year, more than 900 eligible students from the parish/regional elementary schools in five counties compete for this scholarship.</p>
+	                    <p>Elementary school principals invite qualified students to sit for the Neumann Scholar test. Students must meet the following criteria:</p>
+	                    <ul>
+	                        <li>attended a parish/regional elementary school for the entire 7th grade academic year</li>
+	                        <li>currently attends an AOP parish/regional school</li>
+	                        <li>achieved a National Percentile (NP) Total Score of 90 or above OR a Cognitive Skills Index (CSI) of 120 or above in the 7th grade Terra Nova Test</li>
+	                        <li>achieved a final general average of 92.0 or higher in the first marking period of 8th grade</li>
+	                        <li>has a strong desire to attend an AOP high school</li>
+	                        <li>completed the application process by the stated deadline</li>
+	                        <li>submitted an essay to elementary school principal by the stated deadline</li>
+	                    </ul>
+	                    <p><em>To learn more about this program, contact your school administrator.</em></p>
+	                </div>
+	            </li>
+	            <li class="accordion-navigation">
+	                <a href="#panel2c">Josephine C. Connelly Achievement Awards</a>
+	                <div id="panel2c" class="content">
+	                    <p>The Josephine C. Connelly Achievement Award is a four-year tuition grant presented to 8th grade students who best demonstrate the value of a Catholic education by striving to achieve their full academic potential. The four-year grant covers 33% of the student’s tuition at one of the 17 AOP high schools or Mercy Vocational High School. An annual review by the high school president determines renewal of the Connelly Foundation’s yearly commitment to each student.</p>
+	                    <p>Scholarships are only awarded to students currently attending Philadelphia parish/regional Catholic elementary schools.</p>
+	                    <p><em>To learn more about this program, contact your school administrator.</em></p>
+	                </div>
+	            </li>
+	            <li class="accordion-navigation">
+	                <a href="#panel2f">St. John Vianney Scholars Program</a>
+	                <div id="panel2f" class="content">
+	                    <p>The Vianney Scholars Program provides financial support to eligible students with a desire to attend an Archdiocesan high school, Mercy Vocational High School, or Cristo Rey Philadelphia High School.</p>
+	                    <p>A select number of students will receive a $3,000 annual scholarship for four years. Recipients are selected from the pool of 8th graders who sat for the qualifying examination for the Neumann Scholars Program.</p>
+	                    <p>Scholarships are only awarded to students currently attending AOP elementary schools.</p>
+	                    <p><a class="button red large" href="http://www.sjvgladwyne.com/docs/sjv_scholars.html" target="_blank">Learn More & Apply</a></p>
+	                </div>
+	            </li>
+	            <li class="accordion-navigation">
+	                <a href="#panel2g">St. Thomas More Alumni Association Scholarships</a>
+	                <div id="panel2g" class="content">
+	                    <p>In 2014, the St. Thomas More Alumni Association awarded 75 $1,000 high school scholarships.</p>
+	                    <p>To be considered for this award, students must:</p>
+	                    <ul>
+	                        <li>be related to, or recommended by, an STM alumnus</li>
+	                        <li>plan to attend an AOP high school for the next academic year</li>
+	                        <li>be active in school, sports, or church activities</li>
+	                        <li>have a good academic record</li>
+	                        <li>be involved in community service</li>
+	                    </ul>
+	                    <p><a class="button red large" href="http://www.stmforever.com/?q=node/4" target="_blank">Learn More & Apply</a></p>
+	                </div>
+	            </li>
+	            <li class="accordion-navigation">
+	                <a href="#panel2e">Maguire Scholars Program</a>
+	                <div id="panel2e" class="content">
+	                    <p>The Maguire Foundation, in partnership with the Faith in the Future Foundation awards $3,000 per-year scholarships to at least six students in each of the seventeen qualifying AOP high schools, or Mercy Vocational High School.</p>
+	                    <p>The scholarship is renewable for each of the four years of high school, given that the Maguire Scholar maintains standards consistent with the qualifications listed below.</p>
+	                    <p>To receive a scholarship, a student must fulfill the following criteria for selection:</p>
+	                    <ul>
+	                        <li><strong>Financial Need:</strong> Candidates must have a demonstrated financial need of at least $3,000 as determined by a completed Smart Tuition Student Aid form, (available 10/1). Families must apply to Smart Tuition to be considered for the Maguire Scholarship and to be considered for any additional tuition assistance funds that may be made available.</li>
+	                        <li><strong>Academic Ability:</strong> A minimum cumulative average of 85, utilizing the final grades of the 7th grade and the second trimester of the 8th grade or equivalent at the time of application.</li>
+	                        <li><strong>Personal Growth and Development:</strong> Candidate must have minimal absences and tardiness at the time of the application. In addition, he/she must show at least “Satisfactory” on his/her report card in “personal development.”</li>
+	                        <li><strong>Commitment to Community Service and Extracurricular Activity:</strong> Candidate must be participating in at least one ongoing community service and at least one extracurricular activity.</li>
+	                        <li><strong>High School Matriculation:</strong> Candidate must attend one of the seventeen AOP high schools or Mercy Vocational High School and he/she must have completed the application process for that high school.</li>
+	                    </ul>
+	                    <p><a class="button red large" href="/wp-content/uploads/2015/08/Maguire-application.pdf" target="_blank">Learn More & Apply</a></p>
+	                </div>
+	            </li>
+	            <li class="accordion-navigation">
+	                <a href="#panel2a">Charles Ellis Trust for Girls</a>
+	                <div id="panel2a" class="content">
+	                    <p>The Charles Ellis Trust for Girls helps young women in Philadelphia excel in high school and be prepared for post-secondary success.</p>
+	                    <p>To be eligible for an Ellis Trust, applicants must:</p>
+	                    <ul>
+	                        <li>reside in Philadelphia</li>
+	                        <li>live in a household where one or both parents are physically disabled or mentally absent. Married guardians (aunts, uncles, grandparents, siblings) must still meet the income guidelines.</li>
+	                        <li>be currently enrolled in either 9th, 10th, 11th, or 12th grade (including the summer before 9th grade)</li>
+	                        <li>have at least a C average in major school subjects</li>
+	                        <li>continue to make academic progress toward timely graduation</li>
+	                    </ul>
+	                    <p>Additionally, families of applicants must:</p>
+	                    <ul>
+	                        <li>meet the income eligibility requirements for reduced-price lunch under the National School Lunch Program</li>
+	                        <li>prove the applicant’s dependency status (applicant’s name must appear on tax returns or DPA documents)</li>
+	                        <li>not own property other than their primary house</li>
+	                    </ul>
+	                    <p><a class="button red large" href="/wp-content/uploads/2015/08/Ellis_Tuition_App_13-14.pdf" target="_blank">Learn More & Apply</a></p>
+	                </div>
+	            </li>
+	            <li class="accordion-navigation">
+	                <a href="#panel2b">John T. Mitchell Memorial Trust Scholarship</a>
+	                <div id="panel2b" class="content">
+	                    <p>The John T. Mitchell Memorial Trust Scholarship supports Catholic African American students with exceptional academic ability who are in need of financial assistance. Scholarship(s) are awarded annually based upon the determination of the selection committee.</p>
+	                    <p>For this scholarship, students must be:</p>
+	                    <ul>
+	                        <li>Catholic and African American</li>
+	                        <li>in good academic standing with at least a cumulative B average at the time of the scholarship award</li>
+	                        <li>eligible for financial assistance as determined by a completed Smart Tuition Student Aid Application (available 10/1)</li>
+	                        <li>committed to serving his/her community</li>
+	                        <li>interested in or currently attending an AOP high school</li>
+	                    </ul>
+	                    <p><a class="button red large" href="/wp-content/uploads/2015/08/Mitchell_application_2015.pdf" target="_blank">Learn More & Apply</a></p>
+	                </div>
+	            </li>
+	        </ul>
+	        
+        </div>
+        
+	</div>
+	
+</div>

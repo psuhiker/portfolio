@@ -1,0 +1,53 @@
+.form {
+    padding: 0 $padding-xl;
+    &-control {
+        @include border-radius($no-border-radius);
+        font-size: $font-size-default;
+        border: 3px solid $foggy-blue;
+        background-color: $navy;
+        color: $foggy-blue;
+        padding: ($padding-xl + 8px) $padding-lg ($padding-xl - 8px) $padding-lg;
+        height: 60px;
+        &:focus {
+            @include box-shadow(none);
+            outline: none;
+            border-color: $gold;
+        }
+    }
+    &-group {
+        position: relative;
+        label {
+            @include transition($default-transition);
+            font-size: $font-size-sm;
+            opacity: 1;
+            position: absolute;
+            top: ($padding-lg + 8px);
+            left: $padding-xl;
+            pointer-events: none;
+            text-transform: uppercase;
+            color: $white;
+            &.show {
+                font-size: $font-size-xs;
+                top: $padding-default;
+            }
+        }
+        .errorMessage {
+            display: none;
+        }
+        &.error {
+            margin-top: $padding-default;
+            .errorMessage {
+                position: absolute;
+                top: -$font-size-default;
+                display: block;
+                color: $gold;
+                font-size: $font-size-xs;
+                margin: 0 0 $margin-sm 0;
+                text-transform: lowercase;
+            }
+            .form-control {
+                border-color: $gold;
+            }
+        }
+    }
+}

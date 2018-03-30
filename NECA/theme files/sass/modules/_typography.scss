@@ -1,0 +1,35 @@
+@import "https://fonts.googleapis.com/css?family=Martel+Sans:400,900|Work+Sans:500,900|family=Source+Code+Pro|Playfair+Display:400,400i,700,700i";
+
+$font-size-default: 16px;
+$font-size-xl: $font-size-default * 3.815; // ~62px
+$font-size-lg: $font-size-default * 1.93; // ~30px
+$font-size-md: $font-size-default * 1.2; // ~19px
+$font-size-sm: $font-size-default * 0.8; // ~12px
+$font-size-xs: $font-size-default * 0.6; // ~9px
+
+$default-letter-spacing: 0.5px;
+
+$default-font: Roboto;
+$body-font: 'Martel Sans';
+$headline-font: Arvo;
+$accent-font: 'Playfair Display';
+$form-font: 'Source Code Pro', 'Martel Sans', serif;
+
+@mixin font-face($font-family, $file-path, $font-weight, $font-style) {
+    @font-face {
+        font-family: $font-family;
+        src: url('#{$file-path}.eot');
+        src: url('#{$file-path}.eot?#iefix') format('embedded-opentype'),
+            url('#{$file-path}.woff') format('woff'),
+            url('#{$file-path}.ttf') format('truetype');
+        font-weight: $font-weight;
+        font-style: $font-style;
+    }
+    // Chrome for Windows rendering fix: http://www.adtrak.co.uk/blog/font-face-chrome-rendering/
+    @media screen and (-webkit-min-device-pixel-ratio: 0) {
+        @font-face {
+            font-family: $font-family;
+                src: url('#{$file-path}.svg##{$font-family}') format('svg');
+        }
+    }
+}

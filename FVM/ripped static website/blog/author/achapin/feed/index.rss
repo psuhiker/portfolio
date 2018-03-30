@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Alex Chapin &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/blog/author/achapin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>FVM named top B2B agency</title>
+		<link>http://localhost:8888/thinkfvm/blog/12/12/2017/fvm-named-top-b2b-agency/</link>
+		<pubDate>Tue, 12 Dec 2017 21:25:36 +0000</pubDate>
+		<dc:creator><![CDATA[Alex Chapin]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[FVM Life]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=7187</guid>
+		<description><![CDATA[Who doesn’t love a list?]]></description>
+				<content:encoded><![CDATA[<p>Who doesn’t love a list? We sure do – especially when we’re named as one of the leading B2B Brand Engagement agencies in the U.S.</p>
+<p>The Chief Marketer 200 – the publication’s first comprehensive editorial list of the nation’s top 200 marketing agencies – highlights the best engagement and activation agencies based on several criteria, including client testimonials, case studies, creative concepts and executions, caliber of work, and thought leadership. The program has been created to help marketing professionals navigate to the most suitable agencies for their brands.</p>
+<p>Needless to say, we’re delighted to be recognized for the work that our team does in creating and fostering brands, and connecting them with B2B audiences. And of course, none of this would be possible without our incredible clients who inspire us every day.</p>
+<p>You can see the <a href="http://www.chiefmarketer.com/cm200/?q=winners" target="_blank" rel="noopener">full list here</a>.</p>
+<p><img class="alignleft size-full wp-image-7188" src="http://www.thinkfvm.com/wp-content/uploads/Chief-Marketer-200-_600.jpg" alt="" width="600" height="556" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Chief-Marketer-200-_600.jpg 600w, http://localhost:8888/thinkfvm/wp-content/uploads/Chief-Marketer-200-_600-220x204.jpg 220w" sizes="(max-width: 600px) 100vw, 600px" /></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

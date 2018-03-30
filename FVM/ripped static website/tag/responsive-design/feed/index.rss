@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>responsive design &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/responsive-design/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Understanding responsive design</title>
+		<link>http://localhost:8888/thinkfvm/blog/09/17/2013/understanding-responsive-design/</link>
+		<pubDate>Tue, 17 Sep 2013 19:57:38 +0000</pubDate>
+		<dc:creator><![CDATA[Jordy Pickel]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[responsive design]]></category>
+		<category><![CDATA[web design]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=2812</guid>
+		<description><![CDATA[When a client asks us to design a new website, they almost always include a caveat for creating an additional template specific to mobile phones.]]></description>
+				<content:encoded><![CDATA[<p>When a client asks us to design a new website, they almost always include a caveat for creating an additional template specific to mobile phones. Mobile phones of course are surging in popularity — according to Wikipedia, more than 17% of web traffic is performed on a mobile device.</p>
+<p>It&#8217;s true that a lot of mobile phones display websites &#8220;the way they were intended to display&#8221;, but what if that&#8217;s not good enough? What looks good on a big screen doesn&#8217;t always look good on a small one.</p>
+<p>Additionally, creating a mobile-friendly website shouldn&#8217;t mean creating one website for desktop users and another one for mobile users &#8212; that type of practice generally leads to a poor user experience and fractured website content.</p>
+<p>So what&#8217;s the solution? Responsive Design.</p>
+<h2>What is Responsive Design?</h2>
+<p>Responsive Design is a coding methodology that allows for a template to automatically adjust its settings to the width or height of the browser window. This means that the website displays flawlessly in a 320 pixel-wide iPhone or a 1024 pixel-wide desktop. Layouts, font sizes, and column widths can change, but the content stays the same.</p>
+<p>Want to see an example of this? Just adjust your browser window because our website is already built this way. Go ahead, we&#8217;ll wait.</p>
+<p style="text-align: left;">Our website&#8217;s template expands and contracts to fit the user&#8217;s device. For example, a website could have two possible layout arrangements, the latter of which only kicks in if the user is viewing the website on devices smaller than 768 pixels:</p>
+<p><img class="aligncenter" alt="responsive-layout-desktop" src="http://www.thinkfvm.com/wp-content/uploads/responsive-layout-desktop.jpg" width="300" height="228" /> <img class="aligncenter" alt="responsive-layout-mobile" src="http://www.thinkfvm.com/wp-content/uploads/responsive-layout-mobile.jpg" width="149" height="300" /></p>
+<p>In the end, it&#8217;s important to offer up a consistent approach towards web design. Repeat visitors to your website may use an array of devices, and it&#8217;s important that you create a website that looks good on all devices, and still provides the same familiar content they saw the last time they visited.</p>
+<p>The main column in this template would be 66% wide, so it would fit in regular desktop monitors or widescreen desktop monitors accordingly. What about mobile devices? Those columns would be so thin, they wouldn’t really be readable. So we collapse the side-by-side columns so that they’re on top of one another:</p>
+<p>Now, responsive design is a little more complicated than that, but you get the idea. The ultimate point is that your agency should be thinking responsively when building a website. Adjusting for alternative screen resolutions shouldn’t be something that’s thought about after-the-fact.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

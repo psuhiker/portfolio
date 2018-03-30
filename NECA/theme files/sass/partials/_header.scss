@@ -1,0 +1,103 @@
+header {
+    position: relative;
+    padding: $padding-lg 0;
+    .logo {
+        img {
+            max-width: 165px;
+        }
+    }
+    .navigation {
+        bottom: 0;
+        @media (min-width: #{$screen-md-min}) {
+            position: absolute;
+            right: 0;
+        }
+        ul {
+            @media (max-width: #{$screen-sm-max}) {
+                width: 200px;
+                float: right;
+                padding: 0;
+                margin: $margin-default 0 0 0;
+                font-size: $font-size-md;
+            }
+            li {
+                @media (max-width: #{$screen-sm-max}) {
+                    margin-bottom: $margin-default;
+                }
+            }
+        }
+        a {
+        	@include transition($default-transition);
+        	text-decoration: none;
+        	font-weight: 700;
+        	padding: 0 $padding-default;
+        	@media (max-width: #{$screen-md-max}) {
+        	    border-right: 5px solid transparent;
+        	    padding-right: $padding-sm;
+        	    margin-right: -$margin-default;
+        	}
+        	&:after {
+        		@include transition($default-transition);
+        		border-bottom: 1px solid $tertiary-color-1;
+        		content: "";
+        		width: 0%;
+        		display: block;
+        		margin-left: 50%;
+        	}
+        	&:hover {
+        		@include transition($default-transition);
+        		@media (max-width: #{$screen-sm-max}) {
+        		    color: $primary-color-lighter;
+        		}
+        		&:after {
+        			@include transition($default-transition);
+        			width: 100%;
+        			margin-left: 0%;
+        			@media (max-width: #{$screen-sm-max}) {
+        			    width: 0;
+        			}
+        		}
+        	}
+        }
+        .current_page_item a {
+            @media (max-width: #{$screen-sm-max}) {
+                border-right: 5px solid $tertiary-color-1;
+                padding-right: $padding-sm;
+            }
+	        .home & {
+	        	display: none;
+	        }
+        	&:after {
+	        	border-bottom: 2px solid $tertiary-color-1 !important;
+	        	margin-bottom: 0px;
+	        	width: 100%;
+	        	margin-left: 0%;
+	        	@media (max-width: #{$screen-sm-max}) {
+	        	    border-bottom: none !important;
+	        	}
+	        }
+        }
+        .current-page-ancestor a {
+            @media (max-width: #{$screen-sm-max}) {
+                border-right: 5px solid $tertiary-color-1;
+                padding-right: $padding-sm;
+            }
+        	&:after {
+            	border-bottom: 2px solid $tertiary-color-1 !important;
+            	margin-bottom: 0px;
+            	width: 100%;
+            	margin-left: 0%;
+            	@media (max-width: #{$screen-sm-max}) {
+            	    border-bottom: none !important;
+            	}
+            }
+        }
+    }
+}
+
+.header.divider {
+    height: 15px;
+    background-color: $primary-color;
+    background-image: url(../images/bg-marquee-sliver.png);
+    width: 100%;
+}

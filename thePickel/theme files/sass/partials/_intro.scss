@@ -1,0 +1,83 @@
+#intro {
+    background-color: $pwd-orange;
+    height: 100vh;
+    position: relative;
+    width: 100vw;
+    overflow: hidden;
+	/*border: 10px solid $white;*/
+	.border {
+		@include transition($slow-transition);
+		border: 10px solid $white;
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+		height: 100%;
+		&.skrollable-after {
+			@include transition($slow-transition);
+			opacity: 0;
+		}
+	}
+    & .title {
+    	position: relative;
+    	& h1 {
+	        position: absolute;
+	        right: 100px;
+	        top: 100px;
+	        font-family: $font-title;
+	        font-size: $font-size-xxl !important;
+	        text-transform: lowercase;
+	        color: $white;
+	        text-align: right;
+	        font-weight: 700;
+			text-shadow: $heavy-text-shadow;
+			opacity: 1;
+			@media all and (max-width: $screen-xs-max) {
+			    font-size: ($font-size-lg * 1.5) !important;
+			    text-align: center;
+			    right: 0px;
+			    width: 100%;
+			}
+        }  
+    }
+    & .logo {
+	 	@include transition($quick-transition);
+     	position: absolute;
+     	width: 100vw;
+	 	z-index: 3;
+	 	@media all and (min-width: $screen-lg-min) {
+	 	 	left: -25vw;
+	 	 	bottom: -35vh;
+	 	}
+	 	@media all and (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+	 	 	left: -15vw;
+	 	 	bottom: -25vh;
+	 	}
+	 	@media all and (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+	 	 	left: -15vw;
+	 	 	bottom: -20vh;
+	 	}
+	 	@media all and (min-width: 601px) and (max-width: $screen-xs-max) {
+            width: 175vw;
+            left: -45vw;
+            bottom: -35vh;
+        }
+	 	@media all and (max-width: 600px) {
+	 	 	width: 175vw;
+	 	 	left: -45vw;
+	 	 	bottom: -25vh;
+	 	}
+    }
+	.coverup {
+		position: absolute;
+		width: 100px;
+		height:  100px;
+		bottom: 10px;
+		right: 10px;
+		background-color: $pwd-orange;
+		z-index: 2;
+		.touchevents & {
+			height:  200px;
+		}
+	}
+}

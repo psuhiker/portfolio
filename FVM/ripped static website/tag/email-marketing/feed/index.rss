@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>email marketing &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/email-marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Email marketing and the numbers you can count on</title>
+		<link>http://localhost:8888/thinkfvm/blog/06/24/2014/email-marketing-and-the-numbers-you-can-count-on/</link>
+		<pubDate>Tue, 24 Jun 2014 14:30:47 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[digital strategy]]></category>
+		<category><![CDATA[email marketing]]></category>
+		<category><![CDATA[infographic]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[strategic planning]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=3926</guid>
+		<description><![CDATA[There’s a piece of paper I keep pinned at my desk.]]></description>
+				<content:encoded><![CDATA[<p>There’s a piece of paper I keep pinned at my desk. It’s filled with numbers, stats to be precise, and serves as a daily reminder that email marketing is a powerful tool. One that should be at the heart of every suitable strategic campaign, integrated as a conversation tool in nurturing customers.</p>
+<p>The rise of social networks, mobile and instant messaging has shifted focus away from email, and while these channels are becoming increasingly important for marketers to engage on, it remains essential to harness the force of the mighty inbox.</p>
+<p>When planned properly and executed in the right way, emails become a highly targeted, cost-effective and powerful communicator that gets results.</p>
+<p>Here, the numbers I’ve collected speak for themselves.</p>
+<p><a href="http://www.thinkfvm.com/wp-content/uploads/Infographic31.jpg" class="swipebox"><img class="alignnone size-full wp-image-3948" src="http://www.thinkfvm.com/wp-content/uploads/Infographic31.jpg" alt="Infographic3[1]" width="470" height="1625" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>OCE Choose My Future</title>
+		<link>http://localhost:8888/thinkfvm/blog/10/20/2013/oce-choose-my-future/</link>
+		<pubDate>Sun, 20 Oct 2013 14:03:38 +0000</pubDate>
+		<dc:creator><![CDATA[Jordy Pickel]]></dc:creator>
+				<category><![CDATA[advertising]]></category>
+		<category><![CDATA[copywriting]]></category>
+		<category><![CDATA[email marketing]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[media planning]]></category>
+		<category><![CDATA[video production]]></category>
+		<category><![CDATA[web design & development]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?post_type=portfolio_post&#038;p=3147</guid>
+		<description><![CDATA[What did the Office of Catholic Education do when they need to increase numbers at Catholic High Schools?]]></description>
+				<content:encoded><![CDATA[<p>What did the Office of Catholic Education do when they need to increase numbers at Catholic High Schools? They called FVM and the full-fledged marketing and awareness campaign “Choose My Future” was born. Now in its third year, the enrollment-boosting campaign is email nurturing, content marketing and advertising at its best and can be seen on planes (over the Jersey shore), trains and buses across Philadelphia.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

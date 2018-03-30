@@ -1,0 +1,1200 @@
+[11-Jan-2018 16:57:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Jan-2018 23:27:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Jan-2018 05:24:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Jan-2018 17:48:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Jan-2018 23:28:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Jan-2018 06:05:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Jan-2018 18:20:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Jan-2018 23:27:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Jan-2018 06:45:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Jan-2018 19:04:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Jan-2018 23:27:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Jan-2018 07:16:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Jan-2018 19:28:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Jan-2018 23:26:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[16-Jan-2018 07:35:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[16-Jan-2018 19:56:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[16-Jan-2018 19:56:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[16-Jan-2018 23:28:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Jan-2018 08:25:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Jan-2018 08:25:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Jan-2018 20:47:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Jan-2018 20:47:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Jan-2018 23:30:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Jan-2018 09:09:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Jan-2018 09:09:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Jan-2018 21:13:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Jan-2018 21:13:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Jan-2018 23:28:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Jan-2018 03:39:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Jan-2018 03:40:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Jan-2018 15:53:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Jan-2018 15:53:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Jan-2018 23:26:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Jan-2018 04:05:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Jan-2018 04:05:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Jan-2018 16:20:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Jan-2018 16:20:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Jan-2018 23:27:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Jan-2018 04:52:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Jan-2018 04:52:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Jan-2018 17:10:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Jan-2018 17:10:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Jan-2018 23:28:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Jan-2018 05:20:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Jan-2018 05:20:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Jan-2018 18:10:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Jan-2018 18:10:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Jan-2018 23:27:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Jan-2018 06:14:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Jan-2018 06:14:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Jan-2018 18:40:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Jan-2018 18:40:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Jan-2018 23:32:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Jan-2018 07:06:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Jan-2018 07:06:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Jan-2018 09:39:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Jan-2018 09:39:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Jan-2018 19:24:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Jan-2018 19:24:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Jan-2018 23:34:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Jan-2018 07:49:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Jan-2018 07:49:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Jan-2018 20:06:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Jan-2018 20:06:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Jan-2018 23:33:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Jan-2018 08:34:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Jan-2018 08:34:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Jan-2018 20:48:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Jan-2018 20:48:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Jan-2018 23:32:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Jan-2018 09:21:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Jan-2018 09:21:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Jan-2018 21:42:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Jan-2018 21:42:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Jan-2018 23:34:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Jan-2018 10:06:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Jan-2018 10:06:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Jan-2018 22:23:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Jan-2018 22:23:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Jan-2018 23:32:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[29-Jan-2018 10:54:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[29-Jan-2018 10:54:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[29-Jan-2018 22:58:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[29-Jan-2018 22:59:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[29-Jan-2018 23:32:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[30-Jan-2018 11:34:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[30-Jan-2018 11:34:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[30-Jan-2018 23:33:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[30-Jan-2018 23:53:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[30-Jan-2018 23:53:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[31-Jan-2018 12:25:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[31-Jan-2018 12:25:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[31-Jan-2018 23:33:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[01-Feb-2018 00:46:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[01-Feb-2018 00:46:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[01-Feb-2018 13:12:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[01-Feb-2018 13:12:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[01-Feb-2018 23:34:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Feb-2018 01:32:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Feb-2018 01:32:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Feb-2018 13:58:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Feb-2018 13:58:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Feb-2018 23:34:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Feb-2018 02:25:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Feb-2018 02:25:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Feb-2018 14:45:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Feb-2018 14:46:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Feb-2018 23:32:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Feb-2018 02:15:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/avenuins/public_html/wp-content/themes/avenu/header.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/header.php on line 13
+[04-Feb-2018 02:15:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function site_url() in /home/avenuins/public_html/wp-content/themes/avenu/header.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/header.php on line 13
+[04-Feb-2018 03:01:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Feb-2018 03:02:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Feb-2018 15:22:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Feb-2018 15:22:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Feb-2018 23:34:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Feb-2018 03:45:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Feb-2018 03:45:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Feb-2018 16:12:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Feb-2018 16:12:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Feb-2018 23:31:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[06-Feb-2018 04:30:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[06-Feb-2018 04:31:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[06-Feb-2018 17:04:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[06-Feb-2018 17:04:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[07-Feb-2018 05:24:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[07-Feb-2018 05:24:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[07-Feb-2018 17:48:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[07-Feb-2018 17:48:28 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[08-Feb-2018 06:02:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[08-Feb-2018 06:02:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[08-Feb-2018 18:32:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[08-Feb-2018 18:33:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[09-Feb-2018 06:49:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[09-Feb-2018 06:49:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[09-Feb-2018 19:44:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[09-Feb-2018 19:44:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[10-Feb-2018 07:58:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[10-Feb-2018 07:58:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[10-Feb-2018 20:18:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[10-Feb-2018 20:18:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Feb-2018 08:43:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Feb-2018 08:43:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Feb-2018 21:03:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Feb-2018 21:03:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Feb-2018 09:41:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Feb-2018 09:41:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Feb-2018 22:07:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Feb-2018 22:08:03 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Feb-2018 10:37:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Feb-2018 10:37:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Feb-2018 11:08:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Feb-2018 22:58:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Feb-2018 22:58:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Feb-2018 11:20:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Feb-2018 11:20:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Feb-2018 23:27:05 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Feb-2018 23:36:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Feb-2018 23:36:35 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Feb-2018 11:52:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Feb-2018 11:52:50 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Feb-2018 23:29:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Feb-2018 23:59:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Feb-2018 23:59:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[16-Feb-2018 12:15:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[16-Feb-2018 12:15:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[16-Feb-2018 23:32:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Feb-2018 00:31:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Feb-2018 00:31:59 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Feb-2018 12:45:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Feb-2018 12:45:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[17-Feb-2018 23:30:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Feb-2018 01:00:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Feb-2018 01:00:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Feb-2018 13:18:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Feb-2018 13:18:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[18-Feb-2018 23:33:57 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Feb-2018 02:08:29 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Feb-2018 02:08:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Feb-2018 14:35:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Feb-2018 14:35:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[19-Feb-2018 23:31:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Feb-2018 02:53:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Feb-2018 02:53:39 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Feb-2018 15:15:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Feb-2018 15:15:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[20-Feb-2018 23:32:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Feb-2018 03:45:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Feb-2018 03:45:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Feb-2018 16:14:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Feb-2018 16:14:53 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[21-Feb-2018 23:35:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Feb-2018 04:43:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Feb-2018 04:43:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Feb-2018 17:29:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Feb-2018 17:29:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[22-Feb-2018 23:32:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Feb-2018 06:08:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Feb-2018 06:08:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Feb-2018 18:50:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Feb-2018 18:50:08 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[23-Feb-2018 23:31:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Feb-2018 07:06:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Feb-2018 07:06:55 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Feb-2018 19:32:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Feb-2018 19:32:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[24-Feb-2018 23:33:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Feb-2018 07:52:31 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Feb-2018 07:52:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Feb-2018 20:20:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Feb-2018 20:20:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[25-Feb-2018 23:32:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Feb-2018 08:54:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Feb-2018 08:54:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Feb-2018 21:31:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Feb-2018 21:31:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[26-Feb-2018 23:32:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Feb-2018 10:18:15 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Feb-2018 10:18:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Feb-2018 22:45:21 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Feb-2018 22:45:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[27-Feb-2018 23:31:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Feb-2018 11:13:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Feb-2018 11:14:01 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Feb-2018 23:32:16 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Feb-2018 23:34:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[28-Feb-2018 23:34:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[01-Mar-2018 12:12:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[01-Mar-2018 12:12:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[01-Mar-2018 23:31:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Mar-2018 00:37:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Mar-2018 00:37:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Mar-2018 13:10:09 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Mar-2018 13:10:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[02-Mar-2018 23:32:58 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Mar-2018 01:31:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Mar-2018 01:31:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Mar-2018 01:48:52 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function get_footer() in /home/avenuins/public_html/wp-content/themes/avenu/404.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/404.php on line 9
+[03-Mar-2018 13:54:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Mar-2018 13:54:46 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[03-Mar-2018 23:32:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Mar-2018 02:16:30 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Mar-2018 02:16:34 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Mar-2018 14:41:25 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Mar-2018 14:41:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[04-Mar-2018 23:39:02 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Mar-2018 03:39:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Mar-2018 03:39:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Mar-2018 16:20:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Mar-2018 16:20:45 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[05-Mar-2018 23:32:20 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[06-Mar-2018 04:38:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[06-Mar-2018 04:38:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[06-Mar-2018 17:11:07 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[06-Mar-2018 17:11:23 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[06-Mar-2018 23:31:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[07-Mar-2018 05:30:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[07-Mar-2018 05:30:37 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[07-Mar-2018 17:52:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[07-Mar-2018 17:52:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[07-Mar-2018 23:34:17 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[08-Mar-2018 06:11:32 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[08-Mar-2018 06:11:33 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[08-Mar-2018 19:32:04 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[08-Mar-2018 19:32:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[08-Mar-2018 23:38:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[09-Mar-2018 08:43:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[09-Mar-2018 08:43:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[09-Mar-2018 21:04:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[09-Mar-2018 21:04:19 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[09-Mar-2018 23:32:40 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[10-Mar-2018 09:22:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[10-Mar-2018 09:23:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[10-Mar-2018 21:44:24 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[10-Mar-2018 21:44:26 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[10-Mar-2018 23:31:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Mar-2018 11:07:10 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Mar-2018 11:07:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Mar-2018 23:27:54 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Mar-2018 23:28:00 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[11-Mar-2018 23:31:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Mar-2018 12:03:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Mar-2018 12:03:51 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[12-Mar-2018 23:31:56 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Mar-2018 00:26:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Mar-2018 00:26:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Mar-2018 12:51:38 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Mar-2018 12:51:41 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[13-Mar-2018 23:49:36 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Mar-2018 01:28:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Mar-2018 01:28:13 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Mar-2018 13:53:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Mar-2018 13:53:49 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[14-Mar-2018 23:47:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Mar-2018 02:12:47 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Mar-2018 02:12:48 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Mar-2018 14:34:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Mar-2018 14:34:14 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[15-Mar-2018 23:48:22 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[16-Mar-2018 02:53:11 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5
+[16-Mar-2018 02:53:18 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home/avenuins/public_html/wp-content/themes/avenu/index.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/avenuins/public_html/wp-content/themes/avenu/index.php on line 5

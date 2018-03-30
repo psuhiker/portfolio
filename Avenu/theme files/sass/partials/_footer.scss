@@ -1,0 +1,27 @@
+#footer {
+	background-color: $navy;
+	padding: $padding-xl 0;
+	.nf-response-msg {
+	    color: $white;
+	}
+}
+
+.footer {
+	&__title {
+	  text-transform: uppercase;
+	  color: $white;
+	}
+}
+
+.social {
+	float: left;
+	&__item {
+	  list-style: none;
+	  float: left;
+	  margin: 0 $margin-default 0 0;
+	}
+}
+
+.fa-stack-1x {
+	color: $white;
+}

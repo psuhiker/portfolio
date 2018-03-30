@@ -1,0 +1,273 @@
+#contact {
+	background-color: $white;
+	position: relative;
+	z-index: 99;
+	&.hide {
+		display: none;
+	}
+    & .title {
+        background-color: $pwd-blue;
+        background-image: url(../images/talk-to-us-background.jpg);
+        background-size: auto 300px;
+        background-position: center;
+        background-attachment: fixed;
+        padding:  ($padding-xl * 2) 0;
+        text-align: center;
+        position: relative;
+		font-family: $font-title;
+        & h2 {
+            color: $white;
+            text-shadow: 2px 2px 3px $pwd-darkblue;
+			text-transform: lowercase;
+        }  
+    }
+    
+    .form {
+        padding:  100px 0;
+        p {
+            margin: 0;
+			color: $pwd-green;
+			font-size: $font-size-lg;
+			font-weight: 100;
+			@media all and (max-width: $screen-md-max) {
+				font-size: $font-size-lg;
+				.touchevents & {
+					font-size: $font-size-md;
+				}
+			}
+        }
+		input {
+		    @include transition($default-transition);
+		    border: none;
+		    color: $pwd-darkblue;
+		    display: inline;
+		    font-size: $font-size-lg !important;
+		    font-weight: 100 !important;
+			margin-bottom: 0;
+			@media all and (max-width: $screen-md-max) {
+				font-size: $font-size-lg !important;
+				.touchevents & {
+					font-size: $font-size-md !important;
+				}
+			}
+			&.name {
+				width:  185px;
+				@media all and (max-width: $screen-md-max) {
+					.touchevents & {
+						width:  118px;
+					}
+				}
+			}
+			&.company {
+				width:  265px;
+				@media all and (max-width: $screen-md-max) {
+					.touchevents & {
+						width:  165px;
+					}
+				}
+			}
+			&.project {
+				width:  192px;
+				@media all and (max-width: $screen-md-max) {
+					.touchevents & {
+						width:  120px;
+					}
+				}
+			}
+			&.email {
+				width:  232px;
+				@media all and (max-width: $screen-md-max) {
+					.touchevents & {
+						width:  132px;
+					}
+				}
+			}
+			&::-webkit-input-placeholder {
+			    color: $pwd-blue;
+			}
+			&:-moz-placeholder {
+			    color: $pwd-blue;
+			}
+			&::-moz-placeholder {
+			    color: $pwd-blue;
+			}
+			&:-ms-input-placeholder {
+			    color: $pwd-blue;
+			}
+			&:focus {
+			    @include transition($default-transition);
+				outline: none;
+				box-shadow: none !important;
+				border: none !important;
+			    &::-webkit-input-placeholder {
+			        @include transition($default-transition);
+			        color: $pwd-blue;
+			        color: $pwd-lightblue;
+			    }
+			    &:-moz-placeholder {
+			        @include transition($default-transition);
+			        color: $pwd-blue;
+			        color: $pwd-lightblue;
+			    }
+			    &::-moz-placeholder {
+			        @include transition($default-transition);
+			        color: $pwd-blue;
+			        color: $pwd-lightblue;
+			    }
+			    &:-ms-input-placeholder {
+			        @include transition($default-transition);
+			        color: $pwd-blue;
+			        color: $pwd-lightblue;
+			    }
+			}
+		}
+        label {
+            color: $pwd-green;
+            font-size: $font-size-default;
+            font-weight: 700;
+            margin-top: $margin-lg;
+            padding: $padding-sm $padding-xl $padding-sm 0;
+            background-repeat: no-repeat;
+            background-position: right;
+            background-size: auto 100%;
+            background-image: url(../images/icon-arrow-green-down.png);
+			display: block;
+        }
+        textarea {
+            background-image: url(../images/background-textarea.png);
+            background-color: transparent;
+            background-position: top left;
+            border: none;
+            color: $pwd-darkblue;
+            font-size: $font-size-lg;
+            font-weight: 100;
+            line-height: $font-size-lg * 1.6;
+            height: 250px;
+            margin: 0 0 $margin-xl 0;
+            padding:  0;
+            resize: none;
+            width: 100%;
+            &:focus {
+                outline: none;
+            }
+			@media all and (max-height: 775px) {
+				height:  185px;
+			}
+			@media all and (max-width: $screen-md-max) {
+				font-size: $font-size-lg !important;
+				.touchevents & {
+					font-size: $font-size-md !important;
+					line-height: $font-size-lg * 1.65;
+				}
+			}
+        }
+        .submit {
+            margin:  $margin-lg 0 0 0;
+            text-align: center;
+            width: 100%;
+            position: relative;  
+            font-family: $font-section;
+			font-weight: 100;
+            @media all and (max-width: $screen-sm-max) {
+				margin-left: 0;
+                span {
+                    display: none;
+                }
+            }
+            button {
+                @include transition($default-transition);
+                background: none;
+                border: 5px solid $pwd-orange;
+                color: $pwd-orange;
+                font-size: $font-size-lg;
+                font-weight: 700;
+                padding: $padding-md $padding-xxl $padding-md $padding-xxl;
+                position: relative;
+                text-transform: lowercase;
+				@media all and (max-width: $screen-xs-max) {
+					@include transition($default-transition);
+					border-color: $pwd-orange;
+					color: $pwd-orange;
+					padding-left: 35px;
+					padding-right: 35px;
+					text-decoration: none;
+					&:before {
+					    display: none;
+					}
+					a {
+						font-size: $font-size-default !important;
+						&:after {
+						    background-size:  25px auto;
+						}
+					}
+				}
+                &:after {
+                    content: "";
+                    position: absolute;
+                    top: 0;
+                    bottom: 0;
+                    left: 0;
+                    width: 0;
+                    padding: 0;
+                    display: block;
+                    background-image: url(../images/icon-arrow-white-right.png);
+                    background-size: 53px auto;
+                    background-repeat: no-repeat;
+                    background-position: center;
+                    z-index: 5;
+                    width: 100px;
+					@media all and (max-width: $screen-xs-max) {
+						display: none;
+					}
+                }
+                &:before {
+                    @include transition($default-transition);
+                    content: "";
+                    position: absolute;
+                    top: 0;
+                    bottom: 0;
+                    left: 0;
+                    width: 0;
+                    padding: 0;
+                    background-color: $pwd-orange;
+                    z-index: 1;
+					@media all and (max-width: $screen-xs-max) {
+						display: none;
+					}
+                }
+                &:focus {
+                    outline: none;
+                }
+                &:hover {
+                    @include transition($default-transition);
+                    border-color: $pwd-orange;
+                    color: $pwd-orange;
+                    padding-left: 125px;
+                    padding-right: 35px;
+                    text-decoration: none;
+					@media all and (max-width: $screen-xs-max) {
+						padding-left: 35px;
+						background-color: $pwd-orange;
+						color: $white;
+					}
+                }
+                &:hover:before {
+                    @include transition($default-transition);
+                    width: 100px;
+                }
+            }
+            
+        }
+        
+    }
+	.logo {
+		position: fixed;
+		width: 80px;
+		height:  80px;
+		bottom: 20px;
+		right: 20px;
+		background-color: $pwd-orange;
+		z-index: 2;
+	}
+    
+}

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Doodling &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/doodling/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Doodling</title>
+		<link>http://localhost:8888/thinkfvm/blog/02/07/2014/doodling/</link>
+		<pubDate>Fri, 07 Feb 2014 17:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[art direction]]></category>
+		<category><![CDATA[Doodling]]></category>
+		<category><![CDATA[illustration]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=3368</guid>
+		<description><![CDATA[I&#8217;ve always doodled.]]></description>
+				<content:encoded><![CDATA[<p>I&#8217;ve always doodled. I doodle in meetings and when I&#8217;m on the phone. Some of my doodles blossom into full-fledged drawings. At my previous job, this practice was frowned upon. The boss thought I wasn&#8217;t paying attention. But I was. My current bosses accept and even encourage it. This blog post will provide you, the reader, with different levels of detail about this topic, broken down as follows:</p>
+<p><b>For the person who thinks reading a blog is like a homework assignment and just wants to look at pictures of some of the doodles that I&#8217;ve made:</b></p>
+<p><b>For the person who can&#8217;t be bothered reading long, boring blog posts, read this:</b></p>
+<p>Doodling helps people retain information during meetings (stop here) (or, for the person that is skeptical and would like a little more clarification):</p>
+<p><b>For the person who is skeptical and just wants a little more detail:</b></p>
+<p>When you doodle, you don&#8217;t daydream. Daydreaming may seem absentminded and pointless, but it actually demands a lot of the brain&#8217;s processing power. You start daydreaming about a vacation, which leads you to think about potential destinations, how you would pay for the trip, whether you could get the flight upgraded, how you might score a bigger hotel room. These cognitions require what psychologists call &#8220;executive functioning&#8221; — for example, planning for the future and comparing costs and benefits.</p>
+<p>Doodling, in contrast, requires very few executive resources but just enough cognitive effort to keep you from daydreaming, which — if unchecked — will jump-start activity in cortical networks that will keep you from remembering what&#8217;s going on. Doodling forces your brain to expend just enough energy to stop it from daydreaming but not so much that you don&#8217;t pay attention.  (stop here) (or, for entire articles on the subject):</p>
+<p><b>For the person who wants to read entire articles on the subject:</b></p>
+<p><a href="http://content.time.com/time/health/article/0,8599,1882127,00.html#ixzz2mXaZ1ClX">http://content.time.com/time/health/article/0,8599,1882127,00.html#ixzz2mXaZ1Cl</a></p>
+<p><a href="http://www.smashingmagazine.com/2012/08/03/i-draw-pictures-all-day">http://www.smashingmagazine.com/2012/08/03/i-draw-pictures-all-day</a>/</p>
+<p><a href="http://www.cnn.com/2013/10/03/business/doodlilng-in-a-meeting-drawing">http://www.cnn.com/2013/10/03/business/doodlilng-in-a-meeting-drawing</a>/</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,58 @@
+.wp-menu-separator {
+	height:  10px;
+	background-color:  #000;
+	border-top:  1px solid #333;
+	border-bottom:  1px solid #333;
+}
+
+#menu-posts-theme {
+    display: none;
+}
+
+/* Hides Post Expirator Time */
+
+#expirationdatediv tr:nth-child(3),
+#expirationdatediv tr:nth-child(4) {
+    display: none;
+}
+
+/* Hide Calendar Stuff We Don't Need: */
+#event_organizer.eventtable.ui-sortable, #event_cost.eventtable, #event_venue.eventtable, .events-cal #postexcerpt, .events-cal #postcustom, .events-cal #commentstatusdiv, .events-cal #commentsdiv, .events-cal #authordiv, .events-cal #postimagediv.postbox, .events-cal #tagsdiv-post_tag, .events-cal #tribe_events_event_options, #wp-admin-bar-tribe-events {
+    display: none;
+}
+
+[data-layout="section_html"] textarea {
+    font-family: monospace;
+    white-space: pre;
+    height:  80vh;
+    background-color: #333;
+    color: #fff;
+}
+
+/* Helps with the Conference Sessions Editor */
+
+div#acf-schedule_and_sessions .repeater {
+    width: 5000px;
+}
+
+    div#acf-schedule_and_sessions .repeater .wp-editor-container {
+        background-color: transparent;
+    }
+    
+    div#acf-schedule_and_sessions .repeater .hl > li.right {
+        float: left;
+    }
+    
+    div#acf-schedule_and_sessions .repeater .wp-editor-container .mce-edit-area.mce-container.mce-panel.mce-stack-layout-item {
+        height: 100px;
+    }
+    
+    div#acf-schedule_and_sessions .repeater .acf_wysiwyg iframe {
+        min-height: 100px !important;
+        height: 100px !important;
+        background-color: transparent;
+    }
+    
+#toplevel_page_wp-ulike-settings .update-plugins, #toplevel_page_gf_edit_forms .update-plugins {
+    display: none;
+}

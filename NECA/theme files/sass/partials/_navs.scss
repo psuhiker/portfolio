@@ -1,0 +1,63 @@
+.nav-pills {
+	> li {
+	    @include transition($default-transition-bg);
+		margin-bottom: $margin-default;
+		&.active {
+			background-color: $tertiary-color-1-dark;
+			> a {
+				text-decoration: none;
+				text-shadow: $default-text-shadow;
+			}
+		}
+		&:hover {
+		    @include transition($default-transition-bg);
+			background-color: $tertiary-color-1-dark;
+			text-decoration: none;
+			> a {
+				color: $white;
+			}
+		}
+		a {
+			text-decoration: none;
+			padding: ($padding-sm * 0.75) $padding-sm !important;
+		}
+	}
+}
+
+.navbar {
+    &-header {
+        margin-top: $margin-sm;
+    }
+    &-toggle {
+        @include transition($default-transition);
+        border-color: $primary-color;
+        .glyphicon {
+            display: none;
+        }
+        .icon-bar {
+            @include transition($default-transition);
+            background-color: $primary-color;
+            display: block;
+        }
+        &:hover {
+            @include transition($default-transition);
+            border-color: $primary-color-lighter;
+            .icon-bar {
+                @include transition($default-transition);
+                background-color: $primary-color-lighter;
+            }
+        }
+        &[aria-expanded="true"] {
+            border-color: $navbar-default-toggle-hover-bg;
+            .glyphicon {
+                display: block;
+                padding-left: 4px;
+                padding-right: 4px;
+                color: $navbar-default-toggle-hover-bg;
+            }
+            .icon-bar {
+                display: none;
+            }
+        }
+    }
+}

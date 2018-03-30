@@ -1,0 +1,45 @@
+.portal {
+    &.admin {
+        ul.nav-tabs {
+            background-color: $tertiary-color-2;
+            padding-top: $padding-xs;
+            li {
+                @media (max-width: #{$screen-xs-max}) {
+                    width: 100%;
+                }
+            }
+            .active a {
+                border-bottom: 5px solid $primary-color;
+            }
+            a {
+                margin: 0;
+                padding: $padding-xs $padding-sm;
+                border: none;
+                text-decoration: none;
+                border-bottom: 5px solid transparent;
+                &:hover {
+                    border-bottom: 5px solid $tertiary-color-2-dark; 
+                }
+            }
+        }
+    }
+    .panel {
+        @include box-shadow (none);
+        background: transparent;
+        margin-bottom: 0;
+        border: none;
+    }
+    .searchableActive {
+        .hasLapsed {
+            display: none;
+        }
+    }
+    .searchablePending {
+        
+    }
+    .searchableLapsed {
+        .isActive {
+            display: none;
+        }
+    }
+}

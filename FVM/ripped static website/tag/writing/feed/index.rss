@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>writing &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/writing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Easy steps for effective writing</title>
+		<link>http://localhost:8888/thinkfvm/blog/10/01/2013/easy-steps-for-effective-writing/</link>
+		<pubDate>Tue, 01 Oct 2013 18:41:48 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[copywriting]]></category>
+		<category><![CDATA[writing]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=3009</guid>
+		<description><![CDATA[Want to be a more effective writer?]]></description>
+				<content:encoded><![CDATA[<p>Want to be a more effective writer? Here are five tips to get you there.</p>
+<p><strong>1. Keep it plain English</strong><br />
+Write it like you’d speak it. It’s not about dumbing down – it’s about helping people understand what you’re saying on a first reading.</p>
+<p><strong>2. Keep it short</strong><br />
+Say the most with the fewest words possible. Why use 50 words when 10 will do? A great line from the classic <em>Elements of Style</em>: “A sentence should contain no unnecessary words, for the same reason a machine should have no unnecessary parts.”</p>
+<p><strong>3. Keep it active</strong><br />
+Active writing involves the reader. For example, “your email was received by us yesterday” is passive and distant. Whereas, “we received your email yesterday” is active and immediate.</p>
+<p><strong>4. Keep the pace</strong><br />
+If one sentence has, say, 15 words in it, write a shorter one after it. Like this one. It helps keep the pace and draws your reader through.</p>
+<p><strong>5. Keep it relevant</strong><br />
+Always put yourself in the reader’s shoes. What’s in it for them? Make sure you give them a reason to keep reading.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

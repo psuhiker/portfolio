@@ -1,0 +1,85 @@
+.sidebar {
+    &__title {
+        margin-top: 0;
+        padding-top: 0;
+        line-height: 1.5;
+    }
+    &.block {
+        padding: $padding-sm $padding-default $padding-default $padding-default;
+        background-color: $pearl-white;
+        margin-bottom: $margin-lg;
+        .categories {
+            a {
+                @include transition($default-transition);
+                &:hover {
+                    @include transition($default-transition);
+                    color: $red;
+                    text-decoration: none;
+                }
+            }
+        }
+    }
+}
+
+.related {
+    .item {
+        text-transform: uppercase;
+        font-weight: 700;
+        line-height: 1.4;
+        margin-bottom: $margin-lg;
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+}
+
+.post {
+    .blog.main &, .blog.category & {
+        border-bottom: 1px solid $carolina-blue;
+        margin-bottom: $margin-xl;
+    }
+    &__title {
+        font-family: $default-font;
+        text-transform: uppercase;
+        color: $steel-blue;
+        a {
+            @include transition($default-transition);
+            &:hover {
+                @include transition($default-transition);
+                text-decoration: none;
+                color: $navy !important;
+            }
+        }
+    }
+    &__date {
+        font-family: $default-font;
+        text-transform: uppercase;
+        color: $gray;
+        font-weight: 700;
+    }
+    &__category {
+        font-family: $default-font;
+        text-transform: uppercase;
+        color: $red;
+        font-weight: 700;
+    }
+    .featured-image {
+        img {
+            width: 100%;
+        }
+    }
+    &__author {
+        text-transform: uppercase;
+        color: $carolina-blue;
+        font-weight: 700;
+        letter-spacing: $wide-letter-spacing;
+    }
+    &__content {
+        h1, h2, h3, h4, h5, h6 {
+            color: $navy;
+            font-family: $default-font;
+            font-size: $font-size-md;
+            font-weight: 400;
+        }
+    }
+}

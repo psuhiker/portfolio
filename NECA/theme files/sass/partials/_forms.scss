@@ -1,0 +1,453 @@
+#filterForm {
+    position: relative;
+    #resetBtn {
+        position: absolute;
+        right: 10px;
+        top: 17px;
+    }
+    #resetBtnActive {
+        @extend #resetBtn;
+    }
+    #resetBtnPending {
+        @extend #resetBtn;
+    }
+    #resetBtnLapsed {
+        @extend #resetBtn;
+    }
+}
+
+.events .logged-in .nf-field .field-wrap {
+	display: none;
+	&.submit-wrap {
+		display: block !important;
+	}
+}
+
+.hidden-label .nf-field-label {
+    display: none;
+}
+
+.input {
+    &-group {
+        margin-bottom: $margin-default;
+        &-addon {
+            border: none;
+        }
+        .input-text {
+            margin-bottom: 0;
+        }
+    }
+    &-select {
+        @include box-shadow($default-box-shadow);
+        @include border-radius(0px !important);
+        border: none;
+        width: 100%;
+        height: 55px !important;
+        background-color: $white;
+        -webkit-appearance: none;
+        -webkit-border-radius: 0px;
+        padding-left: $padding-default;
+        background-image: url(../images/select-arrow.png);
+        background-repeat: no-repeat;
+        background-position: right;
+        background-size: 30px;
+        -moz-appearance: none;
+        font-family: $body-font;
+        &:focus {
+            outline: none !important;
+            -moz-outline: none !important;
+        }
+        .label {
+            color: red;
+        }
+    }
+    &-text {
+        @include transition($default-transition);
+        @include box-shadow($default-box-shadow);
+        border: none;
+        /*border-left: 10px solid $white;*/
+        padding: $padding-default $padding-default $padding-default $padding-default;
+        margin: 0 0 $margin-default 0;
+        width: 100%;
+        font-weight: 100;
+        font-size: $font-size-md;
+        line-height: 0.85em;
+        font-family: $form-font, $body-font;
+        color: #333;
+        left: 1px;
+        top: 1px;
+        position: relative;
+        &:focus {
+            @include transition($default-transition);
+            @include box-shadow($input-box-shadow-hover);
+            outline: none;
+            padding-left: $padding-default;
+            left: 0px;
+            top: 0px;
+            position: relative;
+            background-color: rgba($white,0.85);
+            .marquee & {
+                border-left-color: transparent;
+                padding-left: text-shadow--dark;
+                @include box-shadow($light-box-shadow-hover);
+                background-color: rgba($white,1);
+            }
+        }
+        .nf-error & {
+            border: none !important;
+        }
+    }
+    &-textarea {
+        @include transition($default-transition);
+        @include box-shadow($default-box-shadow);
+        border: none;
+        padding: $padding-default;
+        margin: 0 0 $margin-default 0;
+        width: 100%;
+        height: 300px;
+        font-weight: 100;
+        resize: none;
+        font-size: $font-size-md;
+        font-family: $form-font, $body-font;
+        left: 1px;
+        top: 1px;
+        position: relative;
+        &:focus {
+            @include transition($default-transition);
+            @include box-shadow($input-box-shadow-hover);
+            outline: none;
+            background-color: rgba($white,0.85);
+            left: 0px;
+            top: 0px;
+            position: relative;
+        }
+        .nf-error & {
+            border: none !important;
+        }
+    }
+    &-ticker {
+        width: 150px;
+        .btn {
+            @include border-radius($default-border-radius);
+            padding: $padding-sm $padding-default;
+            &:focus {
+                outline: none;
+            }
+        }
+        .input-number {
+            border: none;
+            padding: ($padding-default + 8) 0;
+            text-align: center;
+            font-size: $font-size-md;
+            font-weight: 700;
+            &:focus {
+                outline: none;
+            }
+        }
+    }
+    /*&-label-float {
+        label {
+            @include transition($default-transition);
+            position: absolute;
+            top: $padding-sm + 4;
+            left: $padding-lg + 8;
+            opacity: 0.75;
+            font-weight: 400;
+            z-index: 99;
+            &.show {
+            	left: $padding-default;
+            	top: ($padding-lg - 4) *-1;
+            	font-size: $font-size-xs;
+            }
+        }
+        .input-text {
+            margin-bottom: $margin-lg + 4;
+        }
+    }*/
+    &-checkbox {
+        &__checkbox {
+            @include box-shadow($default-box-shadow);
+            background-color: $white;
+            font-size: 32px;
+            height: 50px;
+            line-height: 28px;
+            width: 50px;
+            vertical-align: middle;
+            margin-left: $margin-default;
+        }
+        &__label {
+            font-weight: 400;
+            padding: $padding-sm;
+        }
+        &__group {
+            margin-bottom: $margin-default;
+            & .input-checkbox {
+                &__input[type=checkbox] {
+                    display: none;
+                    & ~ .input-checkbox__button > .input-checkbox__label .input-checkbox__span {
+                        &:first-child {
+                            display: none;
+                            user-select: none;
+                            -moz-user-select: none;
+                            -ms-user-select: none;
+                            -webkit-touch-callout: none;
+                            -webkit-user-select: none;
+                        }
+                        &:last-child {
+                            display: inline-block;   
+                        }
+                    }
+                    &:checked ~ .input-checkbox__button {
+                        & > .input-checkbox__label .input-checkbox__span {
+                            margin-left: -3px;
+                            margin-top: -4px;
+                            &:first-child {
+                                display: inline-block;
+                            }
+                            &:last-child {
+                                display: none;   
+                            }
+                        }
+                        & > .input-checkbox__checkbox {
+                            background-color: $white;
+                        }
+                    }
+                }
+            }
+        } 
+    }
+    &-icon {
+        font: normal normal normal 14px/1 FontAwesome;
+        position: absolute;
+        left: 30px;
+        top: 48px;
+        font-size: $font-size-md;
+        opacity: 0.25;
+        &-edit {
+            &:after {
+                @extend .input-icon;
+                content: "\f040" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+        &-user {
+            &:after {
+                @extend .input-icon;
+                content: "\f2be" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+        &-lock {
+            &:after {
+                @extend .input-icon;
+                content: "\f023" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+        &-twitter {
+            &:after {
+                @extend .input-icon;
+                content: "\f099" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+        &-linkedin {
+            &:after {
+                @extend .input-icon;
+                content: "\f0e1" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+        &-phone {
+            &:after {
+                @extend .input-icon;
+                content: "\f095" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+        &-email {
+            &:after {
+                @extend .input-icon;
+                content: "\f003" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+        &-company {
+            &:after {
+                @extend .input-icon;
+                content: "\f0b1" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+        &-money {
+            &:after {
+                @extend .input-icon;
+                content: "\f155" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+        &-address {
+            &:after {
+                @extend .input-icon;
+                content: "\f041" !important;
+                margin: $padding-xs 0 0 $padding-xs;
+            }
+            input.input-text, input.input-text:focus {
+                padding-left: 50px !important;
+            }
+        }
+    }
+}
+
+/* PayPal Plugin */
+
+#fbuilder input {
+    @extend .input-text;
+    &:focus {
+        @extend .input-text:focus;
+    }
+}
+
+#fbuilder select {
+    @extend .input-select;
+}
+
+/* Disables Inputs */
+
+.disable-field {
+    &:hover {
+    }
+    .input-text {
+        @include box-shadow(none);
+        pointer-events: none;
+        background-color: rgba($white,0);
+        border-color: transparent;
+        padding: 0;
+        font-family: $body-font;
+    }
+    label {
+        font-size: $font-size-sm;
+        span {
+            display: none;
+        }
+    }
+}
+
+/* Floating Labels 
+
+.float-label {
+	clear: both !important;
+	label {;
+		@include transition($default-transition);
+		position: absolute;
+		top: $padding-sm + 4;
+		left: $padding-lg + 8;
+		pointer-events: none;
+		opacity: 0.75;
+		font-weight: 400;
+		z-index: 9;
+		&.hasValue {
+			left: $padding-default;
+			top: ($padding-lg - 4) *-1;
+			font-size: $font-size-xs;
+		}
+	}
+	.input-text {
+	    margin-bottom: $margin-lg;
+	}
+}*/
+
+/* Firefox */
+select:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+}
+
+/* Autofill */
+
+input:-webkit-autofill, 
+textarea:-webkit-autofill, 
+select:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus {
+	background-color: $white !important;
+	-webkit-transition: "color 9999s ease-out, background-color 9999s ease-out";
+	    -webkit-transition-delay: 9999s;
+}
+
+/* Ninja Forms */
+
+.ninja-forms-req-symbol {
+    font-size: $font-size-xs;
+    vertical-align: ($font-size-xs/2);
+}
+
+#ninja_forms_required_items, .nf-field-container {
+    clear: initial !important;
+}
+
+.nf-after-form-content {
+    clear: both;
+}
+
+.nf-field {
+    margin-bottom: $margin-default;
+}
+
+.nf-field input[type=button] {
+    margin-top: $margin-lg;
+}
+
+.nf-error-msg.nf-error-field-errors {
+    padding-left: $padding-default;
+}
+
+.nf-error-wrap.nf-error > .nf-error-msg {
+    position: absolute;
+    top: 35px;
+    right: 10px;
+    font-size: $font-size-xs;
+}
+
+.nf-help {
+    background: none !important;
+}
+
+.submit-container.nf-field-container {
+	clear: both !important;
+	}
+
+.submit-wrap {
+    flex: column;
+    flex-direction: column;
+    flex-flow: column;
+    -ms-flex-direction: column;
+    clear: both;
+}

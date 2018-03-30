@@ -1,0 +1,31 @@
+#header {
+    @include transition($quick-transition);
+    padding: $padding-default 0 0 0;
+    box-shadow: ($default-box-shadow);
+    position: relative;
+    z-index: 9;
+    background-color: $white;
+    &.sticky {
+        @include transition($quick-transition);
+        position: fixed;
+        width: 100%;
+    }
+}
+
+.logo {
+    @include transition($quick-transition);
+    max-width: 220px;
+    padding: $padding-xs 0 $padding-lg 0;
+    .sticky & {
+        @include transition($quick-transition);
+        display: none;
+    }
+    &.horizontal {
+        @include transition($quick-transition);
+        display: none;
+        .sticky & {
+            @include transition($quick-transition);
+            display: block;
+        }
+    }
+}

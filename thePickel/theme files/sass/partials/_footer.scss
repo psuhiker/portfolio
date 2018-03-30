@@ -1,0 +1,115 @@
+#footer {
+    background-color: $pwd-blue;
+    padding: 0px 0px $padding-xl 0px;
+    color: $white;
+    text-shadow: $default-text-shadow;
+    background-repeat: no-repeat;
+    background-position: bottom left;
+	position: relative;
+	height: 250px;
+    @media all and (min-width: $screen-sm-min) and (max-width: $screen-md-max) {
+        background-size: 30vw;
+    }
+    @media all and (max-width: $screen-xs-max) {
+        background-size: 60vw;
+        padding-bottom: 35vw;
+    }
+	@media all and (min-width: $screen-sm-min) {
+		font-size: $font-size-md;
+	}
+	> .container {
+		max-width: 80% !important
+	}
+	.logo {
+		position: absolute;
+		width: 100px;
+		height:  100px;
+		bottom: 20px;
+		left: 20px;
+	}
+	.coverup {
+		position: absolute;
+		width: 100px;
+		height:  100%;
+		bottom: 0px;
+		right: 10px;
+		background-color: $pwd-blue;
+		z-index: 2;
+	}
+    & .arrow {
+        background-image: url(../images/triangle-contact.png);
+        background-repeat: no-repeat;
+		background-size: contain;
+		width: 200px;
+		height: 200px;
+		position: absolute;
+		right: 150px;
+		@media all and (max-width: $screen-xs-max) {
+			width: 100px;
+			height: 100px
+		}
+    }
+    a {
+        @include transition($default-transition);
+        color: $white;
+        text-decoration: none;
+        opacity: 0.9;
+        display: inline-block;
+        margin: 0px 0px 1px 0px;
+		@media all and (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+			font-size: $font-size-default;
+		}
+		@media all and (max-width: $screen-sm-max) {
+			margin:  0px;
+			font-size: $font-size-sm;
+			&:hover {
+			    margin: 0px;
+			}
+			&:after {
+			    display: none;
+			}
+		}
+        &:hover {
+        	@include transition($default-transition);
+            opacity: 1;
+            text-shadow: 2px 2px 0px $pwd-darkblue;
+        }
+    }
+	#social {
+		position: absolute;
+		right: 150px;
+		width:  200px;
+		text-align: center;
+		bottom: 20px;
+		z-index: 9;
+		white-space: nowrap;
+		@media all and (max-width: $screen-xs-max) {
+			width: 100px;
+		}
+		ul {
+			margin: 0;
+			li {
+				margin: 0 $margin-sm;
+				a {
+					@include transition($default-transition);
+					@include border-radius($default-border-radius);
+					color: $white;
+					background-color: $pwd-blue;
+					padding: 0 $padding-sm;
+					display: inline-block;
+					&:hover {
+						@include transition($default-transition);
+						color: $pwd-darkblue;
+						background-color: $white;
+					}
+				}
+				.svg-inline--fa {
+					@media all and (max-width: $screen-sm-max) {
+						font-size: 1.25em;
+						height: 27px;
+					}
+				}
+			}
+		}
+	}
+}

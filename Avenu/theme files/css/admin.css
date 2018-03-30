@@ -1,0 +1,34 @@
+/* Removes Unneeded Items */
+
+.menu-icon-jetpack, 
+.menu-icon-dashboard .wp-submenu, 
+.blavatar, 
+.toplevel_page_jetpack, 
+#collapse-menu, 
+.menu-icon-tools, 
+ul#wp-admin-bar-my-sites-list li .ab-sub-wrapper ul li:nth-child(2), 
+ul#wp-admin-bar-my-sites-list li .ab-sub-wrapper ul li:nth-child(3),
+#contextual-help-link-wrap,
+#toplevel_page_edit-post_type-acf .wp-submenu, #multisite_clone_metabox
+ {
+    display: none !important;
+}
+
+/* Augments Admin Sidebar Menu */
+
+.wp-menu-separator {
+	height:  10px;
+	background-color:  #000;
+	border-top:  1px solid #333;
+	border-bottom:  1px solid #333;
+}
+
+/* Advanced Custom Fields */
+
+tr[data-field_name="section_marquee_include_cta"] td.label label {
+    display: none !important;
+}
+
+#nf_admin_metaboxes_appendaform {
+    display: none;
+}

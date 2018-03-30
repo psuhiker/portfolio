@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Curling &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/curling/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Stay Classy, America</title>
+		<link>http://localhost:8888/thinkfvm/blog/01/27/2014/stay-classy-america/</link>
+		<pubDate>Mon, 27 Jan 2014 17:00:22 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[Anchorman]]></category>
+		<category><![CDATA[Ben & Jerry's]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[Conan]]></category>
+		<category><![CDATA[Curling]]></category>
+		<category><![CDATA[Dodge Durango]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[media planning]]></category>
+		<category><![CDATA[olympics]]></category>
+		<category><![CDATA[Ron Burgundy]]></category>
+		<category><![CDATA[television]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=3429</guid>
+		<description><![CDATA[Ron Burgundy is everywhere!]]></description>
+				<content:encoded><![CDATA[<p>Ron Burgundy is everywhere!</p>
+<p>The promotion of Anchorman 2 was unconventional to say the least. Ron appeared as a band member on Conan O&#8217;Brien, and in numerous Dodge Durango commercials; he attended the MTV VMA awards and even showed up at the Olympic Curling Trials. Most recently he co-hosted a local North Dakota news program.</p>
+<p>&nbsp;</p>
+<p><iframe width="500" height="281" src="http://www.youtube.com/embed/2b5IhzGuMPg?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<p>(Ron&#8217;s photo bombs are especially amusing.)</p>
+<p>Ben &amp; Jerry even created an ice cream flavor in Ron&#8217;s honor, called “Scotchy, Scotch, Scotch.”</p>
+<p><img class="alignnone" alt="" src="http://4.bp.blogspot.com/-r5fBpwo0XmE/Uo_t0nm4cgI/AAAAAAAALv8/vIuUgAgEw0k/s1600/ben%2Bjerrys%2Bron%2Bburgundy%2Bscotchy%2Bscotch%2Bscotch%2Bice%2Bcream%2Bpint.jpg" width="227" height="254" /></p>
+<p>Some think all the promotion is too much––they&#8217;ve had enough of Mr. Burgundy.</p>
+<p>I think it is pure marketing genius, thinking outside the box of boring commercials, ads, and billboards. I actually watch and enjoy the Dodge commercials, as opposed to my normal habit of changing the channel. Not to mention how viral his videos have gone––all free advertising!</p>
+<p>Keep making us laugh Ron!</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

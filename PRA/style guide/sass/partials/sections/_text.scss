@@ -1,0 +1,32 @@
+section.text {
+	padding: $padding-xxl 0;
+	.content {
+        margin-bottom: $margin-xxl;
+    }
+    .oneColumn {
+        .content {
+            @extend .col-md-8;
+        }
+    }
+    .twoColumn {
+        .content:first-child {
+            @extend .col-md-7;
+        }
+        .content:nth-child(2) {
+            @extend .col-md-5;
+        }
+    }
+    .threeColumn {
+        .content {
+            @extend .col-md-4;
+        }
+    }
+    .fourColumn {
+        .content {
+            @extend .col-md-6;
+        }
+        .content:last-child:nth-child(odd) {
+            @extend .col-md-offset-3;
+        }
+    }
+}

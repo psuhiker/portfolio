@@ -1,0 +1,156 @@
+.marquee {
+    background-size: cover;
+    background-position: center;
+    height: 55vh;
+    margin-top: 0;
+    position: relative;
+    overflow: hidden;
+    .home & {
+        overflow: visible;
+    }
+    .secondary & {
+        height: 35vh;
+        min-height: 300px;
+    }
+    &:before {
+        content: "";
+        background-image: url(../images/overlay-marquee.png);
+        background-size: cover;
+        background-position: center;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        .home & {
+            background-image: url(../images/overlay-marquee-home.png);
+        }
+    }
+    /*&:after {
+        content: "";
+        background-image: url(../images/marquee-right-shape.svg);
+        background-size: cover;
+        background-position: top left;
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 66%;
+        width: 50%;
+        background-repeat: no-repeat;
+    }*/
+    &.slim {
+    	height: auto;
+    	min-height: auto;
+    	color: $white;
+    	padding: $padding-lg 0;
+    	margin-bottom: 0px;
+    	&:before {
+    	    background-image: none;
+    	}
+    	input {
+    		color: $black;
+    	}
+    }
+    .block {
+        @include transition($default-transition);
+    	margin: 12.5vh 0 -12.5vh 0;
+    	@media (min-width: #{$screen-sm-min}) and (max-width: #{$screen-sm-max}) {
+    	    margin: 20vh 0 $margin-xl 0;
+    	}
+    	@media (min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max}) {
+    	    margin: 20vh 0 -20vh 0;
+    	}
+    	@media (max-width: #{$screen-xs-max}) {
+    	    margin-bottom: $margin-xl;
+    	}
+    	.overlay {
+    	    @include transition($default-transition);
+    	    background-color: $primary-color;
+    	    opacity: 0;
+    	    position: absolute;
+    	    top: 0;
+    	    right: 0;
+    	    bottom: 0;
+    	    left: 0;
+    	}
+    	&:hover .overlay {
+    	    @include transition($default-transition);
+    	    opacity: 0.5;
+    	}
+    }
+    .banner {
+    	position: absolute;
+    	bottom: 0px;
+    	left: 0px;
+    	padding-left: 5vw;
+    	margin-left: -5vw;
+    	padding-top: $padding-default;
+    	padding-right: ($padding-xxl * 1.5); 
+    	padding-bottom: $padding-default;
+    	display: inline-block;
+    	color: $white;
+    	border-left: 15px solid transparent;
+    	@media (min-width: #{$screen-sm-min}) and (max-width: #{$screen-sm-max}) {
+    		left: 30vw;
+    		padding-left: 20vw;
+    		padding-right: 25vw;
+    		margin-left: -($container-sm/2);
+    	}
+    	@media (min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max}) {
+    		left: 40vw;
+    		padding-left: 10vw;
+    		padding-right: 15vw;
+    		margin-left: -($container-md/2);
+    	}
+    	@media (min-width: #{$screen-lg-min}) {
+    		left: 20vw;
+    		padding-left: 30vw;
+    		padding-right: 25vw;
+    		margin-left: -($container-lg/2)-10;
+    	}
+    	h1 {
+    		position: relative;
+    		z-index: 2;
+    	}
+    }
+}
+
+/* SVGs */
+
+svg#marquee-right-shape {
+	position: absolute;
+	bottom: 0;
+	left: 66%;
+	right: 0;
+	top: 0;
+	width: 50%;
+	height: 100%;
+	display: none;
+	.cls-1 {
+		fill: $primary-color;
+		opacity: 0.95;
+	}
+}
+
+svg#bg-banner {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 1;
+	overflow: visible;
+	.cls-1 {
+		fill: $primary-color;
+		opacity: 0.95;
+	}
+	@media (max-width: #{$screen-xs-max}) {
+	    left: -40vw;
+	}
+	@media (min-width: #{$screen-lg-min}) {
+	    left: 10vw;
+	}
+}

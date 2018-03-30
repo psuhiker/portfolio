@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>viral marketing &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/viral-marketing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>You share it, they&#8217;ll wear it</title>
+		<link>http://localhost:8888/thinkfvm/blog/06/11/2013/you-share-it-theyll-wear-it/</link>
+		<pubDate>Tue, 11 Jun 2013 15:52:07 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[brand strategy]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[viral marketing]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=3076</guid>
+		<description><![CDATA[Do you have a message you’d like to spread, but your advertising budget doesn’t leave you much breathing room?]]></description>
+				<content:encoded><![CDATA[<p>Do you have a message you’d like to spread, but your advertising budget doesn’t leave you much breathing room? No problem. Simply print your message on a T-shirt and hand it out on a college campus near you. How do I know this will work? Because I am proud to say I was a victim of this shameless, inexpensive plot to transform penniless college students into walking advertisements.</p>
+<p>I specifically remember one instance where I filled out an interest card with my name and contact information, knowing good and well that the organization would be contacting me with their various marketing messages and sales pitches, but I didn&#8217;t care because they were giving away free hooded sweatshirts—that’s right, FREE HOODIES—just for signing up! I still have that incredibly comfy white hoodie with the name and web address of a townhome community I have never lived in plastered across the chest. Just because I wasn’t converted into a paying customer doesn&#8217;t mean my wearing that hoodie all over campus and the surrounding communities didn&#8217;t lead to calls and inquiries.</p>
+<p>It’s all about visibility. The more a student wears your T-shirt or hoodie, the more times your name/message is being seen. The way I see it, everyone wins. Your organization is able to spread its message for the low cost of printing a few hundred T-shirts and college students get another T-shirt they can wear to postpone the inevitable laundry chore by at least one more day.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

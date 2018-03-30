@@ -1,0 +1,63 @@
+a, a:hover {
+    color: $light-grey;
+}
+
+.bg {
+    &--orange {
+        background-color: $orange !important;
+    }
+    &--brown {
+        background-color: $brown !important;
+    }
+    &--cream {
+        background-color: $cream !important;
+    }
+    &--white {
+        background-color: $white !important;
+    }
+    &--grey {
+        background-color: $grey !important;
+    }
+    &--light-grey {
+        background-color: $light-grey !important;
+    }
+    &--medium-grey {
+        background-color: $medium-grey !important;
+    }
+    &--dark-grey {
+        background-color: $dark-grey !important;
+    }
+    &--black {
+        background-color: $black !important;
+    }
+}
+
+.color {
+    &--orange {
+        color: $orange !important;
+    }
+    &--brown {
+        color: $brown !important;
+    }
+    &--cream {
+        color: $cream !important;
+    }
+    &--white {
+        color: $white !important;
+    }
+    &--grey {
+        color: $grey !important;
+    }
+    &--light-grey {
+        color: $light-grey !important;
+    }
+    &--medium-grey {
+        color: $medium-grey !important;
+    }
+    &--dark-grey {
+        color: $dark-grey !important;
+    }
+    &--black {
+        color: $black !important;
+    }
+}

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pay-per-click &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/pay-per-click/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Pay-Per-Gaze: The future of advertising</title>
+		<link>http://localhost:8888/thinkfvm/blog/01/13/2014/pay-per-gaze-the-future-of-advertising/</link>
+		<pubDate>Mon, 13 Jan 2014 19:29:53 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[content marketing]]></category>
+		<category><![CDATA[content strategy]]></category>
+		<category><![CDATA[direct marketing]]></category>
+		<category><![CDATA[Google Glass]]></category>
+		<category><![CDATA[Marty McFly]]></category>
+		<category><![CDATA[Mashable]]></category>
+		<category><![CDATA[media buying]]></category>
+		<category><![CDATA[media planning]]></category>
+		<category><![CDATA[pay-per-click]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=3272</guid>
+		<description><![CDATA[&#8220;Advertising is going to change more in the next 20 years than it has in the last 100,&#8221; says Chris Taylor of Mashable OP-ED.]]></description>
+				<content:encoded><![CDATA[<p>&#8220;Advertising is going to change more in the next 20 years than it has in the last 100,&#8221; <a title="says Chris Taylor of Mashable OP-ED." href="http://mashable.com/2013/08/15/the-future-of-advertising-pay-per-gaze-is-just-the-beginning/" target="_blank">says Chris Taylor of Mashable OP-ED. </a>In recent months Google, the world’s largest search engine provider, was granted a patent for a Google Glass-based ad system known as &#8220;pay-per-gaze.”</p>
+<p>Google Glass is a wearable computer with an optical head-mounted display, which is being developed by Google as part of a mission to produce a mass-market ubiquitous computer.  To operate Google Glass, wearers simply tilt their head 30 degrees upward or tap the touchpad and say, &#8220;O.K., Glass.&#8221;  After the glasses are activated simple requests can be made such as, &#8220;Take a picture”, &#8220;Record a video&#8221;, or &#8220;Send a message to.”  That&#8217;s where &#8220;pay-per-gaze&#8221; comes in.  Google’s &#8220;pay-per-gaze&#8221; would charge advertisers for the number of times someone looks at their ad through Google Glass, the same way pay-per-click works today when users click on a link.  Google Glass contains technology that would track the direction the wearer’s pupils are pointing, and for how long they are gazing at a message.</p>
+<p>This technology could potentially be a major risk for Google as people are infinitely exposed to advertising.  The money would flow in endlessly, and advertisers might second-guess themselves and their decision to invest in &#8220;pay-per-gaze.”  Still, this technology is something not even Marty McFly would have imagined.  Personally, I&#8217;ll stick with my Ray Bans.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

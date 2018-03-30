@@ -1,0 +1,12 @@
+.ulist {
+    list-style: none;
+    padding-left: $padding-lg;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    li {
+    	margin-bottom: $margin-default;
+    	&:last-child {
+            margin-bottom: 0;
+        }
+    }
+}

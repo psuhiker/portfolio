@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>creativity &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/creativity/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Forget the box, think outside the oven</title>
+		<link>http://localhost:8888/thinkfvm/blog/05/13/2013/forget-the-box-think-outside-the-oven/</link>
+		<pubDate>Mon, 13 May 2013 19:27:15 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[creativity]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[media buying]]></category>
+		<category><![CDATA[media planning]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=2542</guid>
+		<description><![CDATA[Inspiration is everywhere.]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-2543" alt="bus shelter" src="http://www.thinkfvm.com/wp-content/uploads/2013/06/6a00d8341c51c053ef0147e18aa1b9970b-450wi.134840.jpeg" width="425" height="340" /></p>
+<p>Inspiration is everywhere. Sometimes, all we have to do is look up.</p>
+<p><a href="http://www.thinkfvm.com/people/jordy-pickel/">Jordy Pickel</a>, FVM&#8217;s Director of Digital Development, spotted this article about how a local coffee company is warming Minnesotans, one bus shelter at a time.</p>
+<p>Thanks, Jordy! Maybe this will inspire the FVM team to cook up some creative advertising recipes of our own.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

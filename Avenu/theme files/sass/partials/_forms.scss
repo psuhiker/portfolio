@@ -1,0 +1,121 @@
+.nf-field-label {
+	opacity: 1;
+	position: absolute;
+	top: 10px;
+	left: 25px;
+	-webkit-transition: all 0.2s;
+	transition: all 0.2s;
+	color: $steel-blue;
+	z-index: 1;
+	text-transform: uppercase;
+	font-size: 14px;
+	#footer & {
+		left: 10px;
+		color: $carolina-blue;
+	}
+}
+
+
+.nf-field-label.show {
+	/* How high the label will be above the input field */
+	top: 5px;
+	left: 27px;
+	font-size: 6px;
+	#footer & {
+        left: 12px;
+    }
+}
+
+/* Div containing label must be relative so that the label stays within the div */
+.form-group {
+	position: relative;
+}
+
+.form-control {
+	@include box-shadow(none);
+	padding: 15px 12px 5px 12px;
+	border: 1px solid $gray !important;
+	margin-bottom: 10px !important;
+    background-color: $pearl-white;
+    color: $gray;
+    #footer & {
+        background-color: $dark-blue;
+        border: 1px solid $dark-blue !important;
+        margin-bottom: 0 !important;
+    }
+}
+
+.form-select {
+    border: 1px solid $gray !important;
+    background-color: $pearl-white;
+    height: 45px !important;
+    outline: none;
+    color: $steel-blue;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.nf-error .ninja-forms-field {
+    border-color: $red !important;
+    background-color: $foggy-blue;
+    #footer & {
+        border-color: $dark-blue !important;
+        background-color: rgba($dark-blue, 0.5);
+    }
+}
+
+.nf-field-element input, .nf-field-element textarea {
+	border: none;
+	&:focus {
+	  border: none;
+	  box-shadow: none;
+	}
+}
+
+.nf-field-container {
+    clear: none !important;
+}
+
+.nf-form-fields-required, .ninja-forms-req-symbol {
+    display: none;
+}
+
+.nf-error-wrap.nf-error {
+    position: absolute;
+    top: 5px;
+    right: 15px;
+    font-size: 6px;
+    text-transform: uppercase;
+    #footer & {
+        right: 0;
+    }
+}
+
+.nf-error-field-errors {
+    font-size: $font-size-sm;
+    color: $navy !important;
+    margin-top: $margin-lg;
+    text-align: right;
+    width: 80%;
+    margin-left: 20%;
+    clear: both;
+    #footer & {
+        color: $carolina-blue;
+    }
+}
+
+.nf-form-content .nf-field-container {
+	margin-bottom: 2px;
+	#footer & {
+    	padding-left: 0;
+    	padding-right: 0;
+    }
+}
+
+.footer-form {
+	@media all and (max-width: 768px) {
+	    max-width: 500px;
+	    margin: 0 auto;
+	}
+}

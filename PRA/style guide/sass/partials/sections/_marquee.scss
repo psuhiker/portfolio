@@ -1,0 +1,166 @@
+section.marquee {
+    padding: $padding-xxl 0;
+    &--navy {
+        @extend section.marquee;
+        background-color: $navy;
+        color: $white;
+        .headline {
+            color: $white;
+            border-color: $foggy-blue;
+            strong {
+                white-space: nowrap;
+                border-bottom: 10px solid $foggy-blue;
+                color: $foggy-blue;
+                padding-bottom: $padding-sm;
+            }
+        }
+    }
+    &.standardMarquee {
+        position: relative;
+        height: 500px;
+        background-color: $navy;
+        @media all and (max-width: $screen-sm-max) {
+            height: auto;
+            padding: 0;
+        }
+        .pattern {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 60%;
+            height: 100%;
+            padding-left: 0;
+            @media all and (max-width: $screen-sm-max) {
+                width: 100%;
+                position: relative;
+                padding-top: ($padding-xxl * 1.5);
+                padding-bottom: ($padding-xxl * 2);
+            }
+            .headline {
+                strong {
+                    white-space: nowrap;
+                    border-bottom: 10px solid $foggy-blue;
+                    color: $foggy-blue;
+                    padding-bottom: $padding-sm;
+                    @media all and (max-width: $screen-sm-max) {
+                        border-width: 7px;
+                    }
+                }
+            }
+        }
+        .image {
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 40%;
+            height: 100%;
+            background-size: cover;
+            background-position: center;
+            padding-left: 0;
+            @media all and (max-width: $screen-sm-max) {
+                width: 100%;
+                position: relative;
+                height: 300px;
+            }
+        }
+    }
+    &.heroMarquee {
+        position: relative;
+        height: 600px;
+        background-color: $navy;
+        color: $white;
+        .pattern {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            width: 35%;
+            height: 100%;
+            background-image: url(../images/pattern-horizontal-bars.png);
+            background-size: auto 125px;
+            background-repeat: repeat-x;
+            background-position: bottom center;
+            @media all and (max-width: $screen-sm-max) {
+                width: 100%;
+                position: absolute;
+                height: 50%;
+                bottom: auto;
+                top: 0;
+                background-size: auto 75px;
+            }
+            .headlinePlacement {
+                font-size: $font-size-xl;
+                text-align: right;
+                margin-top: 200px;
+                @media all and (max-width: $screen-sm-max) {
+                    font-size: $font-size-lg;
+                    text-align: left;
+                    margin-top: 50px;
+                }
+                strong {
+                    white-space: nowrap;
+                    border-bottom: 10px solid $foggy-blue;
+                    color: $foggy-blue;
+                    padding-bottom: $padding-sm;
+                    @media all and (max-width: $screen-sm-max) {
+                        border-width: 7px;
+                    }
+                }
+            }
+        }
+        .image {
+            position: absolute;
+            right: 0;
+            top: 0;
+            width: 65%;
+            height: 100%;
+            background-size: cover;
+            background-position: center;
+            padding-left: 0;
+            @media all and (max-width: $screen-sm-max) {
+                width: 100%;
+                position: absolute;
+                height: 50%;
+                top: auto;
+                bottom: 0;
+            }
+            .headlinePlacement {
+                font-size: $font-size-xl;
+                border-left: none !important;
+                font-size: $font-size-xl;
+                margin-top: 200px;
+                @media all and (max-width: $screen-sm-max) {
+                    display: none;
+                }
+                strong {
+                    white-space: nowrap;
+                    border-bottom: 10px solid $foggy-blue;
+                    color: $foggy-blue;
+                    padding-bottom: $padding-sm;
+                    padding-left: $padding-lg;
+                }
+            }
+        }
+    }
+    &.basicMarquee {
+        background-color: $misty-white;
+        z-index: 1;
+        position: relative;
+        padding: 0;
+        .pattern {
+            padding: ($padding-xxl * 2) 0;
+            padding-left: 0;
+            background-image: url(../images/pattern-vertical-bars.png);
+            background-size: 200px auto;
+            background-repeat: repeat-y;
+            background-position: center right;
+            width: 100%;
+            @media all and (max-width: $screen-sm-max) {
+            	background-image: none;
+            	padding: $padding-xxl 0;
+            }
+            .copy {
+                margin-left: $margin-xxl + $headline-border-width;
+            }
+        }
+    }
+}

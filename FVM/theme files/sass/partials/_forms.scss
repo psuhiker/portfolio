@@ -1,0 +1,155 @@
+.form {
+    &--light {
+        input[type=text], input[type=email] {
+            @include transition($default-transition);
+            @include box-sizing(border-box);
+            background-color: $grey;
+            border: 1px solid $grey;
+            color: $medium-grey;
+            font-family: $secondary-font !important;
+            padding: $padding-lg $padding-sm $padding-lg $padding-lg;
+            width: 100% !important;
+            &:focus {
+                @include transition($default-transition);
+                border: 1px solid $medium-grey;
+                outline: none;
+            }
+        }
+        textarea {
+            @extend input[type=text];
+            resize: none;
+            height: 20vh;
+        }
+        input[type=submit], input[type=button] {
+            @include transition($default-transition);
+            background-color: $orange;
+            color: $white;
+            border: 1px solid $orange;
+            font-family: $secondary-font;
+            text-transform: uppercase;
+            padding: $padding-default ($padding-default * 20) $padding-default $padding-xxl;
+            opacity: 1;
+            &:hover {
+                @include transition($default-transition);
+                opacity: 0.75;
+            }
+        }
+        .form-group {
+            position: relative;
+            margin-top: 17px;
+            label {
+                @include transition($default-transition);
+                font-family: $secondary-font;
+                font-size: $font-size-default;
+                opacity: 1;
+                position: absolute;
+                top: 17px;
+                left: 30px;
+                pointer-events: none;
+                &.show {
+                    font-size: $font-size-sm;
+                    top: -25px;
+                    left: 15px;
+                }
+            }
+        }
+    }
+    &--dark {
+        color: $light-grey;
+        input[type=text], input[type=email] {
+            @include transition($default-transition);
+            @include box-sizing(border-box);
+            background-color: $dark-grey;
+            border: 1px solid $dark-grey;
+            color: $light-grey;
+            font-family: $secondary-font;
+            padding: $padding-lg $padding-sm $padding-lg $padding-lg;
+            width: 100%;
+            &:focus {
+                @include transition($default-transition);
+                border: 1px solid $medium-grey;
+                outline: none;
+            }
+        }
+        textarea {
+            @extend input[type=text];
+            resize: none;
+            height: 20vh;
+        }
+        input[type=submit], input[type=button] {
+            @include transition($default-transition);
+            background-color: $orange;
+            color: $white;
+            border: 1px solid $orange;
+            font-family: $secondary-font;
+            text-transform: uppercase;
+            padding: $padding-default ($padding-default * 20) $padding-default $padding-xxl;
+            opacity: 1;
+            &:hover {
+                @include transition($default-transition);
+                opacity: 0.75;
+            }
+        }
+        .form-group {
+            position: relative;
+            margin-top: 17px;
+            color: $light-grey;
+            label {
+                @include transition($default-transition);
+                font-family: $secondary-font;
+                font-size: $font-size-default;
+                opacity: 1;
+                position: absolute;
+                top: 17px;
+                left: 30px;
+                pointer-events: none;
+                color: $light-grey;
+                &.show {
+                    font-size: $font-size-sm;
+                    top: -25px;
+                    left: 15px;
+                }
+            }
+            .label {
+                color: $light-grey;
+            }
+        }
+    }
+}
+
+.select {
+    &--transparent {
+        background-color: transparent;
+        border: none;
+        font-family: $secondary-font;
+        font-size: $font-size-sm;
+        color: $orange;
+        text-transform: uppercase;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        padding: 0 $padding-xl 0 $padding-lg;
+        vertical-align: -1px;
+        background-image: url(../images/select-arrow-orange.png);
+        background-repeat: no-repeat;
+        background-position: right 60%;
+        outline: 0;
+        #intro & {
+            color: $dark-grey;
+            background-image: url(../images/select-arrow-dark-grey.png);
+        }
+    }
+}
+
+/* Error Messages */
+
+.errorMessage {
+    display: none;
+    font-size: $font-size-sm !important;
+    padding: $padding-sm 0 0 $padding-sm !important;
+    color: $orange;
+}
+
+.error .errorMessage {
+    display: block;
+}

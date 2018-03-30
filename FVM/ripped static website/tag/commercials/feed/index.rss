@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Commercials &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/commercials/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Are Super Bowl Ads Worth The Investment?</title>
+		<link>http://localhost:8888/thinkfvm/blog/01/30/2014/are-super-bowl-ads-worth-the-investment/</link>
+		<pubDate>Thu, 30 Jan 2014 17:00:44 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[account management]]></category>
+		<category><![CDATA[account planning]]></category>
+		<category><![CDATA[Ads]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[brand strategy]]></category>
+		<category><![CDATA[Commercials]]></category>
+		<category><![CDATA[content strategy]]></category>
+		<category><![CDATA[Football]]></category>
+		<category><![CDATA[media buying]]></category>
+		<category><![CDATA[media planning]]></category>
+		<category><![CDATA[strategic planning]]></category>
+		<category><![CDATA[Super Bowl]]></category>
+		<category><![CDATA[Super Bowl XLVIII]]></category>
+		<category><![CDATA[television]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=3422</guid>
+		<description><![CDATA[The Super Bowl is more than just a game, it&#8217;s a global event.]]></description>
+				<content:encoded><![CDATA[<p>The Super Bowl is more than just a game, it&#8217;s a global event. It&#8217;s the most watched program of the year. Even those who have no idea who the Denver Broncos or the Seattle Seahawks are will tune in. Why? Typically it&#8217;s because everyone else is doing it, but another reason is the advertising. In 2013, the average cost of a 30-second spot was $4 million. The effectiveness of these ads in boosting a company&#8217;s sales has been in question over the past few years. Experts have compared the investment of the cost of an ad vs. overall increased revenue after the Super Bowl, and it shows little to no change. Forbes magazine claims that most companies would be better off airing 10 commercials at $400,000 each, to increase repetition. Forbes also claims that Super Bowl Ads have become memorible for presentation, but forgettable in terms of persuasion.</p>
+<p>The University of Wisconsin-Eau Claire <a href="http://www.uwec.edu/newsbureau/release/past/2000/00-01/010400super.html">did a study of over 500 Super Bowl spots that ran between 2000 and 2009</a>, and found that many did not work. Some Super Bowl Ads fail due to the fact that people typically recall the story, but not the product. More often than not, Super Bowl ads attempt to deliver broad humor for entertainment purposes, rather than sell the product. Sometimes companies will enlist celebrities to sponsor their Super Bowl Ad, but experts have also concluded this tactic is ineffective as the celebrity may lack relevance to the product. Still the question must be asked, is the Super Bowl ad worth the investment?</p>
+<p>Forbes magazine says yes.</p>
+<p>The real reason companies invest in Super Bowl spots is because the announcement of buying airtime for the Super Bowl can boost their stock price, at least in the short term. A business will typically announce their Super Bowl buy weeks prior to the big game, and even debut the advertisement early on social sites such as YouTube, Facebook and Twitter. Experts have found that any positive impact on a businesses stock price comes at the announcement of the Super Bowl spot, not after the spot runs. Whether or not an advertisement is successful is secondary to the impact it has on a business&#8217; exposure in the stock market. So yes, for an enterprise business that can afford the $4,000,000+ on advertising their investment is well worth it.</p>
+<p>Whether you watch for the love of the game, advertising, or Peyton Manning––sit back, relax and enjoy the entertainment. It&#8217;ll be a long time until your next fantasy football draft night, and that&#8217;s depressing.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

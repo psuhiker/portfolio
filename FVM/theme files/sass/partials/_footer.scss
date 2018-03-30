@@ -1,0 +1,12 @@
+#footer {
+    #locations {
+        background-color: $grey;
+        @media all and (max-width: $screen-xs-max) {
+        	background-color: $dark-grey;
+        	color: $white;
+        }
+    }
+    #copyright {
+        background-color: $dark-grey;
+    }
+}

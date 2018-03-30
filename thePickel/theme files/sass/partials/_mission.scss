@@ -1,0 +1,216 @@
+#mission {
+	min-height: 130vh;
+	width: 100vw;
+	background-color: $pwd-blue;
+	position: relative;
+	border-bottom: 10px solid $white;
+	@media all and (max-width: $screen-sm-max) {
+		min-height: 100vh;
+	}
+	.copy {
+		color: $white;
+		font-weight: 100;
+		text-transform: lowercase;
+		max-width: 615px;
+		margin: 0 auto;
+		padding: 0px $padding-default;
+	}
+	.bg {
+		position: absolute;
+		top: 0px;
+		left: 0px;
+		.icon {
+			width: 100px;
+			height: 100px;
+			background-size: cover;
+			background-position: center;
+			position: absolute;
+			opacity: 0.5;
+			&.hamburger {
+				background-image: url(../images/icon-hamburger.png);
+				&.one {
+					top: 12vh;
+					left: 12vw;
+					transform: rotate(-12deg);
+					@media all and (max-width: $screen-sm-max) {
+						left: 25vw;
+						top: 18vh;
+					}
+				}
+				&.two {
+				    top: -3vh;
+				    left: 40vw;
+				    transform: rotate(8deg);
+				}
+				&.three {
+				    top: 50vh;
+				    left: 18vw;
+				    transform: rotate(8deg);
+				}
+				&.four {
+				    top: 75vh;
+				    left: -3vw;
+				    transform: rotate(-12deg);
+				}
+				&.five {
+				    top: 95vh;
+				    left: 25vw;
+				    transform: rotate(22deg);
+				    @media all and (max-width: $screen-sm-max) {
+				    	display: none;
+				    }
+				}
+				&.six {
+				    top: 70vh;
+				    left: 45vw;
+				    transform: rotate(-18deg);
+				}
+				&.seven {
+                    top: 5vh;
+                    left: 90vw;
+                    transform: rotate(12deg);
+                    @media all and (max-width: $screen-sm-max) {
+                    	display: none;
+                    }
+                }
+                &.eight {
+                    top: 25vh;
+                    left: 70vw;
+                    transform: rotate(12deg);
+                }
+                &.nine {
+                    top: 80vh;
+                    left: 80vw;
+                    transform: rotate(12deg);
+                }
+            }
+            &.fries {
+            	background-image: url(../images/icon-fries.png);
+            	&.one {
+            		top: 12vh;
+            		left: -4vw;
+            		transform: rotate(15deg);
+            	}
+            	&.two {
+            		top: 22vh;
+            		left: 8vw;
+            		transform: rotate(-15deg);
+					@media all and (max-width: $screen-sm-max) {
+						display: none;
+					}
+            	}
+            	&.three {
+            		top: 5vh;
+            		left: 35vw;
+            		transform: rotate(6deg);
+					@media all and (max-width: $screen-sm-max) {
+						display: none;
+					}
+            	}
+            	&.four {
+            		top: 35vh;
+            		left: 55vw;
+            		transform: rotate(-16deg);
+					@media all and (max-width: $screen-sm-max) {
+						display: none;
+					}
+            	}
+            	&.five {
+            		top: 5vh;
+            		left: 75vw;
+            		transform: rotate(-22deg);
+            	}
+            	&.six {
+            		top: 55vh;
+            		left: 85vw;
+            		transform: rotate(18deg);
+            	}
+            }
+			&.pickle {
+				display: none;
+				width: 40px;
+				height: 40px;
+				background-image: url(../images/icon-pickle.png);
+				&.one {
+					top: 110vh;
+					left: 1vw;
+					transform: rotate(18deg);
+				}
+				&.two {
+					top: 120vh;
+					left: 6vw;
+					transform: rotate(8deg);
+				}
+				&.three {
+					top: 150vh;
+					left: 12vw;
+					transform: rotate(-12deg);
+				}
+				&.four {
+					top: 130vh;
+					left: 17vw;
+				}
+				&.five {
+					top: 110vh;
+					left: 23vw;
+					transform: rotate(2deg);
+				}
+				&.six {
+					top: 140vh;
+					left: 25vw;
+					transform: rotate(3deg);
+				}
+				&.seven {
+					top: 150vh;
+					left: 32vw;
+					transform: rotate(1deg);
+				}
+				&.eight {
+					top: 110vh;
+					left: 38vw;
+					transform: rotate(-18deg);
+				}
+				&.nine {
+					top: 110vh;
+					left: 43vw;
+					transform: rotate(18deg);
+				}
+				&.ten {
+					top: 130vh;
+					left: 45vw;
+					transform: rotate(22deg);
+				}
+				&.eleven {
+					
+				}
+				&.twelve {
+					
+				}
+				&.thirteen {
+					
+				}
+				&.fourteen {
+					
+				}
+				&.fifteen {
+					
+				}
+				&.sixteen {
+					
+				}
+				&.seventeen {
+					
+				}
+				&.eighteen {
+					
+				}
+				&.nineteen {
+					
+				}
+				&.twenty {
+					
+				}
+			}
+		}
+	}
+}

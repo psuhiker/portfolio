@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Typhoon Haiyan &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/typhoon-haiyan/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Actions Speak Louder Than Ads</title>
+		<link>http://localhost:8888/thinkfvm/blog/12/11/2013/actions-speak-louder-than-ads/</link>
+		<pubDate>Wed, 11 Dec 2013 18:02:17 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[brand standards]]></category>
+		<category><![CDATA[brand strategy]]></category>
+		<category><![CDATA[Coca Cola]]></category>
+		<category><![CDATA[content strategy]]></category>
+		<category><![CDATA[Haiyan]]></category>
+		<category><![CDATA[market research]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[media buying]]></category>
+		<category><![CDATA[media planning]]></category>
+		<category><![CDATA[Phillipines]]></category>
+		<category><![CDATA[Typhoon]]></category>
+		<category><![CDATA[Typhoon Haiyan]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=3318</guid>
+		<description><![CDATA[Coca Cola put the brakes on any and all of their advertising spending last Monday in order to help those in need.]]></description>
+				<content:encoded><![CDATA[<p>Coca Cola put the brakes on any and all of their advertising spending last Monday in order to help those in need. How does this work? Well, the sugary-sweet beverage company decided to take all the money they would have spent on advertising and pass it along to aid in the relief and rebuilding efforts in the Philippines after Typhoon Haiyan.</p>
+<p>Not only does this story warm the cockles of my heart, but it&#8217;s also nice to see a major business setting such a good example for the rest of the nation (and the world). As a trained &#8220;communicator,&#8221; I&#8217;d venture to guess no one will miss Coke&#8217;s advertisements this holiday season—in fact, I wouldn&#8217;t be surprised if this soda-pushing powerhouse sees an increase in sales as a result of such positive publicity.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>UX &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/ux/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>User experience and the iPhone</title>
+		<link>http://localhost:8888/thinkfvm/blog/05/09/2014/ux-smartphone-design/</link>
+		<pubDate>Fri, 09 May 2014 13:45:07 +0000</pubDate>
+		<dc:creator><![CDATA[Jordy Pickel]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[Digital]]></category>
+		<category><![CDATA[UX]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=3778</guid>
+		<description><![CDATA[I have a little secret to admit.]]></description>
+				<content:encoded><![CDATA[<p>I have a little secret to admit. I really, really, really, really hate how people organize their smartphones. Take a look at someone&#8217;s phone nowadays and it&#8217;s screen after screen after screen of app icons, usually with no logic in place as to how they&#8217;re organized or arranged. As someone who has an eye towards UX, this drives me batty.</p>
+<div id="attachment_3786" style="max-width: 110px" class="wp-caption alignright"><img class="wp-image-3786" src="http://www.thinkfvm.com/wp-content/uploads/image1-146x220.png" alt="Exhibit A" width="100" height="150" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/image1-146x220.png 146w, http://localhost:8888/thinkfvm/wp-content/uploads/image1.png 640w" sizes="(max-width: 100px) 100vw, 100px" /><p class="wp-caption-text">Exhibit A</p></div>
+<p>Take for example, my wife&#8217;s phone—riddled with games, social media apps, and utilities—but in no discernible order. Ask her and she&#8217;ll gladly tell you that &#8220;everything is where it should be,&#8221; but I can tell it&#8217;s not. Having to flip through screens when using apps related to each other or even pausing to think about which screen an app might be on is straight up, a poor user experience.</p>
+<p>Typically, a person thinks about user experience when they&#8217;re using a product that&#8217;s shared with the community—a company&#8217;s website, a piece of software, a methodology for ordering sandwiches at Whole Foods—but they don&#8217;t always equate user experience when they are the only user to experience it.</p>
+<p>Just as I think about organizing website content, I think about organizing my devices. There are some client preferences (I don&#8217;t like too many rows of icons), some usability standards (reduce the number of clicks needed to open an app, organize content by themes), and some inherent properties (for example, how a person would use a phone as compared to a tablet). These are all things I think about when organizing my stuff.</p>
+<p>Luckily for me, Apple has taken care to design their products to function in similar ways. They even migrated their computer OS to keep &#8220;apps&#8221; instead of programs, which I will admit was a little tough to process at first. So, as someone who loves to organize website data into something anyone could understand, Apple let me easily organize my devices and keep them consistent across the board.</p>
+<p>Take for example, my iPhone:</p>
+<div id="attachment_3779" style="max-width: 133px" class="wp-caption aligncenter"><a href="http://www.thinkfvm.com/wp-content/uploads/Unknown.png" class="swipebox"><img class="wp-image-3779 size-medium" src="http://www.thinkfvm.com/wp-content/uploads/Unknown-123x220.png" alt="Unknown" width="123" height="220" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Unknown-123x220.png 123w, http://localhost:8888/thinkfvm/wp-content/uploads/Unknown-576x1024.png 576w" sizes="(max-width: 123px) 100vw, 123px" /></a><p class="wp-caption-text">Exhibit B</p></div>
+<p style="text-align: left;">I organized my apps into a few main buckets: Office (for those administrative things like email and calculator), Games (that&#8217;s pretty self-explanatory), Library (for pictures, books, and news), and A/V (for the camera, Pandora, and Roku). Apps that I use the most often are placed on their own, out of the folder structure. This includes some visual items like the calendar and the clock, both of which display the date and time so I can get visual info at-a-glance if I need to.</p>
+<p style="text-align: left;">And I take a similar approach to my iPad:</p>
+<div id="attachment_3781" style="max-width: 175px" class="wp-caption aligncenter"><a href="http://www.thinkfvm.com/wp-content/uploads/photo1.png" class="swipebox"><img class="wp-image-3781 size-medium" src="http://www.thinkfvm.com/wp-content/uploads/photo1-165x220.png" alt="photo" width="165" height="220" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/photo1-165x220.png 165w, http://localhost:8888/thinkfvm/wp-content/uploads/photo1-768x1024.png 768w, http://localhost:8888/thinkfvm/wp-content/uploads/photo1.png 1536w" sizes="(max-width: 165px) 100vw, 165px" /></a><p class="wp-caption-text">Exhibit C</p></div>
+<p style="text-align: left;">Most of the same old culprits are there—Office, Games, Library, and A/V—but I&#8217;ve organized some of my go-to apps differently, based upon how I used my tablet compared to my phone. Email is front and center (I try not to check my email in the elevator), and I use my tablet most often for notes and to-dos, where I use my phone for music and GPS.</p>
+<p style="text-align: left;">The thread that holds the devices together, is that all of the other many, many, many apps that I have are housed in the same folders on my phone, my tablet, and even my computer. My news apps can be found in the Library, my Dropbox is always in the Office, and if I want to pull up <a href="http://www.wxpn.org" target="_blank">WXPN</a>, I know the radio will be under A/V.</p>
+<p style="text-align: left;">A lot of our clients have more than one website, and use cases on each website are different, much like that of a phone and tablet. <a href="http://www.thinkfvm.com/tag/brand-strategy/">Brand strategy</a> is extremely important for our clients, for obvious reasons. What some people forget about, is that a logo isn&#8217;t the only thing users use to identify a brand. Knowing where to look for content on a website and seeing your expectations pleasantly met will help increase your brand name and lower frustration.</p>
+<p style="text-align: left;">Here at FVM we love to reorganize a website. Classification, card sorting, and qualitation—this is our bag, baby. There&#8217;s nothing like the feeling of redesigning a website that&#8217;s more organized, more efficient, and more streamlined than it was before. Except of course, diving into the analytics and user testing to see where else you can improve.</p>
+<p style="text-align: left;">Some people might make fun of my smart device habits, but I know that the user experience on my iPhone is 100%. Of course if you ask my wife, she&#8217;ll probably tell you, &#8220;I can never find anything on this phone.&#8221;</p>
+<p style="text-align: left;">Oh well, time to take another look at the analytics&#8230;</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>UX &#8211; It&#8217;s the little things (Part 1)</title>
+		<link>http://localhost:8888/thinkfvm/blog/02/21/2014/ux-its-the-little-things-part-1/</link>
+		<pubDate>Fri, 21 Feb 2014 17:00:36 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[marketing]]></category>
+		<category><![CDATA[UX]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=3484</guid>
+		<description><![CDATA[In this series, I&#8217;ll focus on illuminating some of the little things in today’s popular UX techniques that can make the difference between a user bouncing and a user becoming a lead.]]></description>
+				<content:encoded><![CDATA[<p>In this series, I&#8217;ll focus on illuminating some of the little things in today’s popular UX techniques that can make the difference between a user bouncing and a user becoming a lead.</p>
+<p><b>Forget B2B and B2C, think B2U</b></p>
+<p>With every new project, each member of a web team has new recommendation for UX that&#8217;s different from the others.  It’s a very subjective area, but so is just about everything in the arena of creative execution. What makes UX fun is how it can translate analytics so clearly into insights on what’s working and what’s not. It’s not easy to measure how each pair of eyes interacted with the aesthetics of a page, but, with the right strategy, you can see their every move.</p>
+<p>Over time, we’ve had success with various UX techniques, effects, and strategies, but it’s a mindset––a perspective––that I believe is the key differentiator between successful UX and failed UX. That perspective is B2U.</p>
+<p>Take 10 people from the same office, doing the same job function, and observe their user behavior as they navigate the same website. I guarantee you’ll see 10 different experiences from site landing to site departure. Now, factor in the following: some users are on Macs, some are on PCs, and some are on different mobile devices with different operating systems. These are 10 different profiles. 10 different personas using different browsers and different versions of those browsers. But they all have one thing in common: they’re a user.</p>
+<p>B2B and B2C are two totally different arenas, we all learned that in 101. And, rightfully so, a company must define a marketing initiative as one or the other. But when you’re building your corporate website, it’s a user no matter what, and that user wants to get what they want and get out. If you convince them to stay and hang out, then great, but a B2B user’s habits and preferences don’t change, whether he’s researching new vendors at the office, or surfing golf sites for a way to lick that nasty hook.</p>
+<p>It might seem obvious, but apparently not. B2B sites seem to be the culprits more so than the B2C sites. They could take a page or two from the consumer-ish nature of B2C sites. It’s the little things that matter.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,660 @@
+section {
+	&.default {
+        padding: $padding-xl 0;
+    }
+    
+    &.marquee {
+	    padding: $padding-xl 0;
+	    background-repeat: no-repeat;
+	    position: relative;
+        &.red {
+        	background-position: 40% 0%;
+            background-image: url(../images/bg-marquee-red.png);
+            color: $white;
+            @media all and (min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max}) {
+                background-position: 42% 0%;
+            }
+            @media all and (max-width: #{$screen-sm-max}) {
+                background-position: bottom left;
+            }
+            p {
+                max-width: 500px;
+            }
+            .bg {
+                width: 50%;
+                height: 100%;
+                background-size: cover;
+                background-position: center;
+                @media (max-width: #{$screen-sm-max}) {
+                    height: 30vh;
+                    width: 100%;
+                    margin: -$padding-xl 0 $padding-lg 0;
+                }
+                @media (min-width: #{$screen-md-min}) {
+                    position: absolute;
+                    top: 0px;
+                    right: 0px;
+                    z-index: -1;
+                }
+                @media all and (min-width: #{$screen-md}) {
+                    width: 60vw;
+                }
+            }
+            &.full {
+                background-image: none;
+                background-color: $red;
+                .bg {
+                    width: 100%;
+                }
+            }
+        }
+        &.white {
+            background-image: url(../images/bg-marquee-white.png);
+            background-position: 55% 0%;
+            .discovery-recovery &, .data-analytics &, .compliance-auditing &, .administration & {
+                background-image: none;
+            }
+            h1, h3, h4, h5, h6 {
+                color: $navy;
+            }
+            h2,  {
+                color: $steel-blue;
+                font-family: $default-font;
+                text-transform: uppercase;
+                letter-spacing: $wide-letter-spacing;
+                font-size: $font-size-md;
+                margin-bottom: $margin-lg;
+            }
+            @media all and (max-width: #{$screen-sm-max}) {
+                background-position: bottom left;
+            }
+            .bg {
+                width: 50%;
+                height: 100%;
+                background-size: cover;
+                background-position: center;
+                @media (max-width: #{$screen-sm-max}) {
+                    height: 45vh;
+                    width: 100%;
+                    margin: -$padding-xl 0 $padding-lg 0;
+                }
+                @media (min-width: #{$screen-md-min}) {
+                    position: absolute;
+                    top: 0px;
+                    right: 0px;
+                    z-index: -1;
+                }
+            }
+        }
+        .video {
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 50%;
+            background-image: url(../images/play-button.png);
+            background-repeat: no-repeat;
+            background-position: center center;
+            background-size: 150px;
+            @media (max-width: #{$screen-sm-max}) {
+                height: 45vh;
+                width: 100%;
+                margin: 0;
+                left: 0;
+                background-size: 100px;
+            }
+            @media (min-width: #{$screen-md-min}) {
+                position: absolute;
+                top: 0px;
+                right: 0px;
+                background-position: 25vw center;
+            }
+            &__embed {
+                @include transition($default-transition);
+                position: fixed;
+                width: 100%;
+                height: 100%;
+                left: 0;
+                top: -100%;
+                &.active {
+                    @include transition($default-transition);
+                    opacity: 1;
+                    top: 0;
+                }
+                background-color: rgba($white, 0.75);
+                z-index: 999;
+                opacity: 0;
+                .video {
+                    position: absolute;
+                    top: 50px;
+                    right: 50px;
+                    bottom: 50px;
+                    left: 50px;
+                    width: auto !important;
+                    @media (max-width: #{$screen-sm-max}) {
+                        height: 90%;
+                    }
+                }
+                .close-button {
+                    position: absolute;
+                    top: 20px;
+                    right: 30px;              
+                }
+            }
+            a {
+                display: block;
+                position: absolute;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+            
+            img {
+                position: absolute;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+        }
+	}
+	&.banner {
+	    padding: ($padding-lg * 2) 0;
+	    background-repeat: no-repeat;
+	    background-position: bottom center;
+	    background-size: cover;
+	    position: relative;
+	    &.navy {
+	        background-image: url(../images/bg-banner-navy.png);
+	        color: $white;
+	        font-weight: 300;
+	        @media all and (max-width: #{$screen-sm-max}) {
+	            background-position: bottom right;
+	        }
+	        .bg {
+	            width: 60%;
+	            height: 100%;
+	            background-size: cover;
+	            background-position: center;
+	            @media (max-width: #{$screen-sm-max}) {
+	                height: 30vh;
+	                width: 100%;
+	                margin: -$padding-xl 0 $padding-lg 0;
+	            }
+	            @media (min-width: #{$screen-md-min}) {
+	                position: absolute;
+	                top: 0px;
+	                left: 0px;
+	                z-index: -1;
+	            }
+	        }
+	    }
+	    &.red {
+	        background-image: url(../images/bg-banner-red.png);
+	        color: $white;
+	        @media all and (max-width: #{$screen-sm-max}) {
+	            background-position: bottom right;
+	        }
+	        h1, h2, h3, h4, h5, h6 {
+	            border-bottom: 4px solid $navy;
+	            padding-bottom: $padding-sm;
+	            display: inline-block;
+	        }
+	        .bg {
+	            width: 60%;
+	            height: 100%;
+	            background-size: cover;
+	            background-position: center;
+	            @media (max-width: #{$screen-sm-max}) {
+	                height: 30vh;
+	                width: 100%;
+	                margin: -$padding-xl 0 $padding-lg 0;
+	            }
+	            @media (min-width: #{$screen-md-min}) {
+	                position: absolute;
+	                top: 0px;
+	                left: 0px;
+	                z-index: -1;
+	            }
+	        }
+	    }
+	}
+	&.text {
+	    padding: $padding-xl 0;
+	    ul {
+	        list-style: none;
+	        padding: 0;
+	        margin: 0;
+	        li {
+	            padding-left: $padding-lg;
+	            text-indent: -$padding-lg;
+	            &:before {
+	                content: "•";
+	                font-size: $font-size-lg;
+	                color: $steel-blue;
+	                margin-right: $margin-sm;
+	                line-height: 0;
+	                vertical-align: -3px;
+	            }
+	        }
+	    }
+	    h3 {
+            border-bottom: 4px solid $red;
+            padding-bottom: $padding-sm;
+            margin-bottom: $margin-lg;
+            display: inline-block;
+            .locations & {
+                color: $navy;
+                margin-bottom: $margin-lg;
+                padding-bottom: 0;
+                display: inline;
+                width: 100%;
+            }
+        }
+    }
+	&.copy-assets {
+	    padding: ($padding-lg * 3) 0;
+	    background-repeat: no-repeat;
+	    background-position: bottom center;
+	    background-size: cover;
+	    position: relative;
+	    .asset {
+	        h1, h2, h3, h4, h5, h6 {
+	            font-size: $font-size-default;
+	            color: $navy;
+	            text-transform: uppercase;
+	            font-family: $default-font;
+	            font-weight: 700;
+	            margin: $margin-lg 0 $margin-default 0;
+	        }
+	    }
+	    .block {
+	        background-size: cover;
+	        background-position: center;
+	        margin-top: $margin-lg;
+	        &:after {
+	          content: "";
+	          display: block;
+	          padding-bottom: 100%;
+	        }
+	        > .inner {
+	            top: 0px;
+	            left: 0px;
+	            height: 100%;
+	            width: 100%;
+	        }
+	    }
+	    &.red {
+	        background-image: url(../images/bg-copy-assets-red.png);
+	        @media all and (max-width: #{$screen-sm-max}) {
+	            background-color: $red;
+	            background-image: none;
+	        }
+	        .headline--underline {
+	            color: $white;
+	            border-bottom: 4px solid $navy;
+	            padding-bottom: $padding-sm;
+	            margin-bottom: $margin-lg;
+	            display: inline-block;
+	        }
+	        .assets {
+	            @media all and (max-width: #{$screen-sm-max}) {
+	                background-color: $white;
+	                margin: $margin-xl 0;
+	                padding-bottom: $padding-lg;
+	            }
+	        }
+	        &.full {
+                background-image: none;
+                background-color: $red;
+            }
+        }
+	    &.white {
+	        .block {
+	            border-radius: $circle-border-radius;
+	            border: 2px solid $navy;
+	        }
+	        .asset {
+	            h1, h2, h3, h4, h5, h6 {
+	                a {
+	                    @include transition($default-transition);
+	                    text-decoration: none;
+	                    &:hover {
+	                        @include transition($default-transition);
+	                        text-decoration: none;
+	                        color: $red;
+	                    }
+	                }
+	            }
+	        }
+	    }
+	}
+	&.assets {
+	    padding: ($padding-lg * 3) 0;
+	    position: relative;
+	    background-color: $pearl-white;
+	    .assets {
+            > div:nth-child(odd) {
+                clear: both;
+            }
+        }
+        .asset {
+	        h1, h2, h3, h4, h5, h6 {
+	            font-size: $font-size-md;
+	            color: $steel-blue;
+	            text-transform: uppercase;
+	            font-family: $default-font;
+	            font-weight: 700;
+	            margin: $margin-lg 0 $margin-default 0;
+	            a {
+	                text-decoration: none;
+	                &:hover {
+	                    text-decoration: none;
+	                }
+	            }
+	        }
+	    }
+	    .block {
+	        background-size: cover;
+	        background-position: center;
+	        margin-top: $margin-lg;
+	        border: 2px solid $navy;
+	        .solutions & {
+                border-radius: $circle-border-radius;
+            }
+            
+            &:after {
+	          content: "";
+	          display: block;
+	          padding-bottom: 100%;
+	        }
+	        > .inner {
+	            top: 0px;
+	            left: 0px;
+	            height: 100%;
+	            width: 100%;
+	        } 
+	    }
+	}
+	&.image-grid {
+	    padding: $padding-xl 0;
+	    .images {
+            text-align: center;
+        }
+        .block {
+            &.image {
+            	text-align: center;
+            	padding: 0 $padding-default;
+            	display: inline-block;
+            	@media (max-width: #{$screen-xs-max}) {
+                    width: 30vw;
+                }
+                @media (min-width: #{$screen-sm-min}) and (max-width: #{$screen-sm-max}) {
+                    width: 20vw;
+                }
+                @media (min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max}) {
+                    width: 20vw;
+                }
+                @media (min-width: #{$screen-lg-min}) {
+                    width: 160px;
+                }
+                a {
+                    color: inherit;
+                    &:hover {
+                        text-decoration: none;
+                    }
+                }
+                .image-label {
+                    font-size: $font-size-sm;
+                    margin-top: $margin-default;
+                    font-weight: 700;
+                }
+                img {
+                    width: 100%;
+                }
+            }
+        }
+    }
+	&.feed {
+	    padding: ($padding-lg * 3) 0;
+	    background-color: $pearl-white;
+	    .articles {
+	        margin: 0 0 $margin-xl 0;
+    	    .item {
+    	        .featured-image {
+    	            width: 100%;
+    	            background-size: cover;
+    	            background-position: center;
+    	            height: 250px;
+    	        }
+    	        .date-bar {
+    	            background-color: $navy;
+    	            padding: $padding-sm $padding-lg;
+    	            font-size: $font-size-sm;
+    	            text-transform: uppercase;
+    	            .date {
+    	                float: left;
+    	                color: $white;
+    	                &:after {
+    	                    content: "|";
+    	                    padding: 0 $padding-sm;
+    	                }
+    	            }
+    	            .category {
+    	                float: left;
+    	                color: $red;
+    	                a {
+    	                    color: $red;
+    	                }
+    	            }
+    	        }
+    	        a {
+    	            color: $steel-blue;
+    	            &:hover {
+    	                color: $white;
+    	                text-decoration: none;
+    	            }
+                }
+    	        .content {
+    	            background-color: $white;
+    	            padding: $padding-lg ($padding-lg * 2);
+    	            h1, h2, h3, h4, h5, h6 {
+    	                font-family: $default-font;
+    	                text-transform: uppercase;
+    	                line-height: $line-height-base;
+    	                font-size: $font-size-md;
+    	            }
+    	            .excerpt {
+    	                font-size: $font-size-sm;
+    	                color: $slate-gray;
+    	                h1, h2, h3, h4, h5, h6 {
+    	                    font-size: $font-size-sm;
+    	                    text-transform: none;
+    	                    font-weight: 400;
+    	                }
+    	            }
+    	            &:hover {
+    	                background-color: $steel-blue;
+    	            }
+    	        }
+    	    }
+    	}
+    	.leadership {
+    	    margin: 0 0 $margin-xl 0;
+    	    position: relative;
+    	    .item {
+    	        position: relative;
+    	        a {
+    	            @include transition($default-transition);
+    	            text-decoration: none;
+    	            color: inherit;
+    	            display: block;
+    	            &:hover {
+    	                @include transition($default-transition);
+    	                box-shadow: $light-box-shadow;
+    	                text-decoration: none;
+    	                .bio-summary {
+    	                    @include transition($default-transition);
+    	                    background-color: $steel-blue;
+    	                    .name {
+    	                        color: $white;
+    	                    }
+    	                    .title {
+    	                        color: $white;
+    	                    }
+    	                }
+    	            }
+    	        }
+    	        .bio-image {
+    	            width: 100%;
+    	            background-size: cover;
+    	            background-position: top center;
+    	            height: 15vw;
+    	            @media (max-width: #{$screen-sm-max}) {
+    	                min-height: 45vh;
+    	            }
+    	        }
+    	        .bio-summary {
+    	            @include transition($default-transition);
+    	            background-color: $white;
+    	            text-align: center;
+    	            padding: $padding-default 0; 
+    	            .name {
+    	                text-transform: uppercase;
+    	                color: $steel-blue;
+    	                margin: 0 auto;
+    	                font-weight: 700;
+    	                width: 90%;
+    	            }
+    	            .title {
+    	                color: $gray;
+    	                width: 90%;
+    	                text-align: center;
+    	                margin: 0 auto;
+    	            }
+    	        }
+    	    }
+    	    .full-summary {
+    	        @include transition($default-transition);
+    	        position: absolute;
+    	        top: 0;
+    	        left: 0;
+    	        right: 0;
+    	        height: 100%;
+    	        margin: 0 $margin-default;
+    	        color: $white;
+    	        box-shadow: $light-box-shadow;
+    	        opacity: 0;
+    	        visibility: hidden;
+    	        z-index: 10;
+    	        background-color: $steel-blue;
+    	        @media (max-width: #{$screen-sm-max}) {
+    	            top: -43.5vh;
+    	        }
+    	        &.active {
+    	            @include transition($default-transition);
+    	            opacity: 1;
+    	            visibility: visible;
+    	            @media (max-width: #{$screen-sm-max}) {
+    	                position: relative;
+    	                float: left;
+    	            }
+    	        }
+    	        .image {
+    	            width: 45%;
+    	            height: 100%;
+    	            background-size: cover;
+    	            background-position: center;
+    	            float: left;
+    	            @media (max-width: #{$screen-sm-max}) {
+    	                height: 50vh;
+    	                width: 100%;
+    	                margin: 0 0 $padding-lg 0;
+    	            }
+    	            @media (min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max}) {
+    	                width: 55%;
+    	            }
+    	            @media (min-width: #{$screen-md-min}) {
+    	                position: absolute;
+    	                top: 0px;
+    	                left: 0px;
+    	            }
+    	            .bg {
+    	                background-image: url(../images/coverup-leadership.png);
+    	                background-size: contain;
+    	                height: 100%;
+    	                width: 100%;
+    	                background-position: bottom right;
+    	                background-repeat: no-repeat;
+    	                @media (max-width: #{$screen-sm-max}) {
+    	                    background-image: none;
+    	                }
+    	            }
+    	        }
+    	        .name {
+    	            text-transform: uppercase;
+    	            font-weight: 700;
+    	            font-size: $font-size-lg;
+    	            margin: 0;
+    	            @media (max-width: #{$screen-sm-max}) {
+    	                font-size: $font-size-md;
+    	            }
+    	        }
+    	        .title {
+    	            margin: 0 0 $margin-lg 0;
+    	            font-size: $font-size-md;
+    	            @media (max-width: #{$screen-sm-max}) {
+                        font-size: $font-size-sm;
+                    }
+                }
+    	        .bio {
+    	            margin: 0 0 $margin-lg 0;
+    	            @media (max-width: #{$screen-sm-max}) {
+    	                font-size: $font-size-sm;
+    	            }
+    	        }
+    	        .close-button {
+    	            position: absolute;
+    	            top: 30px;
+    	            right: 30px;
+    	            @media (max-width: #{$screen-sm-max}) {
+    	                margin-top: 50vh;
+    	            }
+    	        }
+    	    }
+    	}
+	}
+	&.spacer {
+        height: 100px;
+        width: 100%;
+        &.red {
+            background-color: $red;
+        }
+        &.navy {
+            background-color: $navy;
+        }
+        &.white {
+            background-color: $white;
+        }
+        &.foggy-blue {
+            background-color: $foggy-blue;
+        }
+        &.carolina-blue {
+            background-color: $carolina-blue;
+        }
+        &.pearl-white {
+            background-color: $pearl-white;
+        }
+        &.gray {
+            background-color: $gray;
+        }
+        &.steel-blue {
+            background-color: $steel-blue;
+        }
+    }
+}

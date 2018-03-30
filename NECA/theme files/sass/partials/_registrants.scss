@@ -1,0 +1,7 @@
+.event.registrants {
+    .container-fluid {
+        @media all and (min-width: $screen-sm-min) {
+        	overflow-x: scroll;
+        }
+    }
+}

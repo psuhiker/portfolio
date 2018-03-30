@@ -1,0 +1,147 @@
+#logo {
+    img {
+        width: 125px;
+    }
+    a {
+        width: 125px;
+        display: inline-block;
+        margin: ($margin-xl * 1.5) 0;
+        &:before {
+            @include border-radius(2px);
+            @include transition($default-transition);
+            width: 50%;
+            content: " ";
+            border-top: 8px solid $navy;
+            display: block;
+            margin: 0 50% $margin-sm 0;
+        }
+        &:after {
+            @include border-radius(2px);
+            @include transition($default-transition);
+            width: 50%;
+            content: " ";
+            border-bottom: 8px solid $navy;
+            display: block;
+            margin: $margin-sm 0 0 50%;
+        }
+        &:hover {
+            &:before {
+            	@include transition($default-transition);
+            	@include animation($logo-top);
+            }
+            &:after {
+            	@include transition($default-transition);
+            	@include animation($logo-bottom);
+            }
+        }
+    }
+}
+
+#menu {
+    ul {
+        li {
+            margin: 0 ($margin-xxl * 1.5) 0 0;
+            @media all and (min-width: $screen-sm-min) and (max-width: $screen-md-max) {
+                 margin: 0 $margin-xxl 0 0;
+            }
+            &:last-child {
+                margin-right: 0;
+            }
+            &.active {
+                a {
+                    background-color: transparent !important;
+                    background: transparent !important;
+                    color: $gold;
+                    &:before {
+                        background-color: transparent !important;
+                        background: transparent !important;
+                    }
+                    &:after {
+                        @include transition($link-transition);
+                        width: 100%;
+                    }
+                }
+            }
+            a {
+                @include transition($link-transition);
+                text-transform: uppercase;
+                font-size: $font-size-sm;
+                color: $navy;
+                font-weight: 700;
+                padding: 0;
+                &:before {
+                    background-color: transparent !important;
+                    background: transparent !important;
+                }
+                &:after {
+                    @include transition($link-transition);
+                    background-color: $gold;
+                    width: 0%;
+                    height: 4px;
+                    content: " ";
+                    display: block;
+                    margin-top: $margin-sm;
+                }
+                &:hover, &:focus {
+                    @include transition($link-transition);
+                    background-color: transparent !important;
+                    background: transparent !important;
+                    color: $gold;
+                    &:before {
+                        background-color: transparent !important;
+                        background: transparent !important;
+                    }
+                    &:after {
+                        @include transition($link-transition);
+                        width: 100%;
+                    }
+                }
+            }
+        }
+    }
+    .navbar {
+        &-collapse {
+            padding: 0;
+        }
+        &-toggle {
+            padding: 0;
+            margin: 0 $margin-default;
+            .icon-bar {
+                background-color: $gold;
+            }
+        }
+    }
+}
+
+#utilityMenu {
+    @media all and (max-width: $screen-xs-max) {
+        display: none;
+    }
+    ul {
+        margin: -2px 0 0 0;
+        padding: 0;
+        list-style: none;
+        li {
+            margin: 0 $margin-xl 0 0;
+            display: inline;
+            &:last-child {
+                margin-right: 0;
+            }
+            a {
+                @include transition($link-transition);
+                font-size: $font-size-sm;
+                color: $navy;
+                font-weight: 700;
+                padding: 0;
+                &:hover, &:focus {
+                    @include transition($link-transition);
+                    color: $gold;
+                    text-decoration: none;
+                }
+                &:before {
+                    display: none;
+                }
+            }
+        }
+    }
+}

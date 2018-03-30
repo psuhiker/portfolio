@@ -1,0 +1,107 @@
+/*.president.message .message {
+     @media (min-width: #{$screen-md-min}) {
+         @include content-columns(2, 30px);
+         -webkit-column-break-inside: avoid;
+         page-break-inside: avoid;
+         break-inside: avoid;
+     }
+}*/
+
+.board {
+    padding: $padding-xl 0;
+    margin: 0;
+    &.officers {
+        background-color: $tertiary-color-2;
+        .officer {
+        	text-align: center;
+	        .photo {
+	        	@include border-radius(50%);
+	        	width: 100px;
+	        	margin: 0px auto $margin-sm auto;
+	        	height: 100px;
+	        	background-size: cover;
+	        	background-position: center;
+	        	img {
+	        		visibility: hidden;
+	        	}
+	        }
+	        .name {
+	        	font-family: $headline-font;
+	        	font-size: $font-size-md;
+	        	font-weight: 700;
+	        	@media (max-width: #{$screen-xs-max}) {
+	        	    font-size: 1.25em;
+	        	}
+	        }
+	        .title {
+	        	line-height: 1em;
+	        	margin: 0px 0px ($margin-sm/2) 0px;
+	        }
+	        .company {
+	        	font-size: $font-size-sm;
+	        }
+	        ul.social {
+	        	list-style: none;
+	        	margin: 0px;
+	        	padding: $padding-sm 0px;
+	        	li {
+	        		list-style: none;
+	        		margin: 0px;
+	        		padding: 0px;
+	        		display: inline;
+	        		a {
+	        			text-decoration: none;
+	        			background-color: $secondary-color;
+	        			display: inline-block;
+	        			color: $white;
+	        			width: 30px;
+	        			height: 30px;
+	        			&:hover {
+	        				background-color: $secondary-color-light;
+	        			}
+	        			i {
+	        				padding: 7px 0px 0px 0px;
+	        			}
+	        		}
+	        	}
+	        }
+        }
+    }
+    &.directors {
+        background-color: $tertiary-color-2-light;
+        .listing {
+            @include content-columns(4, 15px);
+            list-style: none;
+            padding: 0;
+            @media (max-width: #{$screen-xs-max}) {
+            	@include content-columns(2, 15px);
+            }
+            li {
+                margin: 0 0 $margin-default 0;
+            }
+            .name {
+                font-weight: 700;
+            }
+            .company {
+                font-size: $font-size-sm;
+            }
+        }
+    }
+    &.committees {
+        background-color: $tertiary-color-2;
+        .column-wrapper {
+        	@include content-columns(3, 15px);
+        	@media (max-width: #{$screen-xs-max}) {
+        		@include content-columns(2, 15px);
+        	}
+        	p {
+        		@include column-break(avoid);
+        	}
+        }
+    }
+    .heading {
+        text-align: center;
+        margin: 0 0 $margin-xl 0;
+        font-weight: 700;
+    }
+}

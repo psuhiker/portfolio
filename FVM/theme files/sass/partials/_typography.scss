@@ -1,0 +1,228 @@
+body {
+    font-family: $default-font;
+    font-weight: 100;
+    font-size: $font-size-default;
+    line-height: $default-line-height;
+    @media all and (min-width: $screen-lg) {
+        font-size: $font-size-default-large;
+    }
+}
+
+.font {
+    &-family {
+        &--primary {
+            font-family: $default-font;
+        }
+        &--secondary {
+            font-family: $secondary-font;
+        }
+    }
+    &-size {
+        &--default {
+            font-size: $font-size-default !important;
+            @media all and (min-width: $screen-lg) {
+                font-size: $font-size-default-large;
+            }
+        }
+        &--sm {
+            font-size: $font-size-sm !important;
+            line-height: ($default-line-height * 1.25);
+        }
+        &--md {
+            font-size: $font-size-md !important;
+        }
+        &--lg {
+            font-size: $font-size-lg !important;
+        }
+        &--xl {
+            font-size: $font-size-xl !important;
+            line-height: ($default-line-height * 0.75);
+        }
+    }
+}
+
+h1 {
+    font-size: $font-size-lg;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h2 {
+    font-size: $font-size-md;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h3 {
+    font-size: $font-size-md;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h4 {
+    font-size: $font-size-default;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h5 {
+    font-size: $font-size-default;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h6 {
+    font-size: $font-size-sm;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+p, ul {
+    .blog .blog-post & {
+        margin-top: $margin-xxl;
+    }
+}
+
+blockquote {
+    border: none;
+    font-size: $font-size-default;
+    font-family: $secondary-font;
+    padding: 0;
+    p {
+        margin-bottom: $margin-xxl;
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+}
+
+.list--comma {
+    li {
+        &:after {
+            content: ", ";
+            display: inline;
+        }
+        &:last-child {
+            &:after {
+                content: "";
+                display: inline;
+            }
+        }
+    }
+}
+
+.headline {
+    color: $orange;
+    font-size: $font-size-xl;
+    line-height: ($default-line-height * 0.85);
+    &--white {
+        @extend .headline;
+        color: $white;
+    }
+    &--secondary {
+        @extend .headline;
+        font-family: $secondary-font;
+        font-size: $font-size-lg;
+        font-weight: 100;
+        color: inherit;
+    }
+}
+
+.subheadline {
+    color: $orange;
+    font-size: $font-size-md;
+    line-height: $default-line-height;
+    font-weight: 700;
+    &--white {
+        @extend .subheadline;
+        color: $white;
+    }
+    &--black {
+        @extend .subheadline;
+        color: $black;
+    }
+    &--secondary {
+    	font-family: $secondary-font;
+    	font-weight: 100;
+    	text-transform: uppercase;
+    }
+}
+
+.label {
+    margin: 0;
+    padding: 0;
+    color: inherit;
+    font-size: $font-size-sm;
+    font-weight: 100;
+    font-family: $secondary-font;
+    white-space: normal;
+    &--white {
+        @extend .label;
+        color: $white;
+    }
+    &--uppercase {
+        @extend .label;
+        text-transform: uppercase;
+    }
+}
+
+.cta {
+    &--arrow {
+    	font-family: $secondary-font;
+    	text-transform: uppercase;
+    	a {
+            color: $orange !important;
+            .bg--orange & {
+                color: $black !important;
+            }
+            &:after {
+                @include transition($default-transition);
+                content: ">";
+                display: inline;
+                position: relative;
+                padding-left: $padding-lg;
+            }
+            &:hover {
+                text-decoration: none;
+                &:after {
+                	@include transition($default-transition);
+                	@include animation($bounce-right);
+                }
+            }
+        }
+        &--reverse {
+            @extend .cta--arrow;
+            a {
+                &:after {
+                    display: none;
+                }
+                &:before {
+                    @include transition($default-transition);
+                    content: "<";
+                    display: inline;
+                    position: relative;
+                    padding-right: $padding-lg;
+                }
+                &:hover {
+                    text-decoration: none;
+                    &:before {
+                    	@include transition($default-transition);
+                    	@include animation($bounce-left);
+                    }
+                }
+            }
+        }
+    }
+}

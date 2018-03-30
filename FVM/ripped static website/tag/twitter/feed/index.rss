@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>twitter &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/twitter/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Twitter is advancing: Are you?</title>
+		<link>http://localhost:8888/thinkfvm/blog/06/05/2012/twitter-is-advancing-are-you/</link>
+		<pubDate>Tue, 05 Jun 2012 18:19:01 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[account management]]></category>
+		<category><![CDATA[account planning]]></category>
+		<category><![CDATA[digital strategy]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[media buying]]></category>
+		<category><![CDATA[media planning]]></category>
+		<category><![CDATA[search engine marketing]]></category>
+		<category><![CDATA[search engine optimization]]></category>
+		<category><![CDATA[Social Media]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=2416</guid>
+		<description><![CDATA[The debate over Twitter’s place in modern day culture is complex –some people mock it and some people tweet it.  But one thing’s for sure: businesses are benefitting immensely from the social networking site.  Without a doubt, Twitter has allowed businesses to grow their brands, extend customer service, boost SEO performance and the list goes [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>The debate over Twitter’s place in modern day culture is complex –some people mock it and some people tweet it.  But one thing’s for sure: businesses are benefitting immensely from the social networking site.  Without a doubt, Twitter has allowed businesses to grow their brands, extend customer service, boost SEO performance and the list goes on.  Whether you’re the type of person who scans Twitter every hour for celebrity perspectives on life or you’re doing life just fine without Twitter , you will have difficulty in trying to argue against Twitter’s long list of benefits to a business’s success.</p>
+<p>We can tackle all the specific benefits more in-depth at another time (or visit this <a href="http://www.ragan.com/Main/Articles/15_business_benefits_of_Twitter__44058.aspx">Ragan article</a> for a quick review), but what I want to convey immediately is that <strong>now</strong> is the time for businesses to immerse themselves.  There’s a new door opening to join (if you haven’t already) or to improve your Twitter ROI.</p>
+<h2>Twitter is changing in big ways, fast</h2>
+<p>In December, Twitter launched branded pages.  If you are unaware of this development, you’ll want to review Twitter’s <a href="https://business.twitter.com/advertise/enhanced-profile/">Enhanced Profile</a> help page.  Basically, in December, Twitter launched a branded page as an option, which “increases your brand’s Twitter presence by prominently featuring your most important content and visually branding your page.”</p>
+<p>With the enhanced profile pages in mind, Twitter is now moving forward with a new focus on creating a new “experience,” both for businesses and their customers.  In my mind two major developments capture this new focus entirely.</p>
+<h3>1. The Open Platform</h3>
+<p>Twitter’s end goal with an open platform is to create new ways for customers to engage with your brand.  The industry’s majority agrees with <a href="http://www.readwriteweb.com/archives/author/richard-macmanus.php">Richard Macmanus</a> in that open web services is a major web trend picking up and Twitter’s new API (Application Program Inteface) is an ideal platform to see the advantages.  By opening their platform to independent developers, Twitter allows “brands to create deeper interactions with consumers through custom experiences,” says Mashable’s David Clarke.  From smaller mobile applications to versions of Twitter visually recreated, developers now have the capability to build onto Twitter’s infrastructure and expand the user’s experience exponentially.  A brand is not limited to its look and feel living on Twitter.  You can now combine Twitter’s functions with your own ideas.  Biz Stone says &#8220;The API has been … inarguably, the most important thing we’ve done with Twitter.”</p>
+<h3>2. T-Commerce</h3>
+<p>Facebook failed at it, now Twitter will attempt to succeed where it’s adversary failed.  E-commerce on Twitter has pronounced itself loud and clear just recently with multiple real opportunities for e-commerce companies that you’ve probably overlooked.</p>
+<ul>
+<li>First and foremost, the most easily forgotten, the <strong>call-to-action</strong>: you must provide a link in every tweet.  If someone is interested in a product or service, make sure you’ve given them a way to act.</li>
+<li>Provide great customer service. Everything is public, so customers will gain trust that you will stand by your offerings.</li>
+<li>Pay on Twitter.  Yes, customers can now pay directly via Twitter.  This will expedite purchasing process and reduce consumer hesitation.  Look into <a href="http://chirpify.com/">Cherpify</a> and Twitpay.</li>
+</ul>
+<p>Are you currently using Twitter to help grow your business and reach customers?</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

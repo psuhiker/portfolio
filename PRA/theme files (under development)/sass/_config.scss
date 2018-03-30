@@ -1,0 +1,20 @@
+// Import Modules
+
+@import "modules/all";
+
+// Global Variables Defined Here
+
+body {
+    overflow-x: hidden;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a,
+input[type=submit], 
+input[type=button] {
+    cursor: pointer;
+}

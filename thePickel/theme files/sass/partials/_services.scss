@@ -1,0 +1,37 @@
+#servicesHeader {
+    background-color: $pwd-orange;
+    position: relative;
+	color: $white;
+	padding: ($padding-xl * 2) 0 $padding-xl 0;
+	border-top: 10px solid $white;
+	& h1 {
+	    font-family: $font-title;
+	    font-size: $font-size-lg;
+	    font-weight: 400;
+	    text-transform: lowercase;
+	    font-weight: bold;
+		text-shadow: $heavy-text-shadow;
+		letter-spacing: $default-letter-spacing;
+		padding: 0;
+		margin: 0;
+		text-align: center;
+	}
+}
+
+#services {
+    background-color: $pwd-orange;
+    position: relative;
+    overflow: hidden;
+	color: $white;
+	padding: $padding-xl 0 ($padding-xl * 2) 0;
+	border-bottom: 10px solid $white;
+	.solutions {
+		font-size: 1.5vw;
+		line-height: 1em;
+		text-align: center;
+		text-transform: lowercase;
+		@media all and (max-width: 992px) {
+			font-size: 18pt;
+		}
+	}
+}

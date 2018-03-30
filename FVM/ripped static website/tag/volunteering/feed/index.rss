@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>volunteering &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/volunteering/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Volunteering: good for all</title>
+		<link>http://localhost:8888/thinkfvm/blog/10/04/2013/volunteering-good-for-all/</link>
+		<pubDate>Fri, 04 Oct 2013 18:36:30 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[FVM Life]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[ambler gives]]></category>
+		<category><![CDATA[Big Brothers/Big Sisters]]></category>
+		<category><![CDATA[campaign reporting & analytics]]></category>
+		<category><![CDATA[content strategy]]></category>
+		<category><![CDATA[digital strategy]]></category>
+		<category><![CDATA[fashion]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[pro bono]]></category>
+		<category><![CDATA[volunteering]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=3006</guid>
+		<description><![CDATA[I don’t think people even realize it but the power of volunteering has an extraordinary rippling effect.]]></description>
+				<content:encoded><![CDATA[<p>I don’t think people even realize it but the power of volunteering has an extraordinary rippling effect. Not only does the recipient benefit, but the volunteer gets a renewed sense of accomplishment and pride. They bring that feeling to the workplace, which helps build a positive environment for everyone. So it makes sense that employers should encourage community service to help increase morale.</p>
+<p>Whether you participate as a team effort on a pro-bono project or you partake in an individual day of service, you are ultimately contributing to a positive work environment. Most people like the idea of giving back to their community but find it difficult to carve out the time. Thankfully, more employers realize this and offer the opportunity to participate in community service within the workplace.</p>
+<p>FVM has been fortunate enough to work with a wonderful group of people at Big Brothers Big Sisters/Ambler Gives. They think they’re lucky because they got a free awesome new website, but in reality, our team got the reward. We got to flex our creative muscles beyond our usual realm of B-to-B and into a trendy fashion show event. Our developers explored new software for online donations and ticket purchases. So while we learned new skills and flourished creatively, Ambler Gives kicked off a stellar event benefitting young children. Everyone won.</p>
+<p>Benefits of community service:<br />
+1. Stronger communities = stronger business opportunities<br />
+2. Team building – working on a goal outside of your everyday office routine<br />
+3. Morale boost – Pride and personal satisfaction that comes from helping someone in need<br />
+(Proven to positively impact your physical and mental health)</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

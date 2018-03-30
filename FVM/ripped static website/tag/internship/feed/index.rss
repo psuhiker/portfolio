@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Internship &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/internship/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Taking the fall (internship): Amanda!</title>
+		<link>http://localhost:8888/thinkfvm/blog/09/24/2014/taking-the-fall-internship-amanda/</link>
+		<pubDate>Wed, 24 Sep 2014 17:25:04 +0000</pubDate>
+		<dc:creator><![CDATA[Tom O'Brien]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[FVM Life]]></category>
+		<category><![CDATA[Internship]]></category>
+		<category><![CDATA[News]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=4271</guid>
+		<description><![CDATA[Have you ever met a Lilly Pulitzer-loving, globetrotting, Duke-basketball-nut?]]></description>
+				<content:encoded><![CDATA[<p>Have you ever met a Lilly Pulitzer-loving, globetrotting, Duke-basketball-nut? Now you have! Say hello to our newest intern, Amanda Lang.</p>
+<p><img class="alignnone size-full wp-image-4272" src="http://www.thinkfvm.com/wp-content/uploads/IMG_0511.jpg" alt="" width="864" height="576" /></p>
+<p>Keen to get stuck into all things FVM, the Elon University Communications graduate will gain a bucket-load of experience across branding, strategy, creative, advertising and media.</p>
+<p>Together with tons of other cool stuff, Amanda will be putting her marketing and social media skills to good use in assisting on OCE’s Choose My Future fall campaign and Ambler’s Fashion For A Cause event in October. Go, Amanda!</p>
+<p>We offer a number of internship opportunities each year, so if you’re interested in being our next, email us at <a href="mailto:*protected email*">*protected email*</a></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Summer intern wanted!</title>
+		<link>http://localhost:8888/thinkfvm/blog/03/31/2014/summer-intern-wanted/</link>
+		<pubDate>Mon, 31 Mar 2014 18:48:51 +0000</pubDate>
+		<dc:creator><![CDATA[Tom O'Brien]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[FVM Life]]></category>
+		<category><![CDATA[Internship]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=5017</guid>
+		<description><![CDATA[&#160; Sick of the same old summer, doing absolutely nothing day after day down the shore? Well, good news!]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><img class="aligncenter size-full wp-image-5218" src="http://www.thinkfvm.com/wp-content/uploads/WEB-625px-wide-0611-Shore-Fun-Beaches-Wildwoods-beach-credit-Greater-Wildwoods-Tourism-Improvement-Development-Authority-1.jpg" alt="WEB-625px-wide-0611-Shore-Fun-Beaches-Wildwoods-beach-credit-Greater-Wildwoods-Tourism-Improvement-Development-Authority-1" width="625" height="415" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/WEB-625px-wide-0611-Shore-Fun-Beaches-Wildwoods-beach-credit-Greater-Wildwoods-Tourism-Improvement-Development-Authority-1.jpg 625w, http://localhost:8888/thinkfvm/wp-content/uploads/WEB-625px-wide-0611-Shore-Fun-Beaches-Wildwoods-beach-credit-Greater-Wildwoods-Tourism-Improvement-Development-Authority-1-220x146.jpg 220w" sizes="(max-width: 625px) 100vw, 625px" /></p>
+<p>Sick of the same old summer, doing absolutely nothing day after day down the shore? Well, good news! We&#8217;re looking for an organized and outgoing intern to join our account team for the summer. No make-believe clients here—you’ll get a real taste of agency life.</p>
+<p>If you love multi-tasking, strategic challenges, the occasional foosball game, and are interested in a paid part-time internship, send your resume to <a href="mailto:*protected email*">*protected email*</a></p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

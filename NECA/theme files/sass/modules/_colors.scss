@@ -1,0 +1,36 @@
+/*$primary-color: #2c2d28;
+$primary-color-dark: #21221e;
+$primary-color-light: #42423e;
+$primary-color-lighter: #cacac9;
+$secondary-color: #2c3046;
+$secondary-color-dark: #212434;
+$secondary-color-light: #424559;
+$tertiary-color-1: #ff7e00;
+$tertiary-color-1-dark: #d96b00;
+$tertiary-color-1-light: #ffbf80;
+$tertiary-color-2: #fcf5d9;
+$tertiary-color-2-dark: #d6d0b9;
+$tertiary-color-2-light: #fefaec;*/
+
+$primary-color: #2E2F36;
+$primary-color-dark: darken($primary-color, 25%);
+$primary-color-light: lighten($primary-color, 25%);
+$primary-color-lighter: lighten($primary-color, 50%);
+$secondary-color: #3C3535;
+$secondary-color-dark: darken($secondary-color, 25%);
+$secondary-color-light: lighten($secondary-color, 25%);
+$tertiary-color-1: #FF8D00;
+$tertiary-color-1-dark: darken($tertiary-color-1, 8%);
+$tertiary-color-1-light: lighten($tertiary-color-1, 25%);
+$tertiary-color-2: #FDF8E1;
+$tertiary-color-2-dark: darken($tertiary-color-2, 25%);
+$tertiary-color-2-light: lighten($tertiary-color-2, 25%);
+
+$white: #ffffff;
+$black: #000000;
+$light-blue: #FDF6FD;
+
+/*
+saved:
+$tertiary-color-1: #F1EF99;
+*/

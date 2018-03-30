@@ -1,0 +1,122 @@
+h1 {
+    @media (max-width: #{$screen-xs-max}) {
+        font-size: 2.5em;
+    }
+}
+
+h2, h3, h4, h5, h6 {
+    @media (max-width: #{$screen-xs-max}) {
+        font-size: 1.75em;
+    }
+}
+
+body {
+    @media (max-width: #{$screen-xs-max}) {
+        font-size: 1.25em;
+    }
+}
+
+.bylaws {
+	h1, h2, h3, h4, h5, h6 {
+		font-family: $default-font;
+	}
+}
+
+.fine-print {
+    font-size: $font-size-sm;
+    font-style: italic;
+    font-family: $headline-font;
+    opacity: 0.75;
+} 
+
+.font-family {
+	&--default {
+		font-family: $default-font;
+	}
+	&--body {
+		font-family: $body-font;
+	}
+	&--headline {
+		font-family: $headline-font;
+	}
+	&--form {
+		font-family: $form-font;
+	}
+	&--accent {
+		font-family: $accent-font;
+	}
+}
+
+.text-color {
+	&--primary {
+		color: $primary-color;
+	}
+	&--secondary {
+		color: $secondary-color;
+	}
+	&--tertiary-1 {
+		color: $tertiary-color-1;
+	}
+	&--tertiary-2 {
+		color: $tertiary-color-2;
+	}
+	&--black {
+		color: $black;
+	}
+}
+
+.text-shadow {
+    &--default {
+        text-shadow: $default-text-shadow;
+    }
+    &--heavy {
+        text-shadow: $heavy-text-shadow
+    }
+    &--light {
+        text-shadow: $light-text-shadow
+    }
+}
+
+.font-size {
+	&--xs {
+		font-size: $font-size-xs;
+	}
+	&--sm {
+		font-size: $font-size-sm;
+	}
+	&--default {
+		font-size: $font-size-default;
+	}
+	&--md {
+		font-size: $font-size-md;
+	}
+	&--lg {
+		font-size: $font-size-lg;
+	}
+	&--xl {
+		font-size: $font-size-xl;
+	}
+}
+
+.text-color {
+    &--white {
+        color: $white;
+    }
+}
+
+@include headings(){
+    font-family: $headline-font;
+    font-weight: 700;
+}
+
+.subheading {
+	text-shadow: $heavy-text-shadow;
+	text-color: $white;
+	font-size: $font-size-lg;
+	font-family: $body-font;
+	font-weight: 100;
+	&--no-shadow {
+		@extend .subheading;
+		text-shadow: none;
+	}
+}

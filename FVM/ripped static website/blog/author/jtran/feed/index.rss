@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jon Tran &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/blog/author/jtran/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>You have a branding problem – Now what?</title>
+		<link>http://localhost:8888/thinkfvm/blog/01/12/2017/you-have-a-branding-problem-now-what/</link>
+		<pubDate>Thu, 12 Jan 2017 14:00:33 +0000</pubDate>
+		<dc:creator><![CDATA[Jon Tran]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[Branding]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=6466</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[]]></content:encoded>
+			</item>
+		<item>
+		<title>Getting the story straight: communicating a client’s compelling value</title>
+		<link>http://localhost:8888/thinkfvm/blog/08/12/2016/getting-the-story-straight-communicating-a-clients-compelling-value/</link>
+		<pubDate>Fri, 12 Aug 2016 13:33:34 +0000</pubDate>
+		<dc:creator><![CDATA[Jon Tran]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[Branding]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=6155</guid>
+		<description><![CDATA[It’s not every day that someone can honestly say their work will advance the field of oncology.]]></description>
+				<content:encoded><![CDATA[<h1></h1>
+<p>It’s not every day that someone can honestly say their work will advance the field of oncology. Yet in the first few minutes of our project briefing with the clients, it was clear they had built something truly revolutionary.</p>
+<p>Proscia had created a digital pathology platform with unprecedented capabilities for professional collaboration. And it was being brought together by a team of brilliant young minds with multidisciplinary expertise.</p>
+<p>This underlying story was strong and inspiring.</p>
+<p>Unfortunately, it was almost completely absent from the existing Proscia website.</p>
+<p>Elements of the Proscia story were scattered and hidden beneath technical details and obscured by layers of navigation. As a result, visitors could not quickly understand the value Proscia offered, and were therefore likely to leave the site with a bias against an otherwise impressive concept.</p>
+<h2>The hard part — questioning everything</h2>
+<p>For a biomedical startup like Proscia, a website has to convey very specific information in an efficient and digestible manner.</p>
+<p>Our work began as it always does, by posing critical strategic questions to our clients and to ourselves about the nature and purpose of the project.</p>
+<ul>
+<li><strong>What is the value of the product or service?</strong></li>
+<li><strong>Who are our intended audiences?</strong></li>
+<li><strong>What do we want those people to do?</strong></li>
+</ul>
+<h3>What is the value of the product or service?</h3>
+<p>The value, as outlined above, was relatively clear to us, but needed to be brought to the surface for new site visitors.</p>
+<p><img class="alignleft size-full wp-image-6250" src="http://www.thinkfvm.com/wp-content/uploads/Prosica_old_home.png" alt="Prosica_old_home" width="1181" height="1147" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Prosica_old_home.png 1181w, http://localhost:8888/thinkfvm/wp-content/uploads/Prosica_old_home-220x214.png 220w, http://localhost:8888/thinkfvm/wp-content/uploads/Prosica_old_home-768x746.png 768w, http://localhost:8888/thinkfvm/wp-content/uploads/Prosica_old_home-1024x995.png 1024w" sizes="(max-width: 1181px) 100vw, 1181px" /></p>
+<p>People who entered Proscia.com without a brief on the technology might be hard-pressed to say what Proscia as an organization did, or what kind of products and services they offered.</p>
+<p>There was language about Proscia as a company, but also as a service. There was a platform with several sub-modules, but it wasn’t obvious how they worked together, or in what configurations they could be purchased. We needed to untangle these issues and present an understandable hierarchy of information to every visitor.</p>
+<h3>Who are our intended audiences?</h3>
+<p>Speaking of visitors, Proscia had several important audiences. On the scientific side, they had to reach clinicians, researchers, and educators simultaneously. But as a startup, Proscia was also looking to generate interest among potential investors.</p>
+<p>The scientific group was already served with deep technical material diffused across a few pages (including specialized segmented content). But investors and journalists who weren’t already fluent in this kind of technology would most likely be lost.</p>
+<p><img class="alignleft size-full wp-image-6290" src="http://www.thinkfvm.com/wp-content/uploads/screencapture-web-archive-org-web-20150704213308-http-proscia-com-explore-1471012964412.png" alt="screencapture-web-archive-org-web-20150704213308-http-proscia-com-explore-1471012964412" width="1000" height="1290" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/screencapture-web-archive-org-web-20150704213308-http-proscia-com-explore-1471012964412.png 1000w, http://localhost:8888/thinkfvm/wp-content/uploads/screencapture-web-archive-org-web-20150704213308-http-proscia-com-explore-1471012964412-171x220.png 171w, http://localhost:8888/thinkfvm/wp-content/uploads/screencapture-web-archive-org-web-20150704213308-http-proscia-com-explore-1471012964412-768x991.png 768w, http://localhost:8888/thinkfvm/wp-content/uploads/screencapture-web-archive-org-web-20150704213308-http-proscia-com-explore-1471012964412-794x1024.png 794w" sizes="(max-width: 1000px) 100vw, 1000px" /></p>
+<p>Details on Proscia’s business model were also hard to find. It wasn’t obvious how much the company intended to charge for its services, or what the general sales process was. We were also concerned this could hinder interest among potential customers who couldn’t gauge if Proscia’s products fit into their budget , or how the products would integrate into their existing workflows.</p>
+<h3>What do we want those people to do?</h3>
+<p>Relating directly to our concerns about hidden costs, we wanted to know what the ideal action path of a Proscia.com visitor would be.</p>
+<p>Immediate spot-conversion subscriptions wouldn’t make sense; this was an advanced suite of pathology services that could potentially be used by hundreds of people within a purchasing organization. Our clients knew the focus should be on familiarizing people with the software and opening channels for in-person dialog.</p>
+<p>Proscia.com did have CTAs relating to free demos and contact points, some were redundant (multiple buttons that seemingly did the same thing), and others were relegated to the bottom of unrelated pages. The thinking was right, but it needed polish to drive conversions.<img class="alignleft size-full wp-image-6271" src="http://www.thinkfvm.com/wp-content/uploads/Screen-Shot-2016-08-11-at-4.49.37-PM.png" alt="Screen Shot 2016-08-11 at 4.49.37 PM" width="1056" height="691" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Screen-Shot-2016-08-11-at-4.49.37-PM.png 1056w, http://localhost:8888/thinkfvm/wp-content/uploads/Screen-Shot-2016-08-11-at-4.49.37-PM-220x144.png 220w, http://localhost:8888/thinkfvm/wp-content/uploads/Screen-Shot-2016-08-11-at-4.49.37-PM-768x503.png 768w, http://localhost:8888/thinkfvm/wp-content/uploads/Screen-Shot-2016-08-11-at-4.49.37-PM-1024x670.png 1024w" sizes="(max-width: 1056px) 100vw, 1056px" /></p>
+<h6>With essentially five CTAs grouped together, there is no clear action path to drive visitors towards conversions</h6>
+<h2>The easy part — Reimagining the entire website</h2>
+<p>It might seem odd to consider <em>completely making over a site’s architecture</em> the easy part of the creative process.</p>
+<p>But as an agency, we pride ourselves in digging deep into our clients’ business. We do the heavy lifting up front — all the due diligence and homework necessary to wrap our heads around not just the project at hand, but every factor affecting the client’s brand.</p>
+<p>So at this point in the process, we had very clear understandings of what Proscia.com needed to accomplish, the value it proposed, and the audiences it would serve. What few questions remained about their business model and product hierarchy were cleared up after a few extremely productive client meetings.</p>
+<p>We were ready to answer the questions we had previously asked, in the form of a new Proscia website.</p>
+<h3>What is the value of the product or service?</h3>
+<p>With the new Proscia.com, the very first thing visitors see is a clear explanation of exactly what the company offers and how it benefits medical professionals.</p>
+<p><img class="size-full wp-image-6253 alignleft" src="http://www.thinkfvm.com/wp-content/uploads/Proscia_new_home.png" alt="Proscia_new_home" width="800" height="367" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_home.png 800w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_home-220x101.png 220w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_home-768x352.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<p>We don’t expect anyone to be instantly swayed by this introduction, even as compelling as it is. So we give them three avenues to follow.</p>
+<p><strong>1. DISCOVER OUR PLATFORM<br />
+</strong>This CTA takes visitors to the more technical <em>/platform</em> page, which sells the features of Proscia’s software and outlines exactly what buyers at different levels of organization will get with their subscriptions. From there, they can request a quote.</p>
+<p><img class="size-full wp-image-6263 alignleft" src="http://www.thinkfvm.com/wp-content/uploads/Proscia_new_platform-1.png" alt="Proscia_new_platform" width="1139" height="2170" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_platform-1.png 1139w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_platform-1-115x220.png 115w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_platform-1-768x1463.png 768w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_platform-1-537x1024.png 537w" sizes="(max-width: 1139px) 100vw, 1139px" /></p>
+<p><strong>2. EXPLORE SAMPLE DATA<br />
+</strong>Visitors who are ready can dive into Proscia’s free online trial, seeded with sample data from the National Cancer Institute. There’s no time limit on the demo —users can take as long as they want to fall in love with the software.</p>
+<p><img class="size-full wp-image-6269 alignleft" src="http://www.thinkfvm.com/wp-content/uploads/Proscia_new_exploreF-1.png" alt="Proscia_new_exploreF" width="965" height="640" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_exploreF-1.png 965w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_exploreF-1-220x146.png 220w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_exploreF-1-768x509.png 768w" sizes="(max-width: 965px) 100vw, 965px" /></p>
+<p><strong>3. </strong><strong>NAVIGATE THE SITE<br />
+</strong>Anyone who isn’t moved to immediately consider features or a demo can still absorb a great deal through organic exploration. Further down the page, users learn about the team behind Proscia and their long-term vision for their technology. Journalists also gain fast access to company history and contact information.</p>
+<h3>Who are our intended audiences?</h3>
+<p>In both the top-level navigation and directly under the introductory homepage content, we’ve included paths for Proscia’s three primary scientific audiences: researchers, clinicians, and educators.</p>
+<p><img class="alignleft size-full wp-image-6262" src="http://www.thinkfvm.com/wp-content/uploads/Proscia_new_segments.png" alt="Proscia_new_segments" width="800" height="210" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_segments.png 800w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_segments-220x58.png 220w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_segments-768x202.png 768w" sizes="(max-width: 800px) 100vw, 800px" />Each group gets its own page explaining exactly how the Proscia platform can supplement and enhance daily work. Both tangible examples and futuristic visions are included to convince and inspire readers.</p>
+<p>These brief pages then drill down to CTAs that invite users to explore sample data, create their own repositories, or learn more about a Proscia partnership.</p>
+<p>We didn’t forget about Proscia’s secondary audiences in investment and the media. But instead of giving these groups their own content, which would feel out of place, we focused on keeping the language accessible throughout the site so these visitors wouldn’t get lost. Language is also peppered with memorable talking points that can be easily underscored by Proscia representatives in sales pitches or one-on-one interviews.</p>
+<h3>What do we want those people to do?</h3>
+<p>More so than any other objective, Proscia needs visitors to believe in the power of its technology. Once that belief is established, it is not unreasonable to initiate conversation with individual prospects about how Proscia can solve their pathology needs.</p>
+<p>So every element of the site — the visuals, the story, and the software itself — need to convey unprecedented technological functionality while overcoming potential concerns about workflow disruption or the company’s credentials as a startup.</p>
+<p>By now you understand some of the narrative we solidified for our clients (for the full story, see <a href="http://www.Proscia.com">the Proscia website</a>.) A great deal of the remaining work was getting people to interact with that narrative and explore Proscia.com.</p>
+<p>FVM’s designers really pulled through here. You can of course compare the site’s previous and final aesthetics, but even that would not do their work justice.</p>
+<p><img class="alignleft size-full wp-image-6260" src="http://www.thinkfvm.com/wp-content/uploads/Proscia_new_DesignF3.png" alt="Proscia_new_DesignF3" width="800" height="542" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_DesignF3.png 800w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_DesignF3-220x149.png 220w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_DesignF3-768x520.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h6>About page</h6>
+<p><img class="alignleft size-full wp-image-6251" src="http://www.thinkfvm.com/wp-content/uploads/Proscia_new_design-F2.png" alt="Proscia_new_design F2" width="800" height="354" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_design-F2.png 800w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_design-F2-220x97.png 220w, http://localhost:8888/thinkfvm/wp-content/uploads/Proscia_new_design-F2-768x340.png 768w" sizes="(max-width: 800px) 100vw, 800px" /></p>
+<h6>Demo CTA</h6>
+<p>Here is just some of what they accomplished:</p>
+<ul>
+<li>Cleaner, more digital-friendly Proscia logo</li>
+<li>Simpler, more consistent color application</li>
+<li>Compelling type with high readability</li>
+<li>Strategic photography to draw users in</li>
+<li>Icons that intuitively define features</li>
+<li>Highly visible yet unobtrusive CTAs</li>
+</ul>
+<p>Working cohesively with the new website narrative, its design cements Proscia as an inviting, capable, and modern company poised to advance cancer research.</p>
+<h2>The moral of the story</h2>
+<p>With Proscia, we were honored to have the opportunity tell a moving story about people and technology that truly impressed us. Our clients were individuals who had an expertise in biometrics, data analysis, and network dynamics. For <a href="http://www.thinkfvm.com/portfolio/proscia/" target="_blank">branding</a> and marketing, they turned to FVM. Our experience telling stories and building websites was of course a major factor in their agency selection.</p>
+<p>Every business and website is different, but on a fundamental level, our process is not. It lives and dies by our ability to understand at a strategic level how our clients operate and what role their websites play in achieving specific objectives.</p>
+<p>The transformation of Proscia.com is an excellent example of what we can achieve when we get the opportunity to immerse ourselves in our clients’ business. And we like to believe our hard work (and yes, our easy work) will pay off for Proscia, for medical professionals, and for the patients they treat every day.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

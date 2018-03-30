@@ -1,0 +1,53 @@
+.modal {
+    background-color: rgba($navy, 0.25);
+    text-align: center;
+    padding: 0!important;
+    &:before {
+        content: '';
+        display: inline-block;
+        height: 100%;
+        vertical-align: middle;
+        margin-right: -4px;
+        @media (max-width: #{$screen-xs-max}) {
+            height: 0%;
+        }
+    }
+    &-dialog {
+        display: inline-block;
+        text-align: left;
+        vertical-align: middle;
+        width: 80%;
+        max-width: 800px;
+    }
+    &-content {
+        border-radius: 0;
+        border: none;
+    }
+    &-header {
+        background-color: $steel-blue;
+        color: $white;
+        text-align: center;
+        .close {
+            margin-top: 4px;
+            height: 20px;
+            width: 20px;
+            margin-right: $margin-sm;
+        }
+        .modal-title {
+            width: 90%;
+            margin: 0 auto;
+        }
+    }
+    &-body {
+        background-color: $pearl-white;
+        padding: $padding-lg $padding-lg 0 $padding-lg;
+    }
+    &-footer {
+        background-color: $pearl-white;
+        text-align: center;
+        border-top: none;
+        .btn {
+            margin-bottom: $margin-default !important;
+        }
+    }
+}

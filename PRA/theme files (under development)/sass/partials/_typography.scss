@@ -1,0 +1,133 @@
+body {
+    font-family: $default-font;
+    font-weight: 100;
+    font-size: $font-size-default;
+    line-height: $default-line-height;
+}
+
+.font {
+    &-family {
+        &--primary {
+            font-family: $default-font;
+        }
+        &--secondary {
+            font-family: $secondary-font;
+        }
+    }
+    &-size {
+        &--default {
+            font-size: $font-size-default !important;
+        }
+        &--xs {
+            font-size: $font-size-xs !important;
+            line-height: ($default-line-height * 1.25);
+        }
+        &--sm {
+            font-size: $font-size-sm !important;
+            line-height: ($default-line-height * 1.25);
+        }
+        &--md {
+            font-size: $font-size-md !important;
+        }
+        &--lg {
+            font-size: $font-size-lg !important;
+        }
+        &--xl {
+            font-size: $font-size-xl !important;
+            line-height: ($default-line-height * 0.75);
+        }
+    }
+}
+
+p {
+    margin-bottom: $margin-xxl;
+    &:last-child {
+        margin-bottom: 0;
+    }
+}
+
+h1 {
+    font-size: $font-size-lg;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h2 {
+    font-size: $font-size-md;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h3 {
+    font-size: $font-size-md;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h4 {
+    font-size: $font-size-default;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h5 {
+    font-size: $font-size-default;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+h6 {
+    font-size: $font-size-sm;
+    font-weight: 700;
+    margin: 0;
+    padding: 0;
+    line-height: $default-line-height;
+}
+
+.headline {
+    font-size: $font-size-xl;
+    color: $navy;
+    border-left: $headline-border-width solid $navy;
+    padding-left: $padding-xxl;
+    font-weight: 700;
+    @media all and (max-width: $screen-sm-max) {
+        font-size: $font-size-lg;
+    }
+    &--right {
+        @extend .headline;
+        border-left: none;
+        border-right: $headline-border-width solid $navy;
+        padding-left: 0;
+        padding-right: $padding-xxl;
+        text-align: right;
+    }
+    &--small {
+        @extend .headline;
+        border-left: none;
+        padding-left: 0;
+        font-size: $font-size-lg;
+        @media all and (max-width: $screen-sm-max) {
+            font-size: $font-size-md;
+        }
+    }
+    strong {
+        color: $gray-blue;
+    }
+}
+
+.subheadline {
+    font-size: $font-size-md;
+    color: $gray-blue;
+    font-family: $secondary-font;
+    font-weight: 700;
+}

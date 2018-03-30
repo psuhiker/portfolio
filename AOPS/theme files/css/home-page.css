@@ -1,0 +1,108 @@
+.home .marquee .copy h1 {
+	letter-spacing: 2px;
+	font-size: 36pt;
+	line-height: 38pt !important;
+}
+
+.campaign-block {
+	padding: 50px 0px;
+}
+
+.campaign-wrapper {
+	width: 48%;
+}
+
+.campaign-heading {
+	font-weight: bold;
+}
+
+.campaign-copy {
+	padding: 30px 20px;
+}
+
+.campaign-copy p {
+	margin-top: 0px;
+	font-weight: bold;
+}
+
+.campaign-image {
+	height: 250px;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+.campaign-left {
+	margin-right: 2%;
+}
+
+.campaign-right {
+	margin-left: 2%;
+}
+
+.campaign-btn {
+	white-space: nowrap;
+	padding-top: 10px;
+}
+
+.blog-block {
+	padding: 50px 0px;
+}
+
+.news-wrapper {
+	margin: 0px 15px 15px;
+	padding: 15px;
+	border-radius: 5px;
+	/*height: 100%;*/
+}
+
+.events .news-wrapper {
+	padding: 0px;
+}
+
+.news-wrapper h3 {
+	padding: 0px;
+}
+
+.section-heading {
+	margin-left: 15px;
+	font-weight: bold;
+}
+
+.event-title {
+	font-weight: 600;
+    font-size: 16pt;
+    padding: 0px;
+    color: #eb1c4d;
+}
+
+@media all and (min-width: 480px) and (max-width: 990px) {
+	.campaign-wrapper {
+		width: 75%;
+		float: none;
+		margin: 0 auto 15px;
+
+	}
+}
+
+@media all and (max-width: 768px) {
+	.news-block {
+		flex-direction: column;
+	}
+
+	.news-wrapper {
+		width: auto;
+	}
+}
+
+@media all and (max-width: 480px) {
+	.campaign-block {
+		padding: 50px 15px;
+	}
+
+	.campaign-wrapper {
+		width: 100%;
+		margin: 0px;
+		margin-bottom: 15px;
+	}
+}

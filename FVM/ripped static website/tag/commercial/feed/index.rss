@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>commercial &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/commercial/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>The good, the bad and the downright creepy</title>
+		<link>http://localhost:8888/thinkfvm/blog/09/28/2013/the-good-the-bad-and-the-downright-creepy/</link>
+		<pubDate>Sat, 28 Sep 2013 15:50:53 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[Brand Identity]]></category>
+		<category><![CDATA[commercial]]></category>
+		<category><![CDATA[television]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=3078</guid>
+		<description><![CDATA[Clever commercials stay with us.]]></description>
+				<content:encoded><![CDATA[<p>Clever commercials stay with us. If they give us a good laugh, we’ll probably share them. Like <a href="http://www.youtube.com/watch?v=k74ZbpkOG5M">this one.</a></p>
+<p>Of course, <a href="http://www.youtube.com/watch?v=ryNtVK55OUY">a creepy commercial</a> stays with us too – and we share them so that we’re not the only ones tormented by the imagery.</p>
+<p>I get it, the car is his baby. But did the baby need to be that gigantic? Did no one else cringe watching this commercial?</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

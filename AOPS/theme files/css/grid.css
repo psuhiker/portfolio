@@ -1,0 +1,58 @@
+/* Basic Grid Styles */
+
+.grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12, .grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10, .grid-11, .grid-12 {
+    float: left;
+    margin:  0px;
+    padding:  0px;
+    display: block;
+}
+
+    /* 12-Grid Column */
+
+    .grid_1, .grid-1 { width: 8.33%; }
+    .grid_2, .grid-2 { width: 16.66%; }
+    .grid_3, .grid-3 { width: 25%; }
+    .grid_4, .grid-4 { width: 33.33%; }
+    .grid_5, .grid-5 { width: 41.66%; }
+    .grid_6, .grid-6 { width: 50%; }
+    .grid_7, .grid-7 { width: 58.33%; }
+    .grid_8, .grid-8 { width: 66.66%; }
+    .grid_9, .grid-9 { width: 75%; }
+    .grid_10, .grid-10 { width: 83.33%; }
+    .grid_11, .grid-11 { width: 91.66%; }
+    .grid_12, .grid-12 { width: 100%; }
+    .grid_20, .grid-20 { width:  18%; }
+    
+    /* 12-Grid Realignment */
+    
+    @media all and (max-width : 480px) {
+        .grid_1, .grid_2, .grid_3, .grid_4, .grid_5, .grid_6, .grid_7, .grid_8, .grid_9, .grid_10, .grid_11, .grid_12, .grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6, .grid-7, .grid-8, .grid-9, .grid-10, .grid-11, .grid-12, .grid_20, .grid-20 {
+        	width:100%;
+        	padding: 0px;
+        	margin: auto auto;
+        }
+    }
+    
+    /* 12-Grid w/Padding */
+    
+    .grid_1 .padding, .grid_2 .padding, .grid_3 .padding, .grid_4 .padding, .grid_5 .padding, .grid_6 .padding, .grid_7 .padding, .grid_8 .padding, .grid_9 .padding, .grid_10 .padding, .grid_11 .padding, .grid_12 .padding, .grid-1 .padding, .grid-2 .padding, .grid-3 .padding, .grid-4 .padding, .grid-5 .padding, .grid-6 .padding, .grid-7 .padding, .grid-8 .padding, .grid-9 .padding, .grid-10 .padding, .grid-11 .padding, .grid-12 .padding, .grid_20 .padding, .grid-20 .padding {
+    	width: 96%;
+    	margin: 0px auto;
+    	}
+    	
+    	.container > .padding {
+    	    padding:  0px 1%;
+    	}
+    
+    /* Grid Image Behavior */
+    
+    .grid_1 img, .grid_2 img, .grid_3 img, .grid_4 img, .grid_5 img, .grid_6 img, .grid_7 img, .grid_8 img, .grid_9 img, .grid_10 img, .grid_11 img, .grid_12 img, .grid-1 img, .grid-2 img, .grid-3 img, .grid-4 img, .grid-5 img, .grid-6 img, .grid-7 img, .grid-8 img, .grid-9 img, .grid-10 img, .grid-11 img, .grid-12 img, .grid_20 img, .grid-20 img {
+    	max-width: 100%;
+    	height: auto;
+    }
+    	
+    /* Grid Video Behavior */
+    
+    .grid_1 embed, .grid_2 embed, .grid_3 embed, .grid_4 embed, .grid_5 embed, .grid_6 embed, .grid_7 embed, .grid_8 embed, .grid_9 embed, .grid_10 embed, .grid_11 embed, .grid_12 embed, .grid_1 object, .grid_2 object, .grid_3 object, .grid_4 object, .grid_5 object, .grid_6 object, .grid_7 object, .grid_8 object, .grid_9 object, .grid_10 object, .grid_11 object, .grid_12 object, .grid_1 iframe, .grid_2 iframe, .grid_3 iframe, .grid_4 iframe, .grid_5 iframe, .grid_6 iframe, .grid_7 iframe, .grid_8 iframe, .grid_9 iframe, .grid_10 iframe, .grid_11 iframe, .grid_12 iframe, .grid-1 embed, .grid-2 embed, .grid-3 embed, .grid-4 embed, .grid-5 embed, .grid-6 embed, .grid-7 embed, .grid-8 embed, .grid-9 embed, .grid-10 embed, .grid-11 embed, .grid-12 embed, .grid-1 object, .grid-2 object, .grid-3 object, .grid-4 object, .grid-5 object, .grid-6 object, .grid-7 object, .grid-8 object, .grid-9 object, .grid-10 object, .grid-11 object, .grid-12 object, .grid-1 iframe, .grid-2 iframe, .grid-3 iframe, .grid-4 iframe, .grid-5 iframe, .grid-6 iframe, .grid-7 iframe, .grid-8 iframe, .grid-9 iframe, .grid-10 iframe, .grid-11 iframe, .grid-12 iframe {
+        max-width: 100%;
+    }

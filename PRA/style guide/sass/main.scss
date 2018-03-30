@@ -1,0 +1,16 @@
+// Import Config
+@import "config";
+
+// Import Bootstrap
+@import "vendors/bootstrap-sass-master/templates/pra/styles";
+
+// Import Partials
+@import "partials/animation";
+@import "partials/buttons-links";
+@import "partials/colors";
+@import "partials/elements";
+@import "partials/footer";
+@import "partials/forms";
+@import "partials/header";
+@import "partials/sections";
+@import "partials/typography";

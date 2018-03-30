@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>copy &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/copy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Digesting copy over lunch</title>
+		<link>http://localhost:8888/thinkfvm/blog/10/03/2013/lunchtime-reading/</link>
+		<pubDate>Thu, 03 Oct 2013 16:00:06 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[Brand Identity]]></category>
+		<category><![CDATA[brand strategy]]></category>
+		<category><![CDATA[Branding]]></category>
+		<category><![CDATA[chipotle]]></category>
+		<category><![CDATA[copy]]></category>
+		<category><![CDATA[copywriting]]></category>
+		<category><![CDATA[corporate communications]]></category>
+		<category><![CDATA[corporate identity]]></category>
+		<category><![CDATA[direct marketing]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=2993</guid>
+		<description><![CDATA[Lunch at Chipotle is always awesome.]]></description>
+				<content:encoded><![CDATA[<p>Lunch at Chipotle is always awesome. Today, it was especially awesome to see good ole fashioned words on paper telling an effective brand story in this impatient, digital world of ours. The burrito king’s cups and wrapping paper are playfully covered with musings about all-things-Chipotle, from the pleasure of foil licking to the reservoir of deliciousness at the bottom of each burrito. The kind of things that we Chipotle-lovers can relate to—and, more importantly, help to build brand loyalty.</p>
+<p>Copy is still a powerful tool. You just need to seek out those rare moments when your audience is happy to read them. Like when they have a big, fat, juicy burrito in their hands.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,55 @@
+.alert .table {
+	color: $black;
+	margin-bottom: 0;
+	a {
+		color: inherit;
+	}
+}
+
+.table {
+	thead {
+		font-weight: 700;
+		font-family: $headline-font;
+	}
+}
+
+@media all and (max-width: $screen-xs-max) {
+    .table {
+    	display: block;
+    	position: relative;
+    	width: 100%;
+        tbody {
+            display: block;
+            position: relative;
+            width: 100%;
+        }
+        td {
+        	display: block;
+        	position: relative;
+        	width: 100%;
+        	&:before {
+        		content: attr(data-label);
+        		display: block;
+        		font-size: $font-size-xs;
+        		opacity: 0.75;
+        		font-weight: 700;
+        		width: 100%;
+        	}
+        	dl {
+        		font-size: $font-size-sm;
+        	}
+        }
+        thead {
+        	display: none;
+        }
+        tr {
+        	display: block;
+        	position: relative;
+        	width: 100%;
+        	margin-bottom: $margin-xl;
+        	&:last-child {
+        	margin-bottom: $margin-default;
+        	}
+        }
+    }
+}

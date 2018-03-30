@@ -1,0 +1,73 @@
+#header {
+    #logo {
+        background-color: $orange;
+        .work & {
+            background-color: $light-grey;
+        }
+        .services & {
+            background-color: $light-grey;
+        }
+        .logo {
+            position:  fixed;
+            z-index: 999;
+            transition: all 0.2s;
+            -webkit-transition: all 0.2s;
+            -moz-transition: all 0.2s;
+            @media all and (max-width: $screen-xs-max) {
+                width: 18vw;
+                margin: 4vw 0px 0px 2vw;
+                position: relative;
+            }
+            @media all and (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+                width: 12vw;
+                margin: 4vw 0px 0px 2vw;
+                position: relative;
+            }
+            @media all and (min-width: $screen-md-min) {
+                width: 9vw;
+                margin: 1.75vw 0px 0px 0.75vw;
+            }
+            img {
+                @include transition($quick-transition);
+            }
+        }
+    }
+    #menu {
+        background-color: $white;
+        position: relative;
+        font-size: $font-size-default;
+        font-family: $secondary-font;
+        text-transform: uppercase;
+        @media all and (max-width: $screen-xs-max) {
+            padding-top: 9vw;
+            background-color: $orange;
+            .work & {
+                background-color: $light-grey;
+            }
+            .services & {
+                background-color: $light-grey;
+            }
+            .outer {
+            	padding-top: 0;
+            	overflow: visible;
+            	.inner {
+                    position: relative;
+                }
+            }
+        }
+        @media all and (max-width: $screen-sm-max) {
+            font-size: $font-size-sm;
+        }
+        .menu {
+            position: absolute;
+            bottom: 2vw;
+            right: 2vw;
+            a {
+                color: $dark-grey;
+                @media all and (max-width: $screen-xs-max) {
+                    color: $white;
+                }
+            }
+        }
+    }
+}

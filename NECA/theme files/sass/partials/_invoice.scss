@@ -1,0 +1,26 @@
+.paypal {
+    display: none;
+}
+
+.template.invoice {
+    header, .intro, .bg--secondary.xl-padding--bottom, #footer, .header.divider {
+        display: none;
+    }
+    section.default.bg--tertiary-2 {
+        background-color: $white;
+        .container {
+            border: 1px solid #ccc;
+            box-shadow: $default-box-shadow;
+            min-height: 90vh;
+            max-width: 90%;
+            padding-bottom: $padding-xl;
+            @media (min-width: #{$screen-sm-min}) {
+                padding-left: $padding-xl;
+                padding-right: $padding-xl;
+            }
+        }
+    }
+    .paypal {
+        display: inline-block;
+    }
+}

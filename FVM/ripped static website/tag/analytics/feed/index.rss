@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>analytics &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/analytics/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Great news for the good online marketers out there</title>
+		<link>http://localhost:8888/thinkfvm/blog/10/14/2013/great-news-for-the-good-online-marketers-out-there/</link>
+		<pubDate>Mon, 14 Oct 2013 15:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[Karen Murphy]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[campaign reporting & analytics]]></category>
+		<category><![CDATA[corporate communications]]></category>
+		<category><![CDATA[digital strategy]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[search engine marketing]]></category>
+		<category><![CDATA[search engine optimization]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[web development]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=3064</guid>
+		<description><![CDATA[Although I&#8217;m only halfway through a MarketingProfs University &#8220;Search Marketing School&#8221; online seminar (5 courses down, 5 to go!), the overall theme is already becoming very clear: with its newest SEO updates, Google is attempting to penalize over-optimized websites, and reward sites that are user-friendly, nicely designed, and stocked with helpful information for customers and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Although I&#8217;m only halfway through a MarketingProfs University &#8220;Search Marketing School&#8221; online seminar (5 courses down, 5 to go!), the overall theme is already becoming very clear: with its newest SEO updates, Google is attempting to penalize over-optimized websites, and reward sites that are user-friendly, nicely designed, and stocked with helpful information for customers and prospects.</p>
+<p>Yay for common-sense marketing to humans! Boo for back-end Search Engine Optimization trickery!</p>
+<p>From what I&#8217;m learning, less emphasis is being placed on excessive link building, keyword stuffing, and meaningless irrelevant content. Instead, things like a quick site load time; a friendly mobile experience; useful, timely multi-media content; quality links; and a strong social presence matter more.</p>
+<p>So, if you&#8217;ve been trying to &#8220;do it right&#8221; all along by creating a user-friendly, nicely designed website that attempts to offer customers and potential customers helpful information – you’re in luck! Way to go, Google.</p>
+<p>Of course, the basic structural back-end geeky web stuff, like proper meta-tagging, 301 redirects, and HTML site maps are still very necessary. (Do you like how I threw those terms around? Lucky for me, I have our awesome web team on hand to translate into English.)</p>
+<p>Next on the list: FINISH the online seminar. Perhaps I&#8217;ll come across some more interesting nuggets to share from the next five courses.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Attention all browsers: Testing websites in all conditions</title>
+		<link>http://localhost:8888/thinkfvm/blog/08/29/2013/attention-all-browsers-testing-websites-in-all-conditions/</link>
+		<pubDate>Thu, 29 Aug 2013 19:37:02 +0000</pubDate>
+		<dc:creator><![CDATA[Jordy Pickel]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[AB testing]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[cross browser]]></category>
+		<category><![CDATA[digital strategy]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[web development]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=2818</guid>
+		<description><![CDATA[Designers all too often understand the frustration of having so many web browsers.]]></description>
+				<content:encoded><![CDATA[<p>Designers all too often understand the frustration of having so many web browsers. A beautiful looking website works great on modern web browsers like Safari, Firefox, and Chrome, but performs horridly in older versions of Internet Explorer. So what’s the solution? Cross browser testing.</p>
+<p>The web is evolving, pretty much every minute of every day. Web browsers are constantly updating their programs to accommodate for new technologies and pushing out updates to their software on a regular basis. Unfortunately that leaves designers and coders at the mercy of their users, some of whom may not have or cannot update to more savvy HTML5 browsers. So cross browser testing is an important step in the development process.</p>
+<p>Cross browser testing is exactly what it sounds like. You look at a coded website in one browser, click all the links, view all the page templates, and make sure that everything looks and works as expected. It gets tedious sometimes. There are tools to help you along the way, probably the best is <a href="http://www.crossbrowsertesting.com/" target="_blank">http://www.crossbrowsertesting.com/</a>.</p>
+<p>This monthly subscriptions service provides remote machine access to dozens of web browser platforms old and new. Their screenshot feature allows you to submit a URL and automatically scan and save images of your website’s layout in every browser you choose. You can also use their live testing method to select an operating system and web browser to actively navigate a website’s functionality.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

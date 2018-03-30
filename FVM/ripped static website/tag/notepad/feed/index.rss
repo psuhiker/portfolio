@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Notepad++ &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/notepad/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Go easy on the eyes</title>
+		<link>http://localhost:8888/thinkfvm/blog/10/05/2013/go-easy-on-the-eyes/</link>
+		<pubDate>Sat, 05 Oct 2013 19:26:23 +0000</pubDate>
+		<dc:creator><![CDATA[Russell Falk]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[BBEdit]]></category>
+		<category><![CDATA[coding]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[digital strategy]]></category>
+		<category><![CDATA[HTML]]></category>
+		<category><![CDATA[Notepad++]]></category>
+		<category><![CDATA[TextWrangler]]></category>
+		<category><![CDATA[web development]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=3019</guid>
+		<description><![CDATA[The other day as I was working on the newly-redesigned Faith In The Future Foundation website, FVM Sr.]]></description>
+				<content:encoded><![CDATA[<p>The other day as I was working on the <a href="http://www.faithinthefuture.com" target="_blank">newly-redesigned Faith In The Future Foundation website</a>, FVM Sr. Art Director Mark Parker idled for a moment as he strolled past my desk and made the following comment:</p>
+<p>&#8220;I can&#8217;t believe you like to code like that.&#8221;</p>
+<p>Code like what? I thought I was doing it correctly. Not so. He was of course referring to TextWrangler&#8217;s default color settings, which, though not deal-breaking, do leave something to be desired. I tried to justify my nonchalant (read: negligent) attitude towards optimizing my workspace, but he remained unimpressed and, if I was being honest with myself, my position was defensible only by laziness.</p>
+<div id="attachment_3020" style="max-width: 230px" class="wp-caption alignright"><a href="http://www.thinkfvm.com/wp-content/uploads/image-1.jpg" class="swipebox"><img class="size-medium wp-image-3020 " alt="In TextWrangler's factory settings, attribute names and values are actually different colors, but you wouldn't know from looking..." src="http://www.thinkfvm.com/wp-content/uploads/image-1-220x220.jpg" width="220" height="220" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/image-1-220x220.jpg 220w, http://localhost:8888/thinkfvm/wp-content/uploads/image-1-80x80.jpg 80w, http://localhost:8888/thinkfvm/wp-content/uploads/image-1.jpg 425w" sizes="(max-width: 220px) 100vw, 220px" /></a><p class="wp-caption-text">In TextWrangler&#8217;s factory settings, attribute names and values are actually different colors, but you wouldn&#8217;t know from looking&#8230;</p></div>
+<p>One of the few things I miss about my old Windows-based workstation is <a href="http://notepad-plus-plus.org" target="_blank">Notepad++</a>, with its granular syntax highlighting options and slew of built in color schemes that make changing it up a breeze (although even the default settings look good). TextWrangler ostensibly has but two options: the factory settings, or customizing each color manually. You can, however, add color preference files to the ~/Library/Application Support/TextWrangler/Color Schemes/ directory and then activate them using the preset dropdown in the Text Colors preferences menu from within TextWrangler. In newer versions of OS X, the user Library folder is hidden by default, so you&#8217;ll need to use the Terminal or hit Go &gt; Go to Folder in the Finder.</p>
+<p>Overhearing our conversation, our new developer, Kat Sioson, suggested <a href="http://www.andrewhazelden.com/blog/2012/06/midnight-blue-color-scheme-for-textwrangler-and-bbedit/" target="_blank">Andrew Hazelden&#8217;s Midnight Blue color scheme for BBEdit and TextWrangler</a>, and soon I was knee deep in the world of user-created color schemes. You can find a good entry point <a href="http://bbeditextras.org/wiki/index.php?title=Color_Schemes" target="_blank">here</a>.</p>
+<p>I found Midnight Blue to be pretty good though I modified it so that general markup is a different color than plain text. I&#8217;m particularly fond of <a href="http://ethanschoonover.com/solarized" target="_blank">Ethan Schoonover&#8217;s Solarized Dark</a>, which is available, along with a Light counterpart, for a variety of applications beyond those from Bare Bones Software.</p>
+<p>In the spirit of giving back, I figured I&#8217;d add my own contribution &#8211; <a href="http://www.thinkfvm.com/wp-content/uploads/FVM-Color-Schemes.zip" target="_blank">FVM Dark</a>, which uses the tones on our newly-redesigned agency website.</p>
+<p><a href="http://www.thinkfvm.com/wp-content/uploads/FVM-Color-Schemes.zip">FVM-Color-Schemes</a></p>
+<p>I spend the bulk of my coding time working with HTML and CSS, so if you spend more time with Javascript, Ruby, Python, etc., you may find it needs some tweaking. Just drag and drop the colors around until you find something that works for you.</p>
+<p><a href="http://www.thinkfvm.com/wp-content/uploads/image-3.jpg" class="swipebox"><img class="alignnone size-medium wp-image-3021" alt="image-3" src="http://www.thinkfvm.com/wp-content/uploads/image-3-220x220.jpg" width="220" height="220" srcset="http://localhost:8888/thinkfvm/wp-content/uploads/image-3-220x220.jpg 220w, http://localhost:8888/thinkfvm/wp-content/uploads/image-3-80x80.jpg 80w, http://localhost:8888/thinkfvm/wp-content/uploads/image-3.jpg 425w" sizes="(max-width: 220px) 100vw, 220px" /></a><br />
+If you&#8217;re in the mood for a more seasonally appropriate work environment, also included in that archive is an Autumn color scheme I put together as well, inspired by the foliage outside our offices. Happy coding!</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

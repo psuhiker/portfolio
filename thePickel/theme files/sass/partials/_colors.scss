@@ -1,0 +1,26 @@
+.bg {
+	&--green {
+		background-color: $pwd-green;
+	}
+	&--blue {
+		background-color: $pwd-blue;
+	}
+	&--orange {
+		background-color: $pwd-orange;
+	}
+}
+
+.color {
+	&--white {
+		color: $white;
+	}
+	&--green {
+		color: $pwd-green;
+	}
+	&--blue {
+		color: $pwd-blue;
+	}
+	&--orange {
+		color: $pwd-orange;
+	}
+}

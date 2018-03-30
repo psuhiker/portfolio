@@ -1,0 +1,55 @@
+.btn {
+    @include transition($default-transition);
+    border: none;
+    color: $navy;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding: $padding-xs $padding-lg;
+    &:hover {
+        @include transition($default-transition);
+        box-shadow: $default-box-shadow;
+    }
+    &-red {
+        background-color: $red;
+        color: $white;
+        &:hover {
+            color: $white;
+        }
+        &:focus {
+            color: $white;
+        }
+    }
+    &-white {
+        background-color: $pearl-white;
+        .marquee.red &, .banner.red & {
+            font-weight: 700;
+        }
+        
+        &:hover {
+            background-color: $pearl-white;
+        }
+        &:focus {
+            background-color: $pearl-white;
+        }
+    }
+    &-blue {
+        background-color: $navy;
+        color: $white;
+        &:hover {
+            color: $white;
+        }
+    }
+    &-submit {
+      @extend .btn;
+      background-color: $red;
+      border-radius: 5px;
+      padding: $padding-sm $padding-xl;
+      color: white;
+      &:hover {
+        color: $white;
+        @include transition($default-transition);
+        box-shadow: $default-box-shadow;
+      }
+    }
+}
+

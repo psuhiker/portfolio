@@ -1,0 +1,54 @@
+#intro {
+    background-color: $orange;
+    color: $white;
+    .work & {
+        background-color: $light-grey;
+    }
+    .services & {
+        background-color: $light-grey;
+    }
+    .headline {
+        color: $white;
+        .work & {
+            color: $dark-grey;
+        }
+        .services & {
+            color: $black;
+        }
+        @media all and (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+            font-size: 2.5em;
+            .contact & {
+            	font-size:  1.5em;
+            }
+        }
+    }
+    .content {
+        position: absolute;
+        bottom: 2vw;
+        left: 2vw;
+        right: 2vw;
+        @media all and (max-width: $screen-xs-max) {
+            position: relative;
+            width: 96vw;
+        }
+        a {
+            color: $dark-grey;
+            font-weight: 700;
+            text-decoration: underline;
+            &:hover {
+                text-decoration: none;
+            }
+        }
+        .plain {
+            a {
+                color: $white;
+                font-weight: 100;
+            }
+        }
+    }
+    @media all and (max-width: $screen-xs-max) {
+        .outer {
+        	padding-top: 50%;
+        }
+    }
+}

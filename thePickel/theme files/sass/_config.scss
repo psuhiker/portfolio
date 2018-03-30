@@ -1,0 +1,23 @@
+// Import Modules
+
+@import "modules/all";
+
+// Global Variables Defined Here
+
+html {
+	overflow-x: hidden;
+}
+
+body {
+    font-family: $font-default !important;
+	font-weight: 100;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    cursor: pointer !important;
+}

@@ -1,0 +1,358 @@
+.scroll-stop {
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+        overflow:hidden;
+    }
+}
+
+.tax-payer-portal {
+    margin-right: -30px;
+    margin-left: $margin-default;
+    a {
+        color: $white;
+        background-color: $navy;
+    }
+    .bg--light-blue a {
+        background-color: $carolina-blue !important;
+    }
+}
+
+.navigation {
+    &--primary {
+        @include transition($quick-transition);
+        font-size: $font-size-sm;
+        text-transform: uppercase;
+        font-weight: 600;
+        position: absolute;
+        bottom: 30px;
+        right: $padding-default;
+        .sticky & {
+            @include transition($quick-transition);
+            bottom: 20px;
+        }
+        @media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+            bottom: 20px;
+            .sticky & {
+            	bottom:  10px;
+            }
+        }
+        @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+            position: relative;
+            bottom: 25px;
+            .sticky & {
+            	bottom:  50px;
+            }
+        }
+        @media (max-width: $screen-xs-max) {
+            position: relative;
+            bottom: 160px;
+        }
+        a {
+            text-align: right;
+            color: $navy;
+            padding: 0 $padding-default !important;
+            @media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+                font-size: 0.75em;
+            }
+        }
+        ul {
+            @media (max-width: $grid-float-breakpoint-max) {
+                position: relative;
+                background-color: $white;
+                top: 0;
+                right: 0;
+                bottom: 0;
+                left: 0;
+                overflow: scroll;
+            }
+            @media (max-width: $screen-xs-max) {
+            	width: 80% !important;
+            }
+            @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+                width: 90% !important;
+            }
+            > li {
+                &.current-menu-parent, &.active {
+                    > a {
+                        color: $red !important;
+                    }
+                }
+                @media (max-width: $screen-sm-max) {
+                    clear: both;
+                }
+                a {
+                    @media (max-width: $grid-float-breakpoint-max) {
+                        text-align: left;
+                    }
+                    &:before {
+                        @include transition($slow-transition);
+                        @include rotate(15deg);
+                        border-left: 1px solid transparent;
+                        display: block;
+                        content: " ";
+                        width: 5px;
+                        white-space: pre;
+                        position: absolute;
+                        left: 50%;
+                        top: -3px;
+                        bottom: -3px;
+                        @media (max-width: $grid-float-breakpoint-max) {
+                            display: none;
+                        }
+                    }
+                    &:after {
+                        @include transition($slow-transition);
+                        @include rotate(15deg);
+                        border-right: 1px solid transparent;
+                        display: block;
+                        content: " ";
+                        width: 5px;
+                        white-space: pre;
+                        position: absolute;
+                        right: 50%;
+                        top: -3px;
+                        bottom: -3px;
+                        @media (max-width: $grid-float-breakpoint-max) {
+                            display: none;
+                        }
+                    }
+                }
+                &:hover {
+                    a {
+                        &:before {
+                            @include transition($slow-transition);
+                            border-color: $carolina-blue;
+                            left: 0;
+                        }
+                        &:after {
+                            @include transition($slow-transition);
+                            border-color: $carolina-blue;
+                            right: 0;
+                        }
+                    }
+                }
+                ul {
+                    @media (max-width: $grid-float-breakpoint-max) {
+                        top: 0;
+                    }
+                    > li {
+                        float: none;
+                        width: 100%;
+                        a {
+                        	@include transition($default-transition);
+                        	text-align: left;
+                        	background-color: rgba($foggy-blue,0.85);
+                        	padding: $padding-xs $padding-default !important;
+                        	display: block;
+                            &:hover {
+                                @include transition($default-transition);
+                                background-color: rgba($foggy-blue,1);
+                            }
+                            &:before {
+                                display: none;
+                            }
+                            &:after {
+                                display: none;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    &--utility {
+        display: block;
+        float: right;
+        margin-top: 20px;
+        padding-right: 10px;
+        .sticky & {
+            margin-top: 0;
+        }
+        @media (max-width: $grid-float-breakpoint-max) {
+            display: none;
+        }
+        @media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+            margin-top: 10px;
+        }
+        @media (min-width: $screen-lg) {
+            padding-right: 30px;
+        }
+        li {
+            margin-left: $margin-default;
+        }
+        
+        a {
+            @include transition($quick-transition);
+            @include border-radius($default-border-radius);
+            .sticky & {
+                @include transition($quick-transition);
+                font-size: 8pt;
+                padding: 0px 10px !important;
+            }
+        }
+    }
+}
+
+#menu-utility-navigation {
+    .menu-item {
+        @include transition($default-transition);
+        @include border-radius($default-border-radius);
+        background-color: $navy;
+        font-size: $font-size-default;
+        text-transform: uppercase;
+        &:hover {
+            @include transition($default-transition);
+            box-shadow: $light-box-shadow;
+        }
+        &.bg--light-blue {
+            background-color: $steel-blue !important;
+        }
+    }
+    a {
+        color: $white;
+        padding: $padding-xs $padding-lg;
+        letter-spacing: $small-letter-spacing;
+        @media (min-width: $screen-sm-min) and (max-width: $screen-md-max) {
+            font-size: 0.65em;
+            padding-top: $padding-xs * 0.5;
+            padding-bottom: $padding-xs * 0.5;
+        }
+    }
+}
+
+#menu-main-navigation {
+    width: 100%;
+    justify-content: space-between;
+    @media (max-width: $grid-float-breakpoint-max) {
+        flex-direction: column;
+        margin-top: 175px;
+        font-size: $font-size-default;
+        right: 0px;
+    }
+    @media (max-width: $screen-xs-max) {
+    	left: 70px;
+    }
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+        left: 40px;
+        margin-top: 50px;
+        .sticky & {
+        	margin-top: 75px;
+        }
+    }
+    > li {
+        @media (max-width: $grid-float-breakpoint-max) {
+        	margin-bottom: $margin-default;
+        }
+    }
+}
+
+@media (max-width: $grid-float-breakpoint-max) {
+    .navbar-header {
+        position: relative;
+        z-index: 11;
+    }
+}
+
+#navbar-collapse-primary {
+    float: right;
+    @media (max-width: $grid-float-breakpoint-max) {
+        float: none;
+    }
+    @media (min-width: $screen-md-min) and (max-width: $screen-md-max) {
+        right: -15px;
+        position: relative;
+    }
+    @media screen and (max-width: $screen-sm) {
+        margin: 0px (-$margin-default) 0px (-$margin-default);
+    }
+}
+
+#menu-mobile-navigation {
+    width: 100%;
+    flex-direction: column;
+}
+
+.nav>li>a:hover, .nav>li>a:focus,.dropdown-menu>li>a:hover, .dropdown-menu>li>a:focus {
+    background-color: transparent;
+    color: $red;
+}
+
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+    display: block;
+}
+
+.navbar-nav {
+    li {
+        a {
+            letter-spacing: $small-letter-spacing;
+        }
+    }
+}
+
+.dropdown-menu {
+    box-shadow: none;
+    border: none;
+    background-color: transparent;
+    @media (max-width: $grid-float-breakpoint-max) {
+        position: relative;
+        display: block;
+        width: 100%;
+        margin-bottom: $margin-sm;
+    }
+    li {
+        float: left;
+        @media (max-width: $grid-float-breakpoint-max) {
+            float: none;
+        }
+        &:last-child a {
+            @include bottom-border-radius($default-border-radius);
+        }
+        &.active a {
+            background-color: rgba($foggy-blue,0.85);
+            color: $red;
+            font-weight: 700;
+            &:hover {
+                background-color: rgba($foggy-blue,1);
+            }
+        }
+        a {
+            color: $steel-blue;
+            font-size: $font-size-sm;
+            padding: 3px 15px;
+            @media (max-width: $grid-float-breakpoint-max) {
+                background-color: transparent !important;
+                text-align: left;
+                display: block;
+            }
+        }
+    }
+}
+
+.icon-bar {
+    background-color: $navy;
+}
+
+.navbar-toggle {
+    position: absolute;
+    right: 0px;
+    top: 50px;
+    z-index: 1;
+    @media (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+        top: -85px;
+        .sticky & {
+            top:  -25px;
+        }
+    }
+}
+
+#menu-footer-navigation {
+    padding: 0px;
+    list-style: none;
+    @include content-columns(2);
+    .menu-item {
+        padding: 5px 0px;
+        text-transform: unset;
+        a {
+            color: $red;
+        }
+    }
+}

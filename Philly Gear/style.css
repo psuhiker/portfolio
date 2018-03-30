@@ -1,0 +1,452 @@
+@import "css/bootstrap.min.css";
+@import url("https://use.typekit.net/aqn1bga.css");
+
+/* Default Font Sizes
+
+    xxl - 42pt
+    xl - 34pt
+    lg - 18pt
+    md - 16pt
+    default 14pt
+    sm 12pt
+    xs - 9pt
+    
+*/
+
+/* Sections */
+
+#header {
+    padding: 20px 0px;
+}
+
+    #header .logo img {
+        height: 50px;
+        width: auto;
+    }
+    
+#message {
+    padding: 50px 0px;
+    background-color: #56565b;
+    color: #fff;
+}
+
+    #message h2 {
+        font-size: 34pt;
+        text-transform: uppercase;
+        margin-top: 0px;
+        font-weight: 700;
+        line-height: 1.25em;
+    }
+
+#marquee {
+	padding: 50px 0px;
+    background-color: #000;
+    height: 650px;
+    position: relative;
+}
+
+    @media all and (max-width: 767px) {
+        #marquee {
+            height: 50vh;
+        }
+    }
+    
+    @media all and (min-width: 1450px) {
+        #marquee {
+            height: 46.5vw;
+        }
+    }
+    
+    #marquee .marquee-bg {
+        background-image: url(images/marquee-20180220.jpg);
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0px;
+        background-size: auto 100%;
+        background-position: bottom center;
+        background-repeat: no-repeat;
+    }
+    
+    #marquee .marquee-gif {
+        background-image: url(images/marquee-animation-20180220.gif);
+        position: absolute;
+        width: 100%;
+        height: 14.722617%;
+        bottom: 0px;
+        background-size: auto 100%;
+        background-position: bottom center;
+        background-repeat: no-repeat;
+    }
+    
+        @media all and (max-width: 767px) {
+            #marquee .marquee-bg {
+                background-position: 80% 100%;
+            }
+            #marquee .marquee-gif {
+                background-position: 80% 100%;
+            }
+        }
+    
+        @media all and (min-width: 768px) and (max-width: 1199px) {
+            #marquee .backgrounds {
+                opacity: 0.5;
+            }
+        }
+        
+        @media all and (min-width: 1200px) {
+            #marquee .backgrounds {
+                opacity: 0.75;
+            }
+        }
+        
+        @media all and (min-width: 1400px) {
+            #marquee .marquee-bg {
+                background-size: 100% auto;
+            }
+            #marquee .marquee-gif {
+                background-size: 100% auto;
+            }
+        }
+        
+    #marquee h1 {
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 42pt;
+    }
+    
+    #marquee h2 {
+        color: #f89829;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 42pt;
+    }
+    
+        @media all and (max-width: 767px) {
+            #marquee h1, #marquee h2 {
+                display: none;
+            }
+        }
+        
+#marqueeText {
+    display: none;
+    background-color: #000;
+    padding: 50px 0px;
+}
+
+    @media all and (max-width: 767px) {
+        #marqueeText {
+            display: block;
+        }
+    }
+    
+    #marqueeText h1 {
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 26pt;
+    }
+    
+    #marqueeText h2 {
+        color: #f89829;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: 26pt;
+    }
+
+#peace .left {
+    background-size: cover;
+    background-position: center;
+    background-image: url(images/neon-animation-20180221.gif);
+    background-color: #000;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+    @media all and (max-width: 767px) {
+        #peace .left {
+            height: 50vh;
+            width: 100%;
+        }
+    }
+    
+    @media all and (min-width: 768px) {
+        #peace .left {
+            background-size: cover;
+        }
+    }
+    
+#peace .right {
+    background-color: #f8982a;
+    padding: 100px 0px;
+}
+
+    @media all and (max-width: 767px) {
+        #peace .right {
+            padding-top: 50px;
+            padding-bottom: 50px;
+        }
+    }
+    
+    @media all and (min-width: 1200px) {
+        #peace .right {
+            font-size: 16pt;
+            line-height: 1.35em;
+            padding: 120px 0px;
+        }
+    }
+    
+    #peace .right p {
+        margin-bottom:  30px;
+    }
+    
+        #peace .right p:last-child {
+            margin-bottom: 0px;
+        }
+    
+    #restEasy {
+    padding: 60px 0px;
+    background-color: #dfe1e0;
+}
+
+    #restEasy h2 {
+        font-size: 34pt;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin-bottom: 50px;
+    }
+    
+#brands {
+    padding: 40px 0px 30px 0px;
+}
+
+    #brands .gears {
+        text-transform: uppercase;
+        font-size: 10pt;
+        color: #56565c;
+        font-weight: 100;
+        letter-spacing: 0.125em;
+        margin-bottom: 60px;
+    }
+    
+        #brands .gears img {
+            vertical-align: -8px;
+        }
+        
+    #brands .brand {
+        margin-bottom: 50px;
+    }
+    
+#contact {
+    padding: 50px 0px;
+    background-color: #56565b;
+    color: #fff;
+}
+
+#services {
+    padding: 50px 0px;
+    background-color: #f89829;
+}
+
+    #services h3 {
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 18pt;
+        letter-spacing: 0.025em;
+        font-weight: 700;
+        margin-bottom: 50px;
+        margin-top: 0px;
+    }
+    
+    #services .icon {
+        font-weight: 700;
+        font-size: 16pt;
+        margin-bottom: 20px;
+        padding-left: 40px;
+        background-size: 24px;
+        background-repeat: no-repeat;
+        background-position: center left;
+    }
+    
+        @media all and (max-width: 991px) {
+            #services .icon {
+                background-position: top left;
+            }
+        }
+        
+            #services .icon.electric {
+            background-image: url(images/icon-electric.png);
+        }
+        
+        #services .icon.gear {
+            background-image: url(images/icon-gear.png);
+        }
+        
+        #services .icon.bearing {
+            background-image: url(images/icon-bearing.png);
+        }
+        
+    #services ul {
+        padding-left: 20px;
+    }
+    
+        @media all and (max-width: 991px) {
+            #services ul {
+                margin-bottom: 40px;
+            }
+        }
+        
+        #services ul li {
+            font-size: 12pt;
+            line-height: 1.25em;
+            margin-bottom: 10px;
+            padding-left:  20px;
+        }
+    
+#form {
+    padding: 50px 0px;
+}
+
+    #form h2 {
+        font-size: 34pt;
+        text-transform: uppercase;
+        margin-top: 0px;
+        margin-bottom: 40px;
+        font-weight: 700;
+        line-height: 1.25em;
+    }
+    
+    #form p {
+        margin-bottom: 40px;
+    }
+    
+    .e2ma_signup_form {
+        width: 100% !important;
+    }
+    
+    .e2ma_signup_form_label {
+        text-transform: uppercase;
+        font-size: 9pt !important;
+        color: #393536 !important;
+        font-weight: 100 !important;
+    }
+    
+    .e2ma_signup_form_required_asterix {
+    	color: #393536 !important;
+    }
+    
+    .e2ma_signup_form input[type=text], 
+    .e2ma_signup_form input[type=email], 
+    .e2ma_signup_form textarea, 
+    .e2ma_signup_form select[multiple=multiple] {
+        border: 1px solid #eff0f0 !important;
+        background-color: #f4f4f4;
+        width: 100%;
+        padding: 10px !important;
+        -moz-box-shadow: inset 0 0 10px #ebecec;
+        -webkit-box-shadow: inset 0 0 10px #ebecec;
+        box-shadow: inset 0 0 10px #ebecec;
+        font-size: 16pt !important;
+        height: 45px !important;
+        margin-bottom: 10px;
+        transition: all 0.5s;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+    }
+    
+        .e2ma_signup_form input[type=text]:focus, 
+        .e2ma_signup_form input[type=email]:focus, 
+        .e2ma_signup_form textarea:focus, 
+        .e2ma_signup_form select[multiple=multiple]:focus {
+            border: 1px solid #ccc !important;
+            transition: all 0.5s;
+            -webkit-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+        }
+    
+    .e2ma_signup_form_button_row {
+        text-align: center !important;
+        margin-top: 20px !important;
+    }
+    
+    .e2ma_signup_form input[type=submit], 
+    .e2ma_signup_form .e2ma_signup_form_button {
+        background-color: #f89829;
+        -webkit-border-radius: 5px !important;
+        -moz-border-radius: 5px !important;
+        border-radius: 5px !important;
+        transition: all 0.5s;
+        -webkit-transition: all 0.5s;
+        -moz-transition: all 0.5s;
+    }
+    
+        .e2ma_signup_form input[type=submit]:hover, 
+        .e2ma_signup_form .e2ma_signup_form_button:hover {
+            opacity: 0.75;
+            transition: all 0.5s;
+            -webkit-transition: all 0.5s;
+            -moz-transition: all 0.5s;
+        }
+        
+        .e2ma_signup_form input[type=submit]:focus, 
+        .e2ma_signup_form .e2ma_signup_form_button:focus {
+            outline: none;
+        }
+        
+    .e2ma_signup_form_required_footnote {
+        display: none;
+    }
+    
+#footer {
+    padding: 50px 0px;
+    background-color: #918f8f;
+    font-size: 9pt;
+}
+
+    #footer a {
+        color: #fff;
+        text-decoration: underline;
+    }
+    
+        #footer a:hover {
+            color: #fff;
+            text-decoration: none;
+        }
+        
+/* General */
+
+a, a:hover {
+    cursor: pointer !important;
+}
+
+body {
+    font-family: "effra",sans-serif;
+    font-size: 14pt;
+    line-height: 1.5em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.vertical-align .wrapper {
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+
+    .vertical-align .wrapper .content {
+        display: table-cell;
+        height: 100%;
+        vertical-align: middle;
+    }
+
+.row-eq-height {
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	flex-wrap: wrap;
+}
+

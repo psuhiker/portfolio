@@ -1,0 +1,103 @@
+/* Removes Unneeded Items */
+
+.menu-icon-jetpack, 
+.menu-icon-dashboard .wp-submenu, 
+.blavatar, 
+.toplevel_page_jetpack, 
+#collapse-menu, 
+.menu-icon-tools, 
+ul#wp-admin-bar-my-sites-list li .ab-sub-wrapper ul li:nth-child(2), 
+ul#wp-admin-bar-my-sites-list li .ab-sub-wrapper ul li:nth-child(3),
+#contextual-help-link-wrap,
+#toplevel_page_edit-post_type-acf .wp-submenu, #multisite_clone_metabox,
+#wp-admin-bar-epc_purge_menu
+ {
+    display: none !important;
+}
+
+/* Augments Admin Sidebar Menu */
+
+.wp-menu-separator {
+	height:  10px;
+	background-color:  #000;
+	border-top:  1px solid #333;
+	border-bottom:  1px solid #333;
+}
+
+/* Removes Profile Fields */
+
+.user-url-wrap,
+.user-rich-editing-wrap,
+.user-admin-color-wrap,
+.user-comment-shortcuts-wrap,
+.show-admin-bar.user-admin-bar-front-wrap,
+/*#your-profile :nth-child(5),
+#your-profile :nth-child(9),
+#your-profile :nth-child(11),*/
+.user-description-wrap,
+.user-profile-picture,
+.user-nickname-wrap,
+#your-profile h2 {
+    display: none;
+}
+
+/* Ninja Form */
+
+#nf_admin_metaboxes_appendaform {
+    display: none;
+}
+
+/* Custom Fields */
+
+#acf-board_is_officer .label,
+#menu-posts-payments {
+    display: none;
+}
+
+.acf-taxonomy-field .categorychecklist-holder {
+	max-height: 999999px !important;
+	border:  none;
+	padding: 0px;
+}
+
+#acf-member_phone input {
+    width: 200px;
+    float: left;
+}
+
+.post-type-events th#date, 
+.post-type-events tfoot th:nth-child(3), 
+.post-type-events tbody td:nth-child(3) {
+    display: none;
+}
+
+.post-type-payments #minor-publishing,
+.post-type-payments #delete-action,
+.post-type-payments #submitdiv h2,
+.post-type-payments #submitdiv button {
+    display: none;
+}
+
+.post-type-payments #major-publishing-actions {
+    border: none;
+    background: transparent;
+}
+
+.post-type-payments .postbox {
+    border: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    background: transparent;
+}
+
+/* Ninja Forms Updates */
+
+#ninja-forms-paypal-express-update .update-message,
+#ninja-forms-user-management-update .update-message,
+#conditionals-update .update-message {
+    display: none;
+}
+
+.update-plugins .plugin-count {
+	display: none !important;
+}

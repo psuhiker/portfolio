@@ -1,0 +1,53 @@
+[16-Sep-2017 01:50:15 America/Chicago] PHP Warning:  include(TEMPLATEPATH/meta.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[16-Sep-2017 01:50:15 America/Chicago] PHP Warning:  include(TEMPLATEPATH/meta.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[16-Sep-2017 01:50:15 America/Chicago] PHP Warning:  include(): Failed opening 'TEMPLATEPATH/meta.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[16-Sep-2017 01:50:15 America/Chicago] PHP Warning:  include(TEMPLATEPATH/google.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[16-Sep-2017 01:50:15 America/Chicago] PHP Warning:  include(TEMPLATEPATH/google.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[16-Sep-2017 01:50:15 America/Chicago] PHP Warning:  include(): Failed opening 'TEMPLATEPATH/google.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[16-Sep-2017 01:50:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 15
+[18-Sep-2017 11:10:27 America/Chicago] PHP Warning:  include(TEMPLATEPATH/meta.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[18-Sep-2017 11:10:27 America/Chicago] PHP Warning:  include(TEMPLATEPATH/meta.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[18-Sep-2017 11:10:27 America/Chicago] PHP Warning:  include(): Failed opening 'TEMPLATEPATH/meta.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[18-Sep-2017 11:10:27 America/Chicago] PHP Warning:  include(TEMPLATEPATH/google.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[18-Sep-2017 11:10:27 America/Chicago] PHP Warning:  include(TEMPLATEPATH/google.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[18-Sep-2017 11:10:27 America/Chicago] PHP Warning:  include(): Failed opening 'TEMPLATEPATH/google.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[18-Sep-2017 11:10:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 15
+[19-Sep-2017 08:39:11 America/Chicago] PHP Warning:  include(TEMPLATEPATH/meta.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[19-Sep-2017 08:39:11 America/Chicago] PHP Warning:  include(TEMPLATEPATH/meta.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[19-Sep-2017 08:39:11 America/Chicago] PHP Warning:  include(): Failed opening 'TEMPLATEPATH/meta.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[19-Sep-2017 08:39:11 America/Chicago] PHP Warning:  include(TEMPLATEPATH/google.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[19-Sep-2017 08:39:11 America/Chicago] PHP Warning:  include(TEMPLATEPATH/google.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[19-Sep-2017 08:39:11 America/Chicago] PHP Warning:  include(): Failed opening 'TEMPLATEPATH/google.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[19-Sep-2017 08:39:11 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 15
+[19-Sep-2017 23:33:23 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function is_front_page() in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/header.php:6
+Stack trace:
+#0 {main}
+  thrown in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/header.php on line 6
+[02-Oct-2017 19:50:24] PHP Fatal error:  Call to undefined function  is_front_page() in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/header.php on line 6
+[08-Dec-2017 09:31:53 America/Chicago] PHP Warning:  include(TEMPLATEPATH/meta.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[08-Dec-2017 09:31:53 America/Chicago] PHP Warning:  include(TEMPLATEPATH/meta.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[08-Dec-2017 09:31:53 America/Chicago] PHP Warning:  include(): Failed opening 'TEMPLATEPATH/meta.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 1
+[08-Dec-2017 09:31:53 America/Chicago] PHP Warning:  include(TEMPLATEPATH/google.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[08-Dec-2017 09:31:53 America/Chicago] PHP Warning:  include(TEMPLATEPATH/google.php): failed to open stream: No such file or directory in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[08-Dec-2017 09:31:53 America/Chicago] PHP Warning:  include(): Failed opening 'TEMPLATEPATH/google.php' for inclusion (include_path='.:/opt/php70/lib/php') in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 2
+[08-Dec-2017 09:31:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function bloginfo() in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php:15
+Stack trace:
+#0 {main}
+  thrown in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/404.php on line 15
+[08-Feb-2018 11:26:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer() in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/footer.php:81
+Stack trace:
+#0 {main}
+  thrown in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/footer.php on line 81
+[08-Feb-2018 11:26:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function wp_footer() in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/footer.php:81
+Stack trace:
+#0 {main}
+  thrown in /home2/pickelwe/public_html/thepickel/wp-content/themes/pickelwebdesign/footer.php on line 81

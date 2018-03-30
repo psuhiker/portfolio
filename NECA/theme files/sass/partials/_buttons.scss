@@ -1,0 +1,57 @@
+.btn {
+    @include transition($default-transition);
+    @include box-shadow($default-box-shadow);
+	text-transform: uppercase;
+	text-decoration: none !important;
+	padding: $padding-sm $padding-xxl;
+	text-shadow: $default-text-shadow;
+	margin: 0 $margin-default 0 0;
+	@media (max-width: #{$screen-sm-max}) {
+	    padding: $padding-sm $padding-lg * 2;
+	    font-size: $font-size-sm;
+	}
+	&:hover {
+	    @include box-shadow($default-box-shadow-hover);
+	    @include transition($default-transition);
+	    text-shadow: $light-text-shadow;
+	}
+	&:focus {
+	    outline: none;
+	}
+	&-sm {
+	    padding: ($padding-sm / 2) $padding-sm;
+	}
+	&-default {
+		&:hover {
+			background-color: $tertiary-color-1-dark;
+		}
+	}
+	&-primary {
+		&:hover {
+			background-color: $secondary-color-dark;
+		}
+	}
+	&-success {
+	    @include box-shadow(none);
+		padding: $padding-sm $padding-lg;
+		text-shadow: none;
+		&.active {
+		    @include box-shadow(none);
+			background-color: $tertiary-color-1;
+			border-color: $tertiary-color-1;
+			&:hover {
+			    @include box-shadow(none);
+			    background-color: $tertiary-color-1;
+			    border-color: $tertiary-color-1;
+			    pointer-events: none !important;
+			}
+		}
+		&:hover {
+		    @include box-shadow(none);
+			text-shadow: none;
+			background-color: $primary-color-lighter;
+			border-color: $primary-color-lighter;
+			color: $black;
+		}
+	}
+}

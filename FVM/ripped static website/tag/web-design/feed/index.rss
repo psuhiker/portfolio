@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>web design &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/web-design/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Great news for the good online marketers out there</title>
+		<link>http://localhost:8888/thinkfvm/blog/10/14/2013/great-news-for-the-good-online-marketers-out-there/</link>
+		<pubDate>Mon, 14 Oct 2013 15:08:19 +0000</pubDate>
+		<dc:creator><![CDATA[Karen Murphy]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[campaign reporting & analytics]]></category>
+		<category><![CDATA[corporate communications]]></category>
+		<category><![CDATA[digital strategy]]></category>
+		<category><![CDATA[marketing strategy]]></category>
+		<category><![CDATA[search engine marketing]]></category>
+		<category><![CDATA[search engine optimization]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[web development]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=3064</guid>
+		<description><![CDATA[Although I&#8217;m only halfway through a MarketingProfs University &#8220;Search Marketing School&#8221; online seminar (5 courses down, 5 to go!), the overall theme is already becoming very clear: with its newest SEO updates, Google is attempting to penalize over-optimized websites, and reward sites that are user-friendly, nicely designed, and stocked with helpful information for customers and [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>Although I&#8217;m only halfway through a MarketingProfs University &#8220;Search Marketing School&#8221; online seminar (5 courses down, 5 to go!), the overall theme is already becoming very clear: with its newest SEO updates, Google is attempting to penalize over-optimized websites, and reward sites that are user-friendly, nicely designed, and stocked with helpful information for customers and prospects.</p>
+<p>Yay for common-sense marketing to humans! Boo for back-end Search Engine Optimization trickery!</p>
+<p>From what I&#8217;m learning, less emphasis is being placed on excessive link building, keyword stuffing, and meaningless irrelevant content. Instead, things like a quick site load time; a friendly mobile experience; useful, timely multi-media content; quality links; and a strong social presence matter more.</p>
+<p>So, if you&#8217;ve been trying to &#8220;do it right&#8221; all along by creating a user-friendly, nicely designed website that attempts to offer customers and potential customers helpful information – you’re in luck! Way to go, Google.</p>
+<p>Of course, the basic structural back-end geeky web stuff, like proper meta-tagging, 301 redirects, and HTML site maps are still very necessary. (Do you like how I threw those terms around? Lucky for me, I have our awesome web team on hand to translate into English.)</p>
+<p>Next on the list: FINISH the online seminar. Perhaps I&#8217;ll come across some more interesting nuggets to share from the next five courses.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Understanding responsive design</title>
+		<link>http://localhost:8888/thinkfvm/blog/09/17/2013/understanding-responsive-design/</link>
+		<pubDate>Tue, 17 Sep 2013 19:57:38 +0000</pubDate>
+		<dc:creator><![CDATA[Jordy Pickel]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[responsive design]]></category>
+		<category><![CDATA[web design]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=2812</guid>
+		<description><![CDATA[When a client asks us to design a new website, they almost always include a caveat for creating an additional template specific to mobile phones.]]></description>
+				<content:encoded><![CDATA[<p>When a client asks us to design a new website, they almost always include a caveat for creating an additional template specific to mobile phones. Mobile phones of course are surging in popularity — according to Wikipedia, more than 17% of web traffic is performed on a mobile device.</p>
+<p>It&#8217;s true that a lot of mobile phones display websites &#8220;the way they were intended to display&#8221;, but what if that&#8217;s not good enough? What looks good on a big screen doesn&#8217;t always look good on a small one.</p>
+<p>Additionally, creating a mobile-friendly website shouldn&#8217;t mean creating one website for desktop users and another one for mobile users &#8212; that type of practice generally leads to a poor user experience and fractured website content.</p>
+<p>So what&#8217;s the solution? Responsive Design.</p>
+<h2>What is Responsive Design?</h2>
+<p>Responsive Design is a coding methodology that allows for a template to automatically adjust its settings to the width or height of the browser window. This means that the website displays flawlessly in a 320 pixel-wide iPhone or a 1024 pixel-wide desktop. Layouts, font sizes, and column widths can change, but the content stays the same.</p>
+<p>Want to see an example of this? Just adjust your browser window because our website is already built this way. Go ahead, we&#8217;ll wait.</p>
+<p style="text-align: left;">Our website&#8217;s template expands and contracts to fit the user&#8217;s device. For example, a website could have two possible layout arrangements, the latter of which only kicks in if the user is viewing the website on devices smaller than 768 pixels:</p>
+<p><img class="aligncenter" alt="responsive-layout-desktop" src="http://www.thinkfvm.com/wp-content/uploads/responsive-layout-desktop.jpg" width="300" height="228" /> <img class="aligncenter" alt="responsive-layout-mobile" src="http://www.thinkfvm.com/wp-content/uploads/responsive-layout-mobile.jpg" width="149" height="300" /></p>
+<p>In the end, it&#8217;s important to offer up a consistent approach towards web design. Repeat visitors to your website may use an array of devices, and it&#8217;s important that you create a website that looks good on all devices, and still provides the same familiar content they saw the last time they visited.</p>
+<p>The main column in this template would be 66% wide, so it would fit in regular desktop monitors or widescreen desktop monitors accordingly. What about mobile devices? Those columns would be so thin, they wouldn’t really be readable. So we collapse the side-by-side columns so that they’re on top of one another:</p>
+<p>Now, responsive design is a little more complicated than that, but you get the idea. The ultimate point is that your agency should be thinking responsively when building a website. Adjusting for alternative screen resolutions shouldn’t be something that’s thought about after-the-fact.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Attention all browsers: Testing websites in all conditions</title>
+		<link>http://localhost:8888/thinkfvm/blog/08/29/2013/attention-all-browsers-testing-websites-in-all-conditions/</link>
+		<pubDate>Thu, 29 Aug 2013 19:37:02 +0000</pubDate>
+		<dc:creator><![CDATA[Jordy Pickel]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[AB testing]]></category>
+		<category><![CDATA[analytics]]></category>
+		<category><![CDATA[cross browser]]></category>
+		<category><![CDATA[digital strategy]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[web development]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=2818</guid>
+		<description><![CDATA[Designers all too often understand the frustration of having so many web browsers.]]></description>
+				<content:encoded><![CDATA[<p>Designers all too often understand the frustration of having so many web browsers. A beautiful looking website works great on modern web browsers like Safari, Firefox, and Chrome, but performs horridly in older versions of Internet Explorer. So what’s the solution? Cross browser testing.</p>
+<p>The web is evolving, pretty much every minute of every day. Web browsers are constantly updating their programs to accommodate for new technologies and pushing out updates to their software on a regular basis. Unfortunately that leaves designers and coders at the mercy of their users, some of whom may not have or cannot update to more savvy HTML5 browsers. So cross browser testing is an important step in the development process.</p>
+<p>Cross browser testing is exactly what it sounds like. You look at a coded website in one browser, click all the links, view all the page templates, and make sure that everything looks and works as expected. It gets tedious sometimes. There are tools to help you along the way, probably the best is <a href="http://www.crossbrowsertesting.com/" target="_blank">http://www.crossbrowsertesting.com/</a>.</p>
+<p>This monthly subscriptions service provides remote machine access to dozens of web browser platforms old and new. Their screenshot feature allows you to submit a URL and automatically scan and save images of your website’s layout in every browser you choose. You can also use their live testing method to select an operating system and web browser to actively navigate a website’s functionality.</p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>Using full-bleed photography to make websites pop</title>
+		<link>http://localhost:8888/thinkfvm/blog/08/29/2013/using-full-bleed-photography-to-make-websites-pop/</link>
+		<pubDate>Thu, 29 Aug 2013 19:35:40 +0000</pubDate>
+		<dc:creator><![CDATA[Jordy Pickel]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[digital strategy]]></category>
+		<category><![CDATA[full-bleed]]></category>
+		<category><![CDATA[web design]]></category>
+		<category><![CDATA[web development]]></category>
+
+		<guid isPermaLink="false">http://3dot0.fvm.d1.fvm.sc/?p=2820</guid>
+		<description><![CDATA[If you haven’t noticed already, this website is filled with full-bleed photography.]]></description>
+				<content:encoded><![CDATA[<p>If you haven’t noticed already, this website is filled with full-bleed photography. Just see <a title="Home" href="/" target="_blank">here</a>, <a title="Work" href="/work/" target="_blank">here</a>, <a title="Jordy Pickel" href="/people/jordy-pickel/" target="_blank">here</a>, <a title="About" href="/about/" target="_blank">here</a>, and <a title="Contact" href="/contact/" target="_blank">here</a>. This type of coding process allows for hi-resolution images to expand or contract to the frame’s width, resulting in a flawless edge to edge look. There are of course, some things to watch out for:</p>
+<h3>1. Have really nice images</h3>
+<p>If your photos are hi-resolution, there’s little point in stuffing your design with full-bleed photos. You have to allow for the image to expand to some of the largest browser sizes. On a typical desktop, that could 1,500 pixels wide. New computers such as the MacBook with Retina display or the new iPad have two times the screen resolution as they used to. That means that a standard 1,024 x 768 iPad actually has a resolution of 2,048 x 1,536 pixels.</p>
+<p>On our website we use images that are 2,400 pixels wide. For now, that’s probably enough to look good on most every device. However, as resolutions standards continue to increase, the max image size is probably going to have to go up.</p>
+<h3>2. Use CSS to format images, not JavaScript</h3>
+<p>Cascading Style Sheets (CSS) are code documents that tell your website how to look. It controls column width, typography, colors, and image effects. JavaScript on the other hand is a script that&#8217;s loaded as the page loads, and can alter the look and feel of a website. JavaScript isn&#8217;t horrible in this scenario, but CSS is just an easier way to go.</p>
+<p>To allow for images to expand and contract to their frame, just indicate the image&#8217;s full width:</p>
+<pre>img { width: 100%; height: auto; }</pre>
+<p>This will adjust the image&#8217;s width to 100% of the container it&#8217;s in, and adjust the height proportionally. If you wanted to make the image &#8220;bleed&#8221; off the page (go 100% of the width while <em>also</em> going 100% of the height) you&#8217;ll want to place the image as a background image. In that scenario, you would indicate that the background image have a cover effect:</p>
+<pre>div { background-image: url(imagepath.jpg); background-size: cover; }</pre>
+<p>This adjusts the background image to fit both horizontally and vertically in the container you specify. If the image is a wide one, it will expand to 100% of the frame&#8217;s height and the sides of them image would be cut off. If it were a skinny image, the width would expand to 100% and the top and bottom would be cut off.</p>
+<p>This is of course not an exact science; you website&#8217;s design will look slightly different according to the user&#8217;s browser size. However, with the proper background images, it can look really nice.</p>
+<h3>3. Understand that not all browsers are your friend</h3>
+<p>As is the case with most HTML5 techniques, image resizing doesn&#8217;t always work in every browser. Namely, Internet Explorer 7 and 8. Rather than loading in a separate page or image for those specific browsers, you can fix their deficiencies with <a href="http://www.modernizr.com" target="_blank">Modernizr</a> or using a <a href="https://github.com/louisremi/background-size-polyfill" target="_blank">Polyfill</a>. Always cross browser check!</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

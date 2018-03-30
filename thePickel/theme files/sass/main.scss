@@ -1,0 +1,15 @@
+// Import Config
+@import "config";
+
+// Import Bootstrap
+@import "vendors/materialize-src/sass/materialize";
+
+// Import Partials
+@import "partials/colors";
+@import "partials/contact";
+@import "partials/elements";
+@import "partials/footer";
+@import "partials/header";
+@import "partials/modal";
+@import "partials/sections";
+@import "partials/typography";

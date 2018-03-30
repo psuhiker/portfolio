@@ -1,0 +1,40 @@
+// Import Modules
+
+@import "modules/all";
+
+// Global Variables Defined Here
+
+body {
+    font-family: $default-font !important;
+    font-size: $font-size-default !important;
+    letter-spacing: $default-letter-spacing;
+    color: $slate-gray;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    cursor: pointer;
+}
+
+[data-toggle="modal"]:focus,
+[data-dismiss="modal"]:focus {
+    outline: none;
+}
+
+// Locations Page Overrides
+
+.locations section.text:nth-child(5) {
+    text-align: center;
+    width: inherit;
+    margin: 0 auto;
+    h3 {
+        font-size: 2em;
+    }
+    h4 {
+        font-size: 1.25em;
+    }
+}

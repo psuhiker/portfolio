@@ -1,0 +1,144 @@
+.main a {
+    @include transition($link-transition);
+    color: $gold;
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+    outline: none;
+    white-space: nowrap;
+    vertical-align: bottom;
+    &:before {
+        @include transition($link-transition);
+        position: absolute;
+        top: -4px;
+        right: -4px;
+        bottom: -4px;
+        left: -4px;
+        z-index: -1;
+        background: $misty-white;
+        content: '';
+        -webkit-transform: scaleY(0.618) translateX(-100%);
+        transform: scaleY(0.618) translateX(-100%);
+        .basicMarquee & {
+            background: $white !important;
+        }
+    }
+    &:hover {
+        @include transition($link-transition);
+        text-decoration: none;
+        color: $gold;
+        &:before {
+            -webkit-transform: scaleY(0.618) translateX(0);
+            transform: scaleY(0.618) translateX(0);
+        }
+    }
+    &:focus {
+        @include transition($link-transition);
+        text-decoration: none;
+        color: $gold;
+    }
+}
+
+.main .link {
+    &--bars {
+        @include transition($link-transition);
+        color: $navy;
+        text-transform: uppercase;
+        font-weight: 700;
+        font-size: $font-size-sm;
+        padding: 0;
+        background: transparent;
+        outline: none !important;
+        position: relative;
+        display: inline-block;
+        margin: 0 0 $margin-xl 0;
+        white-space: nowrap;
+        height: 40px;
+        line-height: 42px;
+        text-align: center;
+        border: none;
+        &:before {
+            position: absolute;
+            content: "";
+            left: auto;
+            bottom: 0;
+            right: -4px;
+            top: 0;
+            background: #e9b944;
+            transition: all 0.3s ease;
+            height: 0%;
+            width: 4px;
+            -webkit-transform: scaleY(1) translateX(-100%);
+            transform: scaleY(1) translateX(-100%);
+            z-index: 1;
+        }
+        &:after {
+            position: absolute;
+            content: "";
+            right: 0;
+            top: 0;
+            background: #e9b944;
+            transition: all 0.3s ease;
+            width: 50%;
+            height: 4px;
+        }
+        span {
+            position: relative;
+            display: block;
+            width: 100%;
+            height: 100%;
+            padding: 0 $padding-xl;
+            &:before {
+                @include transition($link-transition);
+                position: absolute;
+                content: "";
+                left: 0;
+                bottom: 0;
+                background: $gold;
+                width: 4px;
+                height: 0%;
+            }
+            &:after {
+                @include transition($link-transition);
+                position: absolute;
+                content: "";
+                left: 0;
+                bottom: 0;
+                background: $gold;
+                width: 50%;
+                height: 4px;
+            }
+        }
+        &:hover {
+            color: $navy;
+            text-decoration: none;
+            &:before {
+                height: 100%;
+                left: auto;
+                top: 0;
+                bottom: 0;
+                right: -4px;
+                -webkit-transform: scaleY(1) translateX(-100%);
+                transform: scaleY(1) translateX(-100%);
+            }
+            &:after {
+                width: 100%;
+            }
+            span {
+                &:before {
+                    height: 100%;
+                }
+                &:after {
+                    width: 100%;
+                }
+            }
+        }
+        &--white {
+            @extend .link--bars;
+            color: $white;
+            &:hover {
+                color: $white;
+            }
+        }
+    }
+}

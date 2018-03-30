@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>creative workshop &#8211; FVM</title>
+	<atom:link href="http://localhost/thinkfvm/tag/creative-workshop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://localhost:8888/thinkfvm</link>
+	<description>B2B Marketing and Advertising Agency in Philadelphia</description>
+	<lastBuildDate>Mon, 26 Mar 2018 16:26:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.4</generator>
+	<item>
+		<title>Fail harder</title>
+		<link>http://localhost:8888/thinkfvm/blog/05/08/2013/fail-harder/</link>
+		<pubDate>Wed, 08 May 2013 19:35:25 +0000</pubDate>
+		<dc:creator><![CDATA[FVM]]></dc:creator>
+				<category><![CDATA[Everything]]></category>
+		<category><![CDATA[Insights]]></category>
+		<category><![CDATA[advertising]]></category>
+		<category><![CDATA[art direction]]></category>
+		<category><![CDATA[Brand Identity]]></category>
+		<category><![CDATA[creative workshop]]></category>
+		<category><![CDATA[education]]></category>
+
+		<guid isPermaLink="false">http://www.thinkfvm.com/?p=2546</guid>
+		<description><![CDATA[Wieden + Kennedy 12, an experimental advertising school run by Portland ad agency W+K, has taught us a valuable lesson in what it means to succeed.]]></description>
+				<content:encoded><![CDATA[<p>Wieden + Kennedy 12, an experimental advertising school run by Portland ad agency W+K, has taught us a valuable lesson in what it means to succeed.</p>
+<p><img class="size-full wp-image-2548 aligncenter" alt="art_and_copy (1)" src="http://www.thinkfvm.com/wp-content/uploads/2013/06/art_and_copy-1.jpg" width="480" height="270" /></p>
+<p>These guys took failure to a whole new level when they bought out all available clear push pins on the west coast in 2006. Over 100,000 thumbtacks were used during a 351 hour period to create a wall mural that spells out Fail Harder, a message that underlines the importance of failure during the creative process.</p>
+<p><strong>Note:</strong> The background is made of push pins. &#8220;The easy way would have been to do the lettering as push pins and leave the wall blank. They chose the hard way. It&#8217;s a perfectly executed concept,&#8221; says David Kennedy of Wieden+Kennedy. &#8220;It&#8217;s like Babe Ruth trying to hit a homerun. If you miss, you miss, but at least you swung the bat as hard as you could.&#8221;</p>
+<p>As cool as this mural is, this wasn&#8217;t the first time W+K used the idea of failure as motivation. Check out their <a href="http://www.youtube.com/watch?v=SlX1S8mJrIQ">1999 Nike ad</a> featuring the one &amp; only, Michael Jordan.</p>
+]]></content:encoded>
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,60 @@
+.frame {
+    text-align: left;
+    padding: $padding-default;
+    margin: 0 auto;
+    /*@media (max-width: #{$screen-sm-max}) {
+        width: 90vw;
+    }
+    @media (min-width: #{$screen-md-min}) and (max-width: #{$screen-md-max}) {
+        width: 80vw;
+    }
+    @media (min-width: #{$screen-lg-min}) {
+        width: 60vw;
+    }*/
+    &--email {
+        @extend .frame;
+        @include box-shadow($default-box-shadow);
+        background-color: $white;
+        background-color: $light-blue;
+        .input {
+            padding: 0;
+            margin: $margin-default 0 $margin-default 0;
+            width: 100%;
+            font-weight: 100;
+            font-size: $font-size-default;
+            font-family: $body-font;
+            display: inline;
+            float: left;
+            background-color: transparent;
+            .label {
+                color: $black;
+                font-size: $font-size-default;
+                padding: 0;
+            }
+            &-invisible {
+                @extend .input;
+                @include box-shadow(none);
+                background-color: transparent;
+                padding: 0 0 $padding-xs $padding-xs;
+                margin-bottom: 0;
+                &:hover {
+                    cursor: default;
+                }
+            }
+            &-textarea {
+                font-family: $body-font;
+                padding: $padding-default;
+                left: 0;
+                top: 0;
+            }
+        }
+        a {
+            color: blue;
+            text-decoration: none;
+            pointer-events: none;
+        }
+        .link {
+            word-wrap: break-word;
+        }
+    }
+}

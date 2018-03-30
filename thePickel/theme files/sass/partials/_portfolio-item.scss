@@ -1,0 +1,146 @@
+#portfolio-item {
+	font-size: $font-size-md;
+	h1, h2 {
+		text-transform: lowercase;
+	}
+	.fade {
+		@include transition($slow-transition);
+		opacity: 0;
+		&.visible {
+			@include transition($slow-transition);
+			opacity: 1;
+		}
+	}
+	.title {
+		height: 100vh;
+		width: 100vw;
+		background-size: cover;
+		background-position: center;
+		color: $white;
+		.headline {
+			padding: $padding-xl $padding-default;
+			background-color: rgba($pwd-darkblue, 0.95);
+			@media all and (max-width: $screen-xs-max) {
+				font-size: 1.75em;
+			}
+		}
+		.center-align {
+			@include transition($default-transition);
+		}
+	}
+	.intro {
+		padding: $padding-xxl 0;
+	}
+	.images {
+		.image {
+			&--full {
+				position: relative;
+				background-color: $pwd-green;
+				padding: $padding-xxl 0;
+				&.parallax {
+					padding: 0;
+					.image {
+						@include transition($default-transition);
+						background-attachment: fixed;
+						height: 100vh;
+						width: 100vw;
+						margin: 0;
+						background-size: cover;
+						overflow: hidden;
+						position: relative;
+						background-position: center;
+						@media all and (max-width: $screen-md-max) {
+							.touchevents & {
+								background-attachment: scroll;
+							}
+						}
+					}
+					img {
+						display: none;
+					}
+					.padding {
+						display: none;
+					}
+				}
+				.padding {
+					padding: ($padding-default + 5px);
+					img {
+						width: 100%;
+						height: auto;
+						box-shadow: $heavy-box-shadow;
+					}
+					.caption {
+						right: 4vw;
+						bottom: $padding-xl;
+						margin-bottom: 1.5vw;
+						color: $white;
+						text-shadow: $default-text-shadow;
+					}
+				}
+			}
+			&--bordered {
+				position: relative;
+				margin-left: -2px;
+				margin-right: -2px;
+				.image {
+					height: 50vh;
+					/*border: 2px solid $white;*/
+					background-size: cover;
+					background-position: center;
+				}
+			}
+			&--triplebordered {
+				position: relative;
+				margin-left: -2px;
+				margin-right: -2px;
+				.image {
+					height: 50vh;
+					/*border: 2px solid $white;*/
+					background-size: cover;
+					background-position: center;
+				}
+			}
+		}
+		.caption {
+			position: absolute;
+			bottom: 0;
+			right: 0;
+			font-family: $font-section;
+			font-weight: 700;
+		}
+	}
+	.copy {
+		padding: $padding-xxl 0;
+		display: block;
+		.col {
+			height: 100%;
+		}
+		ul {
+			font-size: $font-size-default;
+			margin: $margin-lg 0 0 0;
+			@media all and (min-width: $screen-sm-min) and (max-width: $screen-sm-max) {
+			    columns: 2;
+			    -moz-columns: 2;
+			    -webkit-columns: 2;
+			}
+			@media all and (min-width: $screen-md-min) {
+			    columns: 3;
+			    -moz-columns: 3;
+			    -webkit-columns: 3;
+			}
+			li {
+				margin: 0 0 $margin-sm 0;
+				padding: 0 0 0 0;
+				position: relative;
+				left: 20px;
+				&:before {
+					content: "-";
+					margin: 0 $margin-sm 0 0;
+					display: inline-block;
+					position: absolute;
+					left: -14px;
+				}
+			}
+		}
+	}
+}
