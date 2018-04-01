@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+
+<!--[if lt IE 7 ]> <html class="ie ie6 no-js" > <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 no-js" > <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 no-js" > <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js" > <![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" ><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. --><head profile="http://gmpg.org/xfn/11">
+<head>
+
+    <meta charset="utf-8">
+    <title>PestWeb</title>
+    
+    <link href="css/animations/animsition.min.css" rel="stylesheet">
+    <link href="css/style.css" type="text/css" rel="stylesheet">
+    
+</head>
+<body class="home">
+
+    <div id="container">
+    
+        <div class="content">
+        
+            <video controls loop autoplay controls="0">
+                <source src="assets/video/01.mp4" type="video/mp4">
+            </video>
+        
+        </div>
+    
+        <div id="navigation">
+        
+            <div class="controls">
+                <ul>
+                    <!--<li class="restart"><a href="index.html"><span></span>Start Over</a></li>
+                    <li class="previous"><a href="javascript: window.history.go(-1)"><span></span>Prev</a></li>-->
+                </ul>
+            </div>
+            <div class="chapters">
+                <ul>
+                    <!--<li class="find"><span>Find</span></li>
+                    <li class="buy"><span>Buy</span></li>
+                    <li class="know"><span>Know</span></li>-->
+                </ul>
+            </div>
+            <div class="go">
+                <ul>
+                    <li class="go"><a href="02.html"class="animsition-link" data-animsition-out-class="overlay-slide-out-top" data-animsition-out-duration="2000">Go <span></span></a></li>
+                </ul>
+            </div>
+        
+        </div>
+ 
+    </div>
+    
+    <script src="js/jquery.min.js"></script>
+    <script>
+        $(document).ready(function() {
+    		$('.toggle-list').click(function(){
+    			$('.chapter-list').toggleClass('active');
+    			$('.close-chapters').toggleClass('active');
+    		});
+    	});
+    </script>
+    <div style="display: none;">
+        <!--<a href="http://www.google.com" class="previous">previous</a>-->
+        <a href="02.html" class="next">next</a>
+    </div>
+    <script>
+        $(document).ready(function () {
+            $("body").keydown(function(e) {
+              if(e.which == 37) { // left     
+                  $("a.previous").trigger("click");
+              }
+              else if(e.which == 39) { // right     
+                  $("a.next").trigger("click");
+              }
+            });
+            //$("a.previous").on("click",function(){
+                // your scripts for previous click here
+             //   window.location = 'http://www.google.com';  
+            //});
+            $("a.next").on("click",function(){
+                // your scripts for next click here
+                window.location = '02.html';   
+            });
+        });
+    </script>
+    
+</body>
+</html>

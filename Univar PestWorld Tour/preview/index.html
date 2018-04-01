@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <title>PestWeb</title>
+    
+    <link href="../css/animations/animsition.min.css" rel="stylesheet">
+    <link href="../css/style.css" type="text/css" rel="stylesheet">
+    
+</head>
+<body class="home">
+
+    <div id="container">
+    
+        <div class="content">
+        
+            <video controls loop autoplay controls="0">
+                <source src="../assets/video/01.mp4" type="video/mp4">
+            </video>
+        
+        </div>
+    
+        <div id="navigation">
+        
+            <div class="controls">
+                <ul>
+                    <!--<li class="restart"><a href="index.html"><span></span>Start Over</a></li>
+                    <li class="previous"><a href="javascript: window.history.go(-1)"><span></span>Prev</a></li>-->
+                </ul>
+            </div>
+            <div class="chapters">
+                <ul>
+                    <!--<li class="find"><span>Find</span></li>
+                    <li class="buy"><span>Buy</span></li>
+                    <li class="know"><span>Know</span></li>-->
+                </ul>
+            </div>
+            <div class="go">
+                <ul>
+                    <li class="go"><a href="../02.html"class="animsition-link" data-animsition-out-class="overlay-slide-out-top" data-animsition-out-duration="2000">Go <span></span></a></li>
+                </ul>
+            </div>
+        
+        </div>
+ 
+    </div>
+    
+    <script src="../js/jquery.min.js"></script>
+    <script src="../js/animsition.min.js" charset="utf-8"></script>
+    <script>
+        $(document).ready(function() {
+    		$('.toggle-list').click(function(){
+    			$('.chapter-list').toggleClass('active');
+    			$('.close-chapters').toggleClass('active');
+    		});
+    	});
+    </script>
+    
+</body>
+</html>
